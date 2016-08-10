@@ -7,7 +7,7 @@ title:            AnonJr.com
 tagline:          '[Insert witty by-line here]'
 description:      'The personal blog of AnonJr'
 # imageurl:         '/public/tfr.jpg'
-url:              https://blog.anonjr.com
+url:              //blog.anonjr.com
 only_frontmatter_categories: true
 
 author:
