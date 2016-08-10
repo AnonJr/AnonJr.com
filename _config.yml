@@ -38,5 +38,6 @@ exclude:
   - _misc
   - _pretzel
   - deploy.cmd
+  - readme.md
   - .gitignore
   - .git
