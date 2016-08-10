@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Feed Name</title>
+  <link href="http://domain/"/>
+  <link type="application/atom+xml" rel="self" href="http://domain/atom.xml"/>
+  <updated>2016-08-10T12:44:31.1340775-04:00</updated>
+  <id>http://domain/</id>
+  <author>
+    <name>Author</name>
+    <email>Email</email>
+  </author>
+
+  
+  <entry>
+    <id>http://domain//archive/2013/06/19/ASP-Ajaxed-2.1.1_-Finding-my-feet/</id>
+    <link type="text/html" rel="alternate" href="http://domain//archive/2013/06/19/ASP-Ajaxed-2.1.1_-Finding-my-feet/"/>
+    <title>ASP-Ajaxed 2.1.1: Finding my feet</title>
+    <updated>2013-06-19T08:53:00.002-04:00</updated>
+    <author>
+      <name>Author</name>
+      <uri>http://domain/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Woot! &lt;a href=&quot;https://code.google.com/p/asp-ajaxed/downloads/detail?name=asp-ajaxed_v2.1.1.zip&quot;&gt;ASP Ajaxed 2.1.1&lt;/a&gt; is up. :)&lt;/p&gt;
+&lt;p&gt;As I mentioned in an &lt;a href=&quot;http://blog.anonjr.com/2013/06/keeping-good-thing-going.html&quot;&gt;earlier post&lt;/a&gt;, I took over the ASP Ajaxed project in the hopes of keeping it alive. I&apos;m still orienting myself to how Google Code hosts projects, and I&apos;m still trying to figure out just how I&apos;m going to go about running this particular project.&lt;/p&gt;
+&lt;p&gt;One of the things I found when converting the source control from svn to hg was that there were some bug fixes that were not in the posted 2.1 release. I added a couple of fixes of my own, and a new feature - a SHA256() hashing function - and published &lt;a href=&quot;https://code.google.com/p/asp-ajaxed/downloads/detail?name=asp-ajaxed_v2.1.1.zip&quot;&gt;version 2.1.1&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Hopefully soon I&apos;ll have a little more about the plans and intentions for this little project.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://domain//archive/2013/06/13/Keeping-a-good-thing-going/</id>
+    <link type="text/html" rel="alternate" href="http://domain//archive/2013/06/13/Keeping-a-good-thing-going/"/>
+    <title>Keeping a good thing going</title>
+    <updated>2013-06-13T20:53:00.001-04:00</updated>
+    <author>
+      <name>Author</name>
+      <uri>http://domain/</uri>
+    </author>
+    <content type="html">&lt;p&gt;I do a lot of Classic ASP/VBScript programming - It&apos;s what my bread-winning project is built in, it&apos;s what my side projects are built in, it&apos;s what Snitz Forums (a FLOSS project I help with) is written in.&lt;/p&gt;
+&lt;p&gt;One of the things that has made my life a little easier is a neat little ASP/VBScript framework over at &lt;a href=&quot;https://code.google.com/p/asp-ajaxed/&quot;&gt;https://code.google.com/p/asp-ajaxed/&lt;/a&gt;. I&apos;ve integrated it into the LMS I built for work, and a few other work-related projects. I &lt;em&gt;love&lt;/em&gt; it.&lt;/p&gt;
+&lt;p&gt;Unfortunately, the owner passed away and the project has slowly faded away. Recently the main site disappeared... Not wanting to see a good code base go to waste, I&apos;ve taken ownership of the project (with the blessing of one of the remaining project members).&lt;/p&gt;
+&lt;p&gt;I&apos;m not sure where I&apos;m going to begin in getting this thing back up and running, but I do want to keep this project alive and better maintained. Look for more updates to come. :)&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://domain//archive/2013/06/13/New-Year,-New-Projects,-New-Blog/</id>
+    <link type="text/html" rel="alternate" href="http://domain//archive/2013/06/13/New-Year,-New-Projects,-New-Blog/"/>
+    <title>New Year, New Projects, New Blog</title>
+    <updated>2013-06-13T20:42:00-04:00</updated>
+    <author>
+      <name>Author</name>
+      <uri>http://domain/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Well... the last part is a bit of a stretch. I&apos;ve had this account for quite some time.&lt;/p&gt;
+&lt;p&gt;I was recently updating my CV over at &lt;a href=&quot;http://careers.stackoverflow.com/anonjr&quot;&gt;Stack Overflow Careers&lt;/a&gt; and it occurred to me that one thing I&apos;m really short on is publicly available projects and writing... time to fix that.&lt;/p&gt;
+&lt;p&gt;I would love to tell you that I have a plan, and can outline everything this blog will and will not be - but I&apos;d be lying. Waiting until the plan coalesced is why it&apos;s now 2013 and I&apos;m just now posting.&lt;/p&gt;
+&lt;p&gt;I &lt;em&gt;can&lt;/em&gt; tell you that this is not going to have a singular focus. I will most likely have a heavy focus on tech as that&apos;s where I work and play - but I will also write about religion, politics, and maybe a few things of a more personal nature. Jeff Jarvis has often spoke of the therapeutic value of blogging about health issues (and I have a few) so I may throw a few of those out there as well.&lt;/p&gt;
+&lt;p&gt;We&apos;ll see where this goes...&lt;/p&gt;</content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,40 @@
+pretzel: 
+    engine: liquid
+
+# Drafts
+show_drafts: false
+
+# Permalinks
+#permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            AnonJr.com
+tagline:          '[Insert witty by-line here]'
+description:      'The personal blog of AnonJr'
+# imageurl:         '/public/tfr.jpg'
+url:              https://blog.anonjr.com
+
+author:
+  name:           'Mark Bussell Jr. (AnonJr)'
+  url:            https://twitter.com/anonjr
+
+# disqus_short_name: 
+# disqus_show_comment_count: true
+
+google_analytics_tracking_id: UA-42177830-2
+
+paginate:         5
+permalink:        /archive/:year/:month/:day/:title/
+paginate_path:    "page/:num"
+
+only_frontmatter_categories: true
+
+redirect_generate_aspx: true
+
+exclude:
+  - _misc
+  - _pretzel
+  - deploy.cmd
+  - .gitignore
+  - .git
