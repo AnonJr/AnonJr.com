@@ -1,3 +1,6 @@
 # robotstxt.org/
 
 User-agent: *
+Disallow: 
+
+Sitemap: http://blog.anonjr.com/sitemap.xml 
