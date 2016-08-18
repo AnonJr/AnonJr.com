@@ -2,18 +2,17 @@
 <html lang="en">
 	{% include head.html %}
 	<body>
-		<div id="container">
-			<div id="side">
-				<a href="/" id="home" title="home" alt="home"><img src="/res/logo.png" alt="AnonJr.com" /></a>
+		<div id="container" class="pure-g">
+			<div id="side" class="pure-u-1-4">
 				<div id="hometext"><a href="/" >AnonJr.com</a></div>
 				<div class="section">
 					<ul>
 						<li><a href="/about.html">About</a></li>
-						<li><a href="/rss.xml"><img src="/res/25.png" />RSS Feed</a></li>
+						<li><a href="/rss.xml">RSS Feed</a></li>
 					</ul>
 				</div>
 			</div>
-			<div id="content">
+			<div id="content" class="pure-u-3-4">
 				{{content}}
 			</div>
 		</div>
