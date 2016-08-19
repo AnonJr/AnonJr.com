@@ -3,55 +3,70 @@
 
 @import (less) "pure.css";
 
+
+
 /*
 Style info from Blogger Config:
 
-Page Text: Arial, 16px, #cccccc
-
-Outer Background: #336699
-Header Background: transparent
-Post Background: #1c1c1c
-
-Link Color: #ff9900
-Visited Color: #dd7700
-Hover Color: #ffaa00
-
 Blog Title: Georgia, 48px, #ffffff
-
-Tabs Text: Georgia, 15px, #ff9900 (Selected: #ffffff)
-Tabs Background: #1c1c1c
-Tabs Selected: #dd7700
-Tabs Seperator: #000000
-
 Post Title: Georgia, 18px, ?
-
-Date Header: #cccccc
-
-Post Footer: #999999
-Post Border: transparent
-
 Gadgets Title: Georgia 18px #ffffff
-
-Footer Text Color: #cccccc
 Footer Gadget Title Color: #ffffff
-
-Footer Link Color: #ff9900
-Footer Link Visited: #dd7700
-Footer Link Hover: #ffaa00
-
-Licence: <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
-
 
 */
 
 body 
 { 
-	background: #000000 url(background.jpg) repeat-x fixed top center;
+	background: #336699 url(background.jpg) repeat-x fixed top center;
     color: #cccccc;
-	font: 15px;
+    font-family: FreeSans, Arimo, "Droid Sans", Helvetica, Arial, sans-serif;
     margin-left:auto; 
 	margin-right: auto;
 	width:1100px; 
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a
+{
+    color: #ff9900;
+    text-decoration: none;
+    &:hover {
+        color: #ffaa00;
+        text-decoration: underline;
+    }
+    &:visited {
+        color: #dd7700;
+    }
+    &:focus {
+        color: #ffaa00;
+        outline: thin dotted;
+    }
+    &:active {
+        color: #ffaa00;
+        text-decoration: underline;
+    }
+}
+
+nav
+{
+    margin: 0px 15px 15px 0px;
+}
+
+nav .navitem
+{
+    clear: both;
+    display: block;
+    border-bottom: 1px dashed rgba(128, 128, 128, .5);
 }
 
 #container
@@ -63,19 +78,21 @@ body
     width: 860px;
 }
 
+#side
+{
+    & img#gravatar {
+            border-radius: 50%;
+            -moz-border-radius: 50%;
+            -webkit-border-radius: 50%;
+    }
+}
+
 #content
 {
     background-color: #1c1c1c;
 }
 
-nav
+#footer
 {
-    margin: 15px;
-}
 
-nav .navitem
-{
-    clear: both;
-    display: block;
-    border-bottom: 1px dashed white;
 }
