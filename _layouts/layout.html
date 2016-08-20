@@ -4,25 +4,30 @@
 	<body>
 		<div id="container" class="pure-g">
 			<div id="side" class="pure-u-1-4">
-				<img src="res/gravatar.png" id="gravatar" alt="AnonJr" />
+				<!-- <img src="res/gravatar.png" id="gravatar" alt="AnonJr" /> -->
 				<h1>AnonJr.com</h1>
 				<nav>
 				<div class="navitem"><a href="/" >Home</a></div>
 				<div class="navitem"><a href="/about.html">About</a></div>
+				<div class="navitem"><a href="http://careers.stackoverflow.com/anonjr">CV</a></div>
+				<div class="navitem"><a href="/rss.xml">RSS Feed</a></div>
+				</nav>
+				<h2>Projects</h2>
+				<nav>
 				<div class="navitem"><a href="/p/projects.html">Wayward Son Developers</a></div>
 				<div class="navitem"><a href="/p/asp-ajaxed.html">ASP-Ajaxed</a></div>
 				<div class="navitem"><a href="/p/snitz-forums.html">Snitz Forums</a></div>
-				<div class="navitem"><a href="/rss.xml">RSS Feed</a></div>
 				</nav>
 				<h2>Find Me At</h2>
 				<nav>
 				<div class="navitem"><a href="http://twitter.com/AnonJr">Twitter</a></div>
+				<div class="navitem"><a href="https://github.com/AnonJr/">Github</a></div>
 				<div class="navitem"><a href="http://stackoverflow.com/">Stack Overflow</a></div>
-				<div class="navitem"><a href="http://careers.stackoverflow.com/anonjr">CV</a></div>
 				</nav>
 				<a href="http://stackexchange.com/users/12701">
 					<img src="http://stackexchange.com/users/flair/12701.png" width="208" height="58" alt="profile for AnonJr on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for AnonJr on Stack Exchange, a network of free, community-driven Q&amp;A sites" />
 				</a>
+				{% include tagcloud.html %}
 			</div>
 			<div id="content" class="pure-u-3-4">
 				{{content}}
