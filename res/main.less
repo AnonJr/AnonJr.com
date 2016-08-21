@@ -3,6 +3,9 @@
 
 @import (less) "pure.css";
 
+/* Colors etc. */
+@highlight-color: #ff9900;
+
 body 
 { 
 	background: #336699 url(background.jpg) repeat-x fixed top center;
@@ -28,7 +31,7 @@ h6
 
 a
 {
-    color: #ff9900;
+    color: @highlight-color;
     text-decoration: none;
     &:hover {
         color: #ffaa00;
@@ -96,6 +99,12 @@ nav .navitem
 .entry-container + .entry-container
 {
     margin-top: 15px;
+}
+
+h2.post-title
+{
+    color: @highlight-color;
+    margin-top: 0px;
 }
 
 #footer
