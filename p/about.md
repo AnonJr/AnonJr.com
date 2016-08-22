@@ -1,10 +1,7 @@
 ---
-layout: post
+layout: page
 title: About
-comments: false
 ---
-
-New Site
 
 ##To Do
 
