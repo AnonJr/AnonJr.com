@@ -6,7 +6,7 @@ pretzel:
 title:            AnonJr.com
 tagline:          '[Insert witty by-line here]'
 description:      'The personal blog of AnonJr'
-# imageurl:         '/public/tfr.jpg'
+imageurl:         '/res/gravatar.png'
 url:              //blog.anonjr.com
 only_frontmatter_categories: true
 
@@ -17,9 +17,9 @@ author:
 # Drafts
 show_drafts: false
 
-# Disqus
-# disqus_short_name:
-# disqus_show_comment_count: true
+# Disqus - anonjr.disqus.com
+disqus_short_name: anonjr
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id: UA-42177830-2
