@@ -26,7 +26,7 @@ google_analytics_tracking_id: UA-42177830-2
 
 # Permalinks
 #permalink:        pretty
-relative_permalinks: true
+#relative_permalinks: true
 
 permalink:        /archive/:year/:month/:day/:title/
 paginate_path:    "page/:num"
