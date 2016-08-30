@@ -8,7 +8,7 @@ layout: nil
     <link>{{ site.url }}</link>
     <atom:link href="{{ site.url }}/rss.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <language>en-au</language>
+    <language>en-us</language>
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %Z" }}</pubDate>
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %Z" }}</lastBuildDate>
     {% for post in site.posts %}
@@ -21,5 +21,5 @@ layout: nil
       <description>{{ post.content | xml_escape }}</description>
     </item>
     {% endfor %}
-  </channel> 
+  </channel>
 </rss>
