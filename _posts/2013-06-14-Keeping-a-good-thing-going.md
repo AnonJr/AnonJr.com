@@ -2,6 +2,7 @@
 title: Keeping a good thing going
 date: 2013-06-14T00:53:00.0010000Z
 layout: post
+comments: true
 tags:
 - programming
 - asp-ajaxed
