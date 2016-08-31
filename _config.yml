@@ -28,7 +28,7 @@ google_analytics_tracking_id: UA-42177830-2
 #permalink:        pretty
 #relative_permalinks: true
 
-permalink:        /archive/:year/:month/:day/:title/
+permalink:        /:year/:month/:title.html
 paginate_path:    "page/:num"
 
 paginate:         5
