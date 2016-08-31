@@ -1,0 +1,18 @@
+---
+layout: layout
+---
+
+<div class="entry-container">
+	<div class='entry'>
+		<h2 class="post-title">{{ page.tag }}</h2>
+		<ul>
+        {% for t in site.tags %}
+            {% if t.Name == page.tag %}
+                {% for post in t.posts reverse %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}
+            {% endif %}
+        {% endfor %}
+		</ul>
+	</div>
+</div>

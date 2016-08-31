@@ -14,8 +14,9 @@ author:
   name:           'Mark Bussell Jr. (AnonJr)'
   url:            https://twitter.com/anonjr
 
-# Drafts
-show_drafts: false
+# Site Config
+tag_pages_layout: tagpage
+show_drafts:      false
 
 # Disqus - anonjr.disqus.com
 disqus_short_name: anonjr
