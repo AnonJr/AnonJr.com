@@ -25,9 +25,6 @@ disqus_show_comment_count: true
 google_analytics_tracking_id: UA-42177830-2
 
 # Permalinks
-#permalink:        pretty
-#relative_permalinks: true
-
 permalink:        /:year/:month/:title.html
 paginate_path:    "page/:num"
 
