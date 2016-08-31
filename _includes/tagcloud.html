@@ -1,7 +1,7 @@
 <ul id="tagcloud">
 {% for tag in site.tags %}
     <li style="font-size: {{ tag.posts.size | times: 100 | divided_by: site.tags.size | plus: 70 }}%">
-        <a href="/tag/{{ tag.Name }}/">{{ tag.Name }}</a>
+        <a href="/tag/{{ tag.Name }}/" class="tag">{{ tag.Name }}</a>
     </li>
 {% endfor %}
 </ul>
