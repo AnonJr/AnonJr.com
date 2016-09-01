@@ -1,11 +1,8 @@
 # blog.anonjr.com
 
-This is the content for my [site](http://blog.anonjr.com).
+This is the content for my [personal blog](http://blog.anonjr.com).
 
 ## Run it locally
 
-The following command builds the site and runs it on http://localhost:8080.
-
-```shell
-_pretzel/pretzel.exe taste
-```
+ * `deploy.cmd` will run a pretzel bake/build, and put a copy of the site in `_site`.
+ * `test.cmd` will run a pretzel taste/local server, and run it on http://localhost:8080
