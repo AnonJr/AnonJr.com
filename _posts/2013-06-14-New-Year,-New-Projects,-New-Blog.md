@@ -1,6 +1,6 @@
 ---
 title: New Year, New Projects, New Blog
-date: 2013-06-14T00:42:00.0000000Z
+date: 2013-06-14 20:42:00 -0500
 layout: post
 comments: true
 tags:

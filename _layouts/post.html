@@ -5,7 +5,7 @@ layout: layout
 <div class="entry-container">
 	<div class='entry'>
 		<h2 class="post-title"> {{page.title}} </h2>
-		<div class="postdate">{{ page.date | date: "%e %B %Y"  }}</div>
+		<div class="postdate">{{ page.date | date: "%e %b %Y %H:%M"  }}</div>
 		{% include tags.html %}
 		{{ content }}
 	</div>
