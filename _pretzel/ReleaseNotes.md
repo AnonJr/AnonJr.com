@@ -1,5 +1,40 @@
-# 0.4.0 (23 janvier 2016)
+# 0.7.0 (2017-03-18)
 
+ - [#319](https://github.com/Code52/pretzel/pull/319) - Site with support of html_pages contributed by Roland Bär ([rolandbaer](https://github.com/rolandbaer))
+ - [#318](https://github.com/Code52/pretzel/issues/318) - Chocolatey install - Get-BinRoot deprecated
+
+Commits: b7afc2ced8...8b677201a1
+
+
+# 0.6.0 (2017-01-29)
+
+ - [#317](https://github.com/Code52/pretzel/pull/317) - Support for :slug in permalinks contributed by Thomas Freudenberg ([thoemmi](https://github.com/thoemmi)) +Enhancement
+ - Fix rss/atom feeds and add site settings in config +Fix
+ - Add more info on "Error converting markdown" +Enhancement
+ - Cleaning of Tracing/Logger - Logger is now deprecated +Breaking-change
+
+Commits: 8ffc7d6444...35f9a0491d
+
+
+# 0.5.0 (2016-10-29)
+
+ - [#314](https://github.com/Code52/pretzel/pull/314) - Fix the files are rendered too much time contributed by Jérémie Bertrand ([laedit](https://github.com/laedit))
+ - [#313](https://github.com/Code52/pretzel/pull/313) - Minor typos contributed by Stephen Moon ([s-moon](https://github.com/s-moon))
+ - [#310](https://github.com/Code52/pretzel/pull/310) - Update FileContentProvider.cs contributed by mark van tilburg ([markvantilburg](https://github.com/markvantilburg))
+ - [#309](https://github.com/Code52/pretzel/pull/309) - Update packages.config contributed by mark van tilburg ([markvantilburg](https://github.com/markvantilburg))
+ - [#306](https://github.com/Code52/pretzel/pull/306) - Added support for specifying frontmatter defaults in _config.yml contributed by Taco Ditiecher ([tditiecher](https://github.com/tditiecher))
+ - [#304](https://github.com/Code52/pretzel/pull/304) - Added DateToStringFilter to the LiquidEngine. contributed by Taco Ditiecher ([tditiecher](https://github.com/tditiecher)) +fix
+ - [#298](https://github.com/Code52/pretzel/pull/298) - Replace Firefly with Nowin contributed by E.Z. Hart ([hartez](https://github.com/hartez))
+ - [#297](https://github.com/Code52/pretzel/pull/297) - Prevent adding of duplicate tags during PreProcess() in RazorSiteEngine contributed by E.Z. Hart ([hartez](https://github.com/hartez))
+ - [#296](https://github.com/Code52/pretzel/issues/296) - ArgumentException when modifying a page while taste is running +fix
+ - [#164](https://github.com/Code52/pretzel/issues/164) - Exception while navigating between pages during tasting +fix
+ - [#147](https://github.com/Code52/pretzel/issues/147) - Sporadically crashes on "Taste" caused by 'Cannot access a disposed object.' +fix
+ - [#102](https://github.com/Code52/pretzel/issues/102) - Crash when browsing a site hosted in Pretzel taste +fix
+
+Commits: 1e49a174fc...a0634fdcec
+
+
+# 0.4.0 (2016-01-23)
 
 ##  Breaking changes
  - [#287](https://github.com/Code52/pretzel/pull/287) - Accessible configuration contributed by Jérémie Bertrand ([laedit](https://github.com/laedit))
