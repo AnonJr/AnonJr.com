@@ -40,3 +40,4 @@ exclude:
   - readme.md
   - .gitignore
   - .git
+  - docs
