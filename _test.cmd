@@ -1,3 +1,3 @@
 @echo off
 echo Running Pretzel...
-_pretzel\pretzel.exe taste --cleantarget
+_pretzel\pretzel.exe taste --cleantarget --destination=.\docs
