@@ -3,10 +3,9 @@ layout: layout
 ---
 
 <div class="entry-container">
-	<div class='entry'>
+	<div class="entry">
 		<h2 class="post-title"> {{page.title}} </h2>
-		<div class="postdate"><span class="fa fa-calendar" aria-hidden="true"></span> {{ page.date | date: "%e %b %Y"  }}</div>
-		{% include tags.html %}
+		<div class="metainfo">{% include dateline.html %} | {% include tags.html %}</div>
 		{{ content }}
 	</div>
 

@@ -1,6 +1,6 @@
 {% if page.tags.size > 0 %}
-<div class="tags"><span class="fa fa-tags" aria-hidden="true"></span> {% for tag in page.tags %}<a href="/tag/{{ tag }}/" class="tag">{{ tag }}</a>{% endfor %}</div>
+<span class="tags"><span class="fa fa-tags" aria-hidden="true"></span> {% for tag in page.tags %}<a href="/tag/{{ tag }}/" class="tag">{{ tag }}</a>{% endfor %}</span>
 {% endif %}
 {% if post.tags.size > 0 %}
-<div class="tags"><span class="fa fa-tags" aria-hidden="true"></span> {% for tag in post.tags %}<a href="/tag/{{ tag }}/" class="tag">{{ tag }}</a>{% endfor %}</div>
+<span class="tags"><span class="fa fa-tags" aria-hidden="true"></span> {% for tag in post.tags %}<a href="/tag/{{ tag }}/" class="tag">{{ tag }}</a>{% endfor %}</span>
 {% endif %}
