@@ -7,7 +7,7 @@ title : AnonJr.com
 {% for post in site.posts  limit:5 %}
 	<div class="entry-container">
 		<h2 class="post-title"><a class="postlink" href="{{ post.url }}">{{ post.title }}</a></h2>
-		<div class="postdate"><span class="fa fa-calendar" aria-hidden="true"></span>{{ post.date | date: "%e %b %Y"  }}</div>
+		<div class="postdate"><span class="fa fa-calendar" aria-hidden="true"></span> {{ post.date | date: "%e %b %Y"  }}</div>
 		{% include tags.html %}
 		{{ post.content }}
 		{% if post.comments == true %}<a href="{{ post.url }}#disqus_thread">Comments</a>{% endif %}
