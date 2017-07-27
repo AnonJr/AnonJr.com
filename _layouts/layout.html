@@ -6,6 +6,9 @@ layout: compress
 	{% include head.html %}
 	<body>
 		<div id="container" class="pure-g">
+			<div id="content" class="pure-u-3-4">
+				{{content}}
+			</div>
 			<div id="side" class="pure-u-1-4">
 				<h2>AnonJr.com</h2>
 				<nav>
@@ -35,9 +38,6 @@ layout: compress
 					<img src="https://stackexchange.com/users/flair/12701.png" width="208" height="58" alt="profile for AnonJr on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for AnonJr on Stack Exchange, a network of free, community-driven Q&amp;A sites" />
 				</a>
 				{% include tagcloud.html %}
-			</div>
-			<div id="content" class="pure-u-3-4">
-				{{content}}
 			</div>
 		</div>
 		{% include footer.html %}
