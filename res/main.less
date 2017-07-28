@@ -6,6 +6,7 @@
 
 /* Colors etc. */
 @highlight-color: #ff9900;
+@container-bg: rgba(0,0,0, .55); /* url(black50.png); */
 
 body
 {
@@ -64,7 +65,7 @@ nav .navitem
 
 #container
 {
-    background: rgba(0,0,0, .5); /* url(black50.png); */
+    background: @container-bg;
     height: 100%;
     margin-left: auto;
     margin-right: auto;
@@ -130,7 +131,7 @@ a.tag {
 
 #footer
 {
-    background: rgba(0,0,0, .6); /* url(black50.png); */
+    background: @container-bg;
     font-size: smaller;
     margin-left: auto;
     margin-right: auto;
