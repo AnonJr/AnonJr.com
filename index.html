@@ -7,7 +7,7 @@ title : AnonJr.com
 {% for post in site.posts  limit:5 %}
 	<div class="entry-container">
 		<h2 class="post-title"><a class="postlink" href="{{ post.url }}">{{ post.title }}</a></h2>
-		<div class="metainfo">{% include dateline.html %}&nbsp;&nbsp;{% include tags.html %}</div>
+		<div class="metainfo"><span class="postdate"><span class="fa fa-calendar" aria-hidden="true"></span> {{ post.date | date: "%e %b %Y"  }}</span>&nbsp;&nbsp;{% include tags.html %}</div>
         {{ post.excerpt }}
         {% capture content_words %}
             {{ post.content | number_of_words }}
