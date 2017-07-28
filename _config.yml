@@ -17,6 +17,7 @@ author:
 # Site Config
 tag_pages_layout: tagpage
 show_drafts:      false
+excerpt_separator: <!--more-->
 
 # Disqus - anonjr.disqus.com
 disqus_short_name: anonjr

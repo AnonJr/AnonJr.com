@@ -7,6 +7,13 @@
   <!-- Generated with pretzel -->
   
   <url>
+    <loc>//blog.anonjr.com/2017/07/A-Pretzel-A-Jekyll-Some-Pages-Cranky-Git.html</loc>
+    <lastmod>2017-07-28T14:00:00-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+  
+  <url>
     <loc>//blog.anonjr.com/2013/06/ASP-Ajaxed-2.1.1_-Finding-my-feet.html</loc>
     <lastmod>2013-06-19T09:53:00-04:00</lastmod>
     <changefreq>daily</changefreq>

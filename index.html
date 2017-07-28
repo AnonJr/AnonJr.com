@@ -8,7 +8,7 @@ title : AnonJr.com
 	<div class="entry-container">
 		<h2 class="post-title"><a class="postlink" href="{{ post.url }}">{{ post.title }}</a></h2>
 		<div class="metainfo">{% include dateline.html %}&nbsp;&nbsp;{% include tags.html %}</div>
-		{{ post.content }}
+		{{ post.excerpt }}
 		{% if post.comments == true %}<a href="{{ post.url }}#disqus_thread">Comments</a>{% endif %}
 	</div>
 {% endfor %}

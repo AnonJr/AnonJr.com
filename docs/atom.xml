@@ -3,13 +3,50 @@
   <title>AnonJr.com</title>
   <link href="//blog.anonjr.com"/>
   <link type="application/atom+xml" rel="self" href="//blog.anonjr.com/atom.xml"/>
-  <updated>2017-07-28T09:07:33.5440508-04:00</updated>
+  <updated>2017-07-28T13:51:10.1725329-04:00</updated>
   <id>//blog.anonjr.com</id>
   <author>
     <name>Mark Bussell Jr. (AnonJr)</name>
     <email>Email</email>
   </author>
 
+  
+  <entry>
+    <id>//blog.anonjr.com/2017/07/A-Pretzel-A-Jekyll-Some-Pages-Cranky-Git.html</id>
+    <link type="text/html" rel="alternate" href="//blog.anonjr.com/2017/07/A-Pretzel-A-Jekyll-Some-Pages-Cranky-Git.html"/>
+    <title>A Pretzel, A Jekyll, Some Pages, and a Cranky Git</title>
+    <updated>2017-07-28T14:00:00-04:00</updated>
+    <author>
+      <name>Mark Bussell Jr. (AnonJr)</name>
+      <uri>//blog.anonjr.com</uri>
+    </author>
+    <content type="html">&lt;p&gt;Don&apos;t mind the dust, and sorry about the cobwebs… To say it&apos;s been a while would be something of an understatement since the last post is from 2013.&lt;/p&gt;
+&lt;p&gt;At the time I was earnestly looking to ramp up and do something with the Blogger account I opened and never actually used for anything other than oAuth. Life hit hard - a combination of events, accumulated effects of a sleep disorder, depression, and the early stages of burnout - and so it sat a little longer.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;I&apos;ve made a few halfhearted attempts to start it all back up, but as you can clearly see nothing came to much. So here we are.&lt;/p&gt;
+&lt;div class=&quot;embedded embedded-youtube&quot;&gt;
+    &lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/Tkfjrp0PNYw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- https://youtu.be/Tkfjrp0PNYw --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you&apos;ve managed to make it this long without watching the awesome (and canceled too soon) show Firefly, get your popcorn and streaming service of choice going and enjoy a weekend binge. We can even compare notes with the good folks at &lt;a href=&quot;http://www.cordkillers.com/&quot;&gt;Cordkillers&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;So what now? I’m trying to get a few projects lined up:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I’m almost done rebuilding a few of my websites – this being one of them.&lt;/li&gt;
+&lt;li&gt;I’m developing a podcast, one I hope to be able to eventually turn into a small income stream.&lt;/li&gt;
+&lt;li&gt;I’m restarting work on a campaign setting I was building with my sister and her husband.&lt;/li&gt;
+&lt;li&gt;I’m (re)starting work on two novels rooted in the above campaign setting. I’d love for both the game and the books to become something awesome and synergistic – I’ll gladly settle for one or the other taking root. I like the world we’re building and I just want to play in it. 😃&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My goal is to get one or more of these up to enough of an income to cover the bills, and do something different for a while. The various issues creating drag in my life certainly don&apos;t help, but rather than dwell on that let&apos;s look at the actual focus of the title.&lt;/p&gt;
+&lt;p&gt;Most of my programming work has been in medium-scale CMSs - something that is &lt;em&gt;way&lt;/em&gt; overkill for a site like this, the podcast site, and a few other projects. So I joined along the static site generator bandwagon and picked a couple to play with.&lt;/p&gt;
+&lt;p&gt;This site is using &lt;a href=&quot;https://github.com/Code52/pretzel/&quot;&gt;Pretzel&lt;/a&gt;, a .NET tool that&apos;s compatible with the templates and whatnot used by the Ruby-based &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. Since I do most of my work and play on Windows, it seemed like the perfect fit. Especially since (at the time) trying to get Ruby anything running on Windows was a bit of a pain.&lt;/p&gt;
+&lt;p&gt;I&apos;ve found a few areas where the templating and Liquid commands don&apos;t &lt;em&gt;quite&lt;/em&gt; fit, but it&apos;s been fairly straight forward. Given my preferences, I do like that Pretzel uses LESS instead of SASS. If there was a little more active development, I&apos;d heartily recommend it.&lt;/p&gt;
+&lt;p&gt;The podcast site (&lt;a href=&quot;http://www.biblebyexample.com&quot;&gt;incompletly up&lt;/a&gt; as of writing this) is using the aforementioned Jekyll. When I&apos;d finally mustered enough energy to get cracking on this project, installing Ruby and Jekyll on Windows became significantly less painful. And as long as you&apos;re willing to do a little work with the setup, WSL has made it even easier.&lt;/p&gt;
+&lt;p&gt;I managed a little more traction and rapid progress on the latter since I was more willing to grab &lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes/&quot;&gt;a theme that someone else had put together&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Both projects are up on GitHub, and are being hosted using GitHub pages. Now that&apos;s been an interesting endevour… particularly getting the domains squared away. The next step for both sites will be to get them behind &lt;a href=&quot;https://www.cloudflare.com/&quot;&gt;Cloudflare &lt;/a&gt; for some CDN goodness and HTTPS.&lt;/p&gt;
+&lt;p&gt;I&apos;ll write a little more about each project individually, and some &amp;quot;thinking out loud&amp;quot; type posts over the next few days.&lt;/p&gt;</content>
+  </entry>
   
   <entry>
     <id>//blog.anonjr.com/2013/06/ASP-Ajaxed-2.1.1_-Finding-my-feet.html</id>
