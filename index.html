@@ -15,8 +15,8 @@ title : AnonJr.com
         {% capture excerpt_words %}
             {{ post.excerpt | number_of_words }}
         {% endcapture %}
-        {% if excerpt_words != content_words %}<p><a class="pure-button" href="{{ post.url }}/#read-more" role="button">Read more <span class="fa fa-arrow-circle-right"></span></a></p>{% endif %}
-		{% if post.comments == true %}<a href="{{ post.url }}#disqus_thread">Comments</a>{% endif %}
+        {% if excerpt_words != content_words %}<p><a href="{{ post.url }}/#read-more">Read more <span class="fa fa-arrow-circle-right"></span></a></p>{% endif %}
+        {% if post.comments == true %}<a href="{{ post.url }}#disqus_thread">Comments</a>{% endif %}
 	</div>
 {% endfor %}
 </div>
