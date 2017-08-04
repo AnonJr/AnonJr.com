@@ -10,30 +10,7 @@ layout: compress
 				{{content}}
 			</div>
 			<div id="side" class="pure-u-1-4">
-				<h2>AnonJr.com</h2>
-				<nav>
-					<div class="navitem"><a href="/" >Home</a></div>
-					<div class="navitem"><a href="/p/about.html">About</a></div>
-					<div class="navitem"><a href="https://careers.stackoverflow.com/anonjr">CV</a></div>
-					<div class="navitem"><a href="/rss.xml">RSS Feed</a></div>
-				</nav>
-
-				<h2>Projects</h2>
-				<nav>
-					<div class="navitem"><a href="/p/projects.html">Wayward Son Developers</a></div>
-					<div class="navitem"><a href="/p/asp-ajaxed.html">ASP-Ajaxed</a></div>
-					<div class="navitem"><a href="/p/snitz-forums.html">Snitz Forums</a></div>
-				</nav>
-
-				<h2>Also Found At</h2>
-				<nav>
-					<div class="navitem"><a href="https://twitter.com/AnonJr"><span class="fa fa-twitter-square" aria-hidden="true"></span>&nbsp;Twitter</a></div>
-					<div class="navitem"><a href="https://github.com/AnonJr/"><span class="fa fa-github-square" aria-hidden="true"></span>&nbsp;GitHub</a></div>
-				</nav>
-
-				<h2><a href="https://stackexchange.com/users/12701">
-					<img src="https://stackexchange.com/users/flair/12701.png" width="208" height="58" alt="profile for AnonJr on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for AnonJr on Stack Exchange, a network of free, community-driven Q&amp;A sites" />
-				</a></h2>
+				{% include nav.html %}
 				{% include tagcloud.html %}
 			</div>
 		</div>
