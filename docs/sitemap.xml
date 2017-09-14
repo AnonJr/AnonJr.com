@@ -7,6 +7,13 @@
   <!-- Generated with pretzel -->
   
   <url>
+    <loc>//blog.anonjr.com/2017/09/13-Years-In-The-Valley-1.html</loc>
+    <lastmod>2017-09-14T13:45:00-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+  
+  <url>
     <loc>//blog.anonjr.com/2017/07/A-Pretzel-A-Jekyll-Some-Pages-Cranky-Git.html</loc>
     <lastmod>2017-07-28T14:00:00-04:00</lastmod>
     <changefreq>daily</changefreq>
@@ -72,6 +79,8 @@
 		<changefreq>daily</changefreq>
 		<priority>1.00</priority>
 	</url>
+	
+  
 	
   
 	
