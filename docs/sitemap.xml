@@ -7,35 +7,35 @@
   <!-- Generated with pretzel -->
   
   <url>
-    <loc>//blog.anonjr.com/2017/09/13-Years-In-The-Valley-1.html</loc>
+    <loc>http://www.anonjr.com/2017/09/13-Years-In-The-Valley-1.html</loc>
     <lastmod>2017-09-14T13:45:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
   </url>
   
   <url>
-    <loc>//blog.anonjr.com/2017/07/A-Pretzel-A-Jekyll-Some-Pages-Cranky-Git.html</loc>
+    <loc>http://www.anonjr.com/2017/07/A-Pretzel-A-Jekyll-Some-Pages-Cranky-Git.html</loc>
     <lastmod>2017-07-28T14:00:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
   </url>
   
   <url>
-    <loc>//blog.anonjr.com/2013/06/ASP-Ajaxed-2.1.1_-Finding-my-feet.html</loc>
+    <loc>http://www.anonjr.com/2013/06/ASP-Ajaxed-2.1.1_-Finding-my-feet.html</loc>
     <lastmod>2013-06-19T09:53:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
   </url>
   
   <url>
-    <loc>//blog.anonjr.com/2013/06/Keeping-a-good-thing-going.html</loc>
+    <loc>http://www.anonjr.com/2013/06/Keeping-a-good-thing-going.html</loc>
     <lastmod>2013-06-14T21:53:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
   </url>
   
   <url>
-    <loc>//blog.anonjr.com/2013/06/New-Year,-New-Projects,-New-Blog.html</loc>
+    <loc>http://www.anonjr.com/2013/06/New-Year,-New-Projects,-New-Blog.html</loc>
     <lastmod>2013-06-14T21:42:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
@@ -45,7 +45,7 @@
   
 	
 	<url>
-		<loc>//blog.anonjr.com/atom.xml</loc>
+		<loc>http://www.anonjr.com/atom.xml</loc>
 		<changefreq>daily</changefreq>
 		<priority>1.00</priority>
 	</url>
@@ -57,7 +57,7 @@
   
 	
 	<url>
-		<loc>//blog.anonjr.com/index.html</loc>
+		<loc>http://www.anonjr.com/index.html</loc>
 		<changefreq>daily</changefreq>
 		<priority>1.00</priority>
 	</url>
@@ -67,7 +67,7 @@
   
 	
 	<url>
-		<loc>//blog.anonjr.com/rss.xml</loc>
+		<loc>http://www.anonjr.com/rss.xml</loc>
 		<changefreq>daily</changefreq>
 		<priority>1.00</priority>
 	</url>
@@ -75,43 +75,7 @@
   
 	
 	<url>
-		<loc>//blog.anonjr.com/sitemap.xml</loc>
-		<changefreq>daily</changefreq>
-		<priority>1.00</priority>
-	</url>
-	
-  
-	
-  
-	
-  
-	
-	<url>
-		<loc>//blog.anonjr.com/p/about.html</loc>
-		<changefreq>daily</changefreq>
-		<priority>1.00</priority>
-	</url>
-	
-  
-	
-	<url>
-		<loc>//blog.anonjr.com/p/asp-ajaxed.html</loc>
-		<changefreq>daily</changefreq>
-		<priority>1.00</priority>
-	</url>
-	
-  
-	
-	<url>
-		<loc>//blog.anonjr.com/p/projects.html</loc>
-		<changefreq>daily</changefreq>
-		<priority>1.00</priority>
-	</url>
-	
-  
-	
-	<url>
-		<loc>//blog.anonjr.com/p/snitz-forums.html</loc>
+		<loc>http://www.anonjr.com/sitemap.xml</loc>
 		<changefreq>daily</changefreq>
 		<priority>1.00</priority>
 	</url>
@@ -124,18 +88,32 @@
 	
   
 	
-  
-	
-  
-	
-  
-	
-  
+	<url>
+		<loc>http://www.anonjr.com/p/about.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
 	
   
 	
 	<url>
-		<loc>//blog.anonjr.com/res/main.less</loc>
+		<loc>http://www.anonjr.com/p/asp-ajaxed.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	
+  
+	
+	<url>
+		<loc>http://www.anonjr.com/p/projects.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	
+  
+	
+	<url>
+		<loc>http://www.anonjr.com/p/snitz-forums.html</loc>
 		<changefreq>daily</changefreq>
 		<priority>1.00</priority>
 	</url>
@@ -156,8 +134,34 @@
 	
   
 	
+  
+	
 	<url>
-		<loc>//blog.anonjr.com/tag/asp-ajaxed/index.html</loc>
+		<loc>http://www.anonjr.com/res/main.less</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+	<url>
+		<loc>http://www.anonjr.com/tag/asp-ajaxed/index.html</loc>
 		<changefreq>daily</changefreq>
 		<priority>1.00</priority>
 	</url>
@@ -165,7 +169,7 @@
   
 	
 	<url>
-		<loc>//blog.anonjr.com/tag/meta/index.html</loc>
+		<loc>http://www.anonjr.com/tag/meta/index.html</loc>
 		<changefreq>daily</changefreq>
 		<priority>1.00</priority>
 	</url>
@@ -173,7 +177,7 @@
   
 	
 	<url>
-		<loc>//blog.anonjr.com/tag/programming/index.html</loc>
+		<loc>http://www.anonjr.com/tag/programming/index.html</loc>
 		<changefreq>daily</changefreq>
 		<priority>1.00</priority>
 	</url>
@@ -181,7 +185,7 @@
   
 	
 	<url>
-		<loc>//blog.anonjr.com/tag/projects/index.html</loc>
+		<loc>http://www.anonjr.com/tag/projects/index.html</loc>
 		<changefreq>daily</changefreq>
 		<priority>1.00</priority>
 	</url>

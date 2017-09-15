@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>AnonJr.com</title>
-  <link href="//blog.anonjr.com"/>
-  <link type="application/atom+xml" rel="self" href="//blog.anonjr.com/atom.xml"/>
-  <updated>2017-09-14T12:52:28.8587122-04:00</updated>
-  <id>//blog.anonjr.com</id>
+  <link href="http://www.anonjr.com"/>
+  <link type="application/atom+xml" rel="self" href="http://www.anonjr.com/atom.xml"/>
+  <updated>2017-09-15T15:44:06.1021348-04:00</updated>
+  <id>http://www.anonjr.com</id>
   <author>
     <name>Mark Bussell Jr. (AnonJr)</name>
     <email>Email</email>
@@ -12,13 +12,13 @@
 
   
   <entry>
-    <id>//blog.anonjr.com/2017/09/13-Years-In-The-Valley-1.html</id>
-    <link type="text/html" rel="alternate" href="//blog.anonjr.com/2017/09/13-Years-In-The-Valley-1.html"/>
+    <id>http://www.anonjr.com/2017/09/13-Years-In-The-Valley-1.html</id>
+    <link type="text/html" rel="alternate" href="http://www.anonjr.com/2017/09/13-Years-In-The-Valley-1.html"/>
     <title>Retrospective: 13 Years in the Valley, Part 1</title>
     <updated>2017-09-14T13:45:00-04:00</updated>
     <author>
       <name>Mark Bussell Jr. (AnonJr)</name>
-      <uri>//blog.anonjr.com</uri>
+      <uri>http://www.anonjr.com</uri>
     </author>
     <content type="html">&lt;p&gt;A lot of life has been happening, and it seems maybe I need a little perspective - and so this &amp;quot;retrospective&amp;quot;.&lt;/p&gt;
 &lt;h2 id=&quot;why-part-1&quot;&gt;Why Part 1?&lt;/h2&gt;
@@ -45,13 +45,13 @@
   </entry>
   
   <entry>
-    <id>//blog.anonjr.com/2017/07/A-Pretzel-A-Jekyll-Some-Pages-Cranky-Git.html</id>
-    <link type="text/html" rel="alternate" href="//blog.anonjr.com/2017/07/A-Pretzel-A-Jekyll-Some-Pages-Cranky-Git.html"/>
+    <id>http://www.anonjr.com/2017/07/A-Pretzel-A-Jekyll-Some-Pages-Cranky-Git.html</id>
+    <link type="text/html" rel="alternate" href="http://www.anonjr.com/2017/07/A-Pretzel-A-Jekyll-Some-Pages-Cranky-Git.html"/>
     <title>A Pretzel, A Jekyll, Some Pages, and a Cranky Git</title>
     <updated>2017-07-28T14:00:00-04:00</updated>
     <author>
       <name>Mark Bussell Jr. (AnonJr)</name>
-      <uri>//blog.anonjr.com</uri>
+      <uri>http://www.anonjr.com</uri>
     </author>
     <content type="html">&lt;p&gt;Don&apos;t mind the dust, and sorry about the cobwebs… To say it&apos;s been a while would be something of an understatement since the last post is from 2013.&lt;/p&gt;
 &lt;p&gt;At the time I was earnestly looking to ramp up and do something with the Blogger account I opened and never actually used for anything other than oAuth. Life hit hard - a combination of events, accumulated effects of a sleep disorder, depression, and the early stages of burnout - and so it sat a little longer.&lt;/p&gt;
@@ -82,13 +82,13 @@
   </entry>
   
   <entry>
-    <id>//blog.anonjr.com/2013/06/ASP-Ajaxed-2.1.1_-Finding-my-feet.html</id>
-    <link type="text/html" rel="alternate" href="//blog.anonjr.com/2013/06/ASP-Ajaxed-2.1.1_-Finding-my-feet.html"/>
+    <id>http://www.anonjr.com/2013/06/ASP-Ajaxed-2.1.1_-Finding-my-feet.html</id>
+    <link type="text/html" rel="alternate" href="http://www.anonjr.com/2013/06/ASP-Ajaxed-2.1.1_-Finding-my-feet.html"/>
     <title>ASP-Ajaxed 2.1.1: Finding my feet</title>
     <updated>2013-06-19T09:53:00-04:00</updated>
     <author>
       <name>Mark Bussell Jr. (AnonJr)</name>
-      <uri>//blog.anonjr.com</uri>
+      <uri>http://www.anonjr.com</uri>
     </author>
     <content type="html">&lt;p&gt;Woot! &lt;a href=&quot;https://code.google.com/p/asp-ajaxed/downloads/detail?name=asp-ajaxed_v2.1.1.zip&quot;&gt;ASP Ajaxed 2.1.1&lt;/a&gt; is up. 😃&lt;/p&gt;
 &lt;p&gt;As I mentioned in an &lt;a href=&quot;/2013/06/Keeping-a-good-thing-going.html&quot;&gt;earlier post&lt;/a&gt;, I took over the ASP Ajaxed project in the hopes of keeping it alive. I&apos;m still orienting myself to how Google Code hosts projects, and I&apos;m still trying to figure out just how I&apos;m going to go about running this particular project.&lt;/p&gt;
@@ -98,13 +98,13 @@
   </entry>
   
   <entry>
-    <id>//blog.anonjr.com/2013/06/Keeping-a-good-thing-going.html</id>
-    <link type="text/html" rel="alternate" href="//blog.anonjr.com/2013/06/Keeping-a-good-thing-going.html"/>
+    <id>http://www.anonjr.com/2013/06/Keeping-a-good-thing-going.html</id>
+    <link type="text/html" rel="alternate" href="http://www.anonjr.com/2013/06/Keeping-a-good-thing-going.html"/>
     <title>Keeping a good thing going</title>
     <updated>2013-06-14T21:53:00-04:00</updated>
     <author>
       <name>Mark Bussell Jr. (AnonJr)</name>
-      <uri>//blog.anonjr.com</uri>
+      <uri>http://www.anonjr.com</uri>
     </author>
     <content type="html">&lt;p&gt;I do a lot of Classic ASP/VBScript programming - It&apos;s what my bread-winning project is built in, it&apos;s what my side projects are built in, it&apos;s what Snitz Forums (a FLOSS project I help with) is written in.&lt;/p&gt;
 &lt;p&gt;One of the things that has made my life a little easier is a neat little ASP/VBScript framework over at &lt;a href=&quot;https://code.google.com/p/asp-ajaxed/&quot;&gt;https://code.google.com/p/asp-ajaxed/&lt;/a&gt;. I&apos;ve integrated it into the LMS I built for work, and a few other work-related projects. I &lt;em&gt;love&lt;/em&gt; it.&lt;/p&gt;
@@ -114,13 +114,13 @@
   </entry>
   
   <entry>
-    <id>//blog.anonjr.com/2013/06/New-Year,-New-Projects,-New-Blog.html</id>
-    <link type="text/html" rel="alternate" href="//blog.anonjr.com/2013/06/New-Year,-New-Projects,-New-Blog.html"/>
+    <id>http://www.anonjr.com/2013/06/New-Year,-New-Projects,-New-Blog.html</id>
+    <link type="text/html" rel="alternate" href="http://www.anonjr.com/2013/06/New-Year,-New-Projects,-New-Blog.html"/>
     <title>New Year, New Projects, New Blog</title>
     <updated>2013-06-14T21:42:00-04:00</updated>
     <author>
       <name>Mark Bussell Jr. (AnonJr)</name>
-      <uri>//blog.anonjr.com</uri>
+      <uri>http://www.anonjr.com</uri>
     </author>
     <content type="html">&lt;p&gt;Well... the last part is a bit of a stretch. I&apos;ve had this account for quite some time.&lt;/p&gt;
 &lt;p&gt;I was recently updating my CV over at &lt;a href=&quot;http://careers.stackoverflow.com/anonjr&quot;&gt;Stack Overflow Careers&lt;/a&gt; and it occurred to me that one thing I&apos;m really short on is publicly available projects and writing... time to fix that.&lt;/p&gt;
