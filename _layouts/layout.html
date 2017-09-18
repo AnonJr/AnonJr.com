@@ -3,19 +3,19 @@ layout: compress
 ---
 <!DOCTYPE HTML>
 <html lang="en">
-	{% include head.html %}
-	<body>
-		<div id="container" class="pure-g">
-			<div id="content" class="pure-u-3-4">
-				{{content}}
-			</div>
-			<div id="side" class="pure-u-1-4">
-				{% include nav.html %}
-				{% include tagcloud.html %}
-			</div>
-		</div>
-		{% include footer.html %}
-		<script src="//cdn.jsdelivr.net/highlight.js/8.4/highlight.min.js"></script>
-		<script>hljs.initHighlightingOnLoad();</script>
-	</body>
+    {% include head.html %}
+    <body>
+        <div id="container" class="pure-g">
+            <div id="content" class="pure-u-3-4">
+                {{content}}
+            </div>
+            <div id="side" class="pure-u-1-4">
+                {% include nav.html %}
+                {% include tagcloud.html %}
+            </div>
+        </div>
+        {% include footer.html %}
+        <script src="//cdn.jsdelivr.net/highlight.js/8.4/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script>
+    </body>
 </html>

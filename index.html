@@ -5,9 +5,9 @@ title : AnonJr.com
 
 <div class="posts">
 {% for post in site.posts  limit:5 %}
-	<div class="entry-container">
-		<h2 class="post-title"><a class="postlink" href="{{ post.url }}">{{ post.title }}</a></h2>
-		<div class="metainfo"><span class="postdate"><span class="fa fa-calendar" aria-hidden="true"></span> {{ post.date | date: "%e %b %Y"  }}</span>&nbsp;&nbsp;{% include tags.html %}</div>
+    <div class="entry-container">
+        <h2 class="post-title"><a class="postlink" href="{{ post.url }}">{{ post.title }}</a></h2>
+        <div class="metainfo"><span class="postdate"><span class="fa fa-calendar" aria-hidden="true"></span> {{ post.date | date: "%e %b %Y"  }}</span>&nbsp;&nbsp;{% include tags.html %}</div>
         {{ post.excerpt }}
         {% capture content_words %}
             {{ post.content | number_of_words }}
@@ -17,14 +17,14 @@ title : AnonJr.com
         {% endcapture %}
         {% if excerpt_words != content_words %}<p><a href="{{ post.url }}/#read-more">Read more <span class="fa fa-arrow-circle-right"></span></a></p>{% endif %}
         {% if post.comments == true %}<a href="{{ post.url }}#disqus_thread">Comments</a>{% endif %}
-	</div>
+    </div>
 {% endfor %}
 </div>
 {% if site.posts.size > 5 %}
 <h3>Older</h3>
 <ul class="postArchive">
 {% for post in site.posts offset:5 %}
-	<li><span class="fa fa-calendar" aria-hidden="true"></span><span class="olderpostdate"> {{ post.date | date: "%d %b"  }} </span> <a class="postlink" href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><span class="fa fa-calendar" aria-hidden="true"></span><span class="olderpostdate"> {{ post.date | date: "%d %b"  }} </span> <a class="postlink" href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 {% endif %}

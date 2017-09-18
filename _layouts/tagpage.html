@@ -3,9 +3,9 @@ layout: layout
 ---
 
 <div class="entry-container">
-	<div class='entry'>
-		<h2 class="post-title">Tagged &ldquo;{{ page.tag }}&rdquo;</h2>
-		<ul>
+    <div class='entry'>
+        <h2 class="post-title">Tagged &ldquo;{{ page.tag }}&rdquo;</h2>
+        <ul>
         {% for t in site.tags %}
             {% if t.Name == page.tag %}
                 {% for post in t.posts reverse %}
@@ -13,6 +13,6 @@ layout: layout
                 {% endfor %}
             {% endif %}
         {% endfor %}
-		</ul>
-	</div>
+        </ul>
+    </div>
 </div>
