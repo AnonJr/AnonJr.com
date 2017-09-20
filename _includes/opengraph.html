@@ -1,4 +1,34 @@
-{% if page.title -%}
+{% if site.url %}
+  {% assign seo_url = site.url | append: site.baseurl %}
+  {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
+{% endif %}
+
+{% assign seo_description = page.description | default: site.description %}
+
+{% if site.twitter.username %}
+  <meta name="twitter:site" content="@{{ site.twitter.username | replace: "@", "" }}">
+  <meta name="twitter:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
+  <meta name="twitter:description" content="{{ seo_description }}">
+  <meta name="twitter:url" content="{{ canonical_url }}">
+
+  {% if page.header.image %}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | absolute_url }}{% endif %}">
+  {% else %}
+    <meta name="twitter:card" content="summary">
+    {% if page.header.teaser %}
+      <meta name="twitter:image" content="{% if page.header.teaser contains "://" %}{{ page.header.teaser }}{% else %}{{ page.header.teaser | absolute_url }}{% endif %}">
+    {% elsif site.og_image %}
+      <meta name="twitter:image" content="{{ site.og_image | absolute_url }}">
+    {% endif %}
+  {% endif %}
+
+  {% if seo_author_twitter %}
+    <meta name="twitter:creator" content="@{{ seo_author_twitter }}">
+  {% endif %}
+{% endif %}
+
+{% if page.title != site.title -%}
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:type" content="article" />
 {% else -%}

@@ -3,6 +3,7 @@ pretzel:
     engine: liquid
 
 # Site Setup
+locale:           "en"
 title:            AnonJr.com
 tagline:          '[Insert witty by-line here]'
 description:      'The personal blog of AnonJr'
@@ -22,6 +23,27 @@ excerpt_separator: <!--more-->
 # Disqus - anonjr.disqus.com
 disqus_short_name: anonjr
 disqus_show_comment_count: true
+
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
+
+# Social Sharing
+twitter:
+  username               : "@AnonJr"
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 : # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
 
 # Google Analytics
 google_analytics_tracking_id: UA-42177830-2

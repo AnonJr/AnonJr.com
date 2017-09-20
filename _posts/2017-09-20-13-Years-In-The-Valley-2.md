@@ -13,7 +13,9 @@ A lot of life has been happening, and it seems maybe I need a little perspective
 
 Six days later and I still haven't quite gotten into the habit of regular blogging yet, so whatever is done by the time my lunch break is over is what's getting posted. Like before, some of that time was taken getting some essentials:
 <!--more-->
-![Essential Asset](/img/2017-09-14_EssentialAsset.png)
+{% picture /img/2017-09-14_EssentialAsset.png %}
+Essential Asset
+{% endpicture %}
 
 [Last time]({% post_url 2017-09-14-13-Years-In-The-Valley-1%}) I went over some background to add a little context to what came next. December 2003, fresh out of college with my brand new 2-year degree, I started working at Cape Fear Valley (CFV) in the Education department.
 

@@ -3,7 +3,7 @@
   <title>AnonJr.com</title>
   <link href="http://www.anonjr.com"/>
   <link type="application/atom+xml" rel="self" href="http://www.anonjr.com/atom.xml"/>
-  <updated>2017-09-20T12:33:42.5644148-04:00</updated>
+  <updated>2017-09-20T14:26:06.2237262-04:00</updated>
   <id>http://www.anonjr.com</id>
   <author>
     <name>Mark Bussell Jr. (AnonJr)</name>
@@ -23,7 +23,11 @@
     <content type="html">&lt;p&gt;A lot of life has been happening, and it seems maybe I need a little perspective - and so this &amp;quot;retrospective&amp;quot;.&lt;/p&gt;
 &lt;p&gt;Six days later and I still haven&apos;t quite gotten into the habit of regular blogging yet, so whatever is done by the time my lunch break is over is what&apos;s getting posted. Like before, some of that time was taken getting some essentials:&lt;/p&gt;
 &lt;!--more--&gt;
-&lt;p&gt;&lt;img src=&quot;/img/2017-09-14_EssentialAsset.png&quot; alt=&quot;Essential Asset&quot; /&gt;&lt;/p&gt;
+&lt;figure class=&quot;image&quot;&gt;
+&lt;img itemprop=&quot;image&quot; src=&quot;/img/2017-09-14_EssentialAsset.png&quot; title=&quot;Essential Asset&quot; alt=&quot;Essential Asset&quot; /&gt;
+&lt;figcaption&gt;
+Essential Asset
+&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;&lt;a href=&quot;/2017/09/13-Years-In-The-Valley-1.html&quot;&gt;Last time&lt;/a&gt; I went over some background to add a little context to what came next. December 2003, fresh out of college with my brand new 2-year degree, I started working at Cape Fear Valley (CFV) in the Education department.&lt;/p&gt;
 &lt;p&gt;I can hear it now – &amp;quot;Education?&amp;quot; – my job was an IT role, but not in the IT (&apos;scuse me, &lt;em&gt;IST&lt;/em&gt; as they prefer) department. Ostensibly, at the time I interviewed and was hired, my role was twofold:&lt;/p&gt;
 &lt;p&gt;My secondary job was to teach Basic Life Support classes (BLS - basically CPR for the Healthcare worker). Fortunately I&apos;d paid for college by working at the local YMCA as (among other roles) a Lifeguard Instructor. I just needed to switch over my teaching credentials from the Red Cross to the AHA.&lt;/p&gt;
@@ -48,7 +52,11 @@
 &lt;h2 id=&quot;why-part-1&quot;&gt;Why Part 1?&lt;/h2&gt;
 &lt;p&gt;Well, I haven&apos;t quite gotten into the habit of regular blogging yet, so whatever is done by the time my lunch break is over is what&apos;s getting posted. I&apos;d say lunch hour, but some of that time was taken getting some essentials:&lt;/p&gt;
 &lt;!--more--&gt;
-&lt;p&gt;&lt;img src=&quot;/img/2017-09-14_EssentialAsset.png&quot; alt=&quot;Essential Asset&quot; /&gt;&lt;/p&gt;
+&lt;figure class=&quot;image&quot;&gt;
+&lt;img itemprop=&quot;image&quot; src=&quot;/img/2017-09-14_EssentialAsset.png&quot; title=&quot;Essential Asset&quot; alt=&quot;Essential Asset&quot; /&gt;
+&lt;figcaption&gt;
+Essential Asset
+&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;h2 id=&quot;years-in-the-valley&quot;&gt;13 Years? In the Valley?&lt;/h2&gt;
 &lt;p&gt;I started working for Cape Fear Valley Health System back in December 2003, and it&apos;s been quite the wild ride. When I started in 2003 there were two campuses, a few outpatient clinics, and a grand total of 2500 employees. Now? There&apos;s 5-ish campuses, I&apos;ve lost track of how many outpatient clinics, and somewhere in the ballpark of 7000 employees.&lt;/p&gt;
 &lt;p&gt;Over that time my roles and responsibilities have grown, creating a somewhat less than tenable position and the aforementioned burnout. I may write about that separately&amp;amp;hellp;&lt;/p&gt;
