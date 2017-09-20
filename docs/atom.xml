@@ -3,13 +3,37 @@
   <title>AnonJr.com</title>
   <link href="http://www.anonjr.com"/>
   <link type="application/atom+xml" rel="self" href="http://www.anonjr.com/atom.xml"/>
-  <updated>2017-09-18T10:02:01.7362815-04:00</updated>
+  <updated>2017-09-20T12:33:42.5644148-04:00</updated>
   <id>http://www.anonjr.com</id>
   <author>
     <name>Mark Bussell Jr. (AnonJr)</name>
     <email>Email</email>
   </author>
 
+  
+  <entry>
+    <id>http://www.anonjr.com/2017/09/13-Years-In-The-Valley-2.html</id>
+    <link type="text/html" rel="alternate" href="http://www.anonjr.com/2017/09/13-Years-In-The-Valley-2.html"/>
+    <title>Retrospective: 13 Years in the Valley, Part 2</title>
+    <updated>2017-09-20T13:30:00-04:00</updated>
+    <author>
+      <name>Mark Bussell Jr. (AnonJr)</name>
+      <uri>http://www.anonjr.com</uri>
+    </author>
+    <content type="html">&lt;p&gt;A lot of life has been happening, and it seems maybe I need a little perspective - and so this &amp;quot;retrospective&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Six days later and I still haven&apos;t quite gotten into the habit of regular blogging yet, so whatever is done by the time my lunch break is over is what&apos;s getting posted. Like before, some of that time was taken getting some essentials:&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;&lt;img src=&quot;/img/2017-09-14_EssentialAsset.png&quot; alt=&quot;Essential Asset&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/2017/09/13-Years-In-The-Valley-1.html&quot;&gt;Last time&lt;/a&gt; I went over some background to add a little context to what came next. December 2003, fresh out of college with my brand new 2-year degree, I started working at Cape Fear Valley (CFV) in the Education department.&lt;/p&gt;
+&lt;p&gt;I can hear it now – &amp;quot;Education?&amp;quot; – my job was an IT role, but not in the IT (&apos;scuse me, &lt;em&gt;IST&lt;/em&gt; as they prefer) department. Ostensibly, at the time I interviewed and was hired, my role was twofold:&lt;/p&gt;
+&lt;p&gt;My secondary job was to teach Basic Life Support classes (BLS - basically CPR for the Healthcare worker). Fortunately I&apos;d paid for college by working at the local YMCA as (among other roles) a Lifeguard Instructor. I just needed to switch over my teaching credentials from the Red Cross to the AHA.&lt;/p&gt;
+&lt;p&gt;It was made abundantly clear that teaching BLS is one of the things that &lt;em&gt;everyone&lt;/em&gt; in the department did. At the time we had 2,500 employees, and a large percentage were required to maintain a current BLS card. A department-wide effort was needed to run the necessary classes to make that happen. It seems so quaint now that we&apos;re trying to do the same for a larger percentage of our now 7,000 employees, and yes it is still a department-wide effort. Fortunately we have a bigger department.&lt;/p&gt;
+&lt;p&gt;My primary job was to maintain the internal online education website – a collection of fliers/class info for our live training (ILT if you want the more formal industry jargon), some online presentations and tests for our online training (eLearning is technically the right term, but at this stage calling what we were doing &amp;quot;eLearning&amp;quot; was a bit of a stretch), and other department-related stuff.&lt;/p&gt;
+&lt;p&gt;Side note: I&apos;d taken the Advanced Web Programming class on a whim to fill one of the credit requirements. It covered HTML, some very basic JavaScript, and PERL/CGI scripting. When I took it I never thought that that&apos;s the job I&apos;d end up with. Then again, I&apos;d already previously stated that I&apos;d never work in healthcare, I&apos;d never work in education, and I&apos;d never do programming. And there I was programming for the Education department in a health system. Lesson learned: never say never. 😃&lt;/p&gt;
+&lt;p&gt;The site was a hacked together mess of static HTML pages and some PERL scripts (more on that in a minute) running on an NT4 server. I think I still have a zipped copy floating around somewhere… I might have to dig it up and post some screencaps.&lt;/p&gt;
+&lt;p&gt;My predecessor was a Nurse Educator who had been tasked with creating the website. While she was smart, this wasn&apos;t exactly her bailiwick. There was no master CSS, inline styles run amok, no &lt;code&gt;&amp;lt;!-- #include --&amp;gt;&lt;/code&gt; statements to be found (granted, it was hosted on NT4 in 2003, but even NT4 had server-side includes), and the general design and cohesion to rival the best the late ‘90s had to offer (did I mention this was 2003?).&lt;/p&gt;
+&lt;p&gt;The only server scripting was the PERL used to grade the test and record the results. Since lunch is nearly up and I need a minute to publish, I&apos;ll leave that for the starting point of the next part.&lt;/p&gt;</content>
+  </entry>
   
   <entry>
     <id>http://www.anonjr.com/2017/09/13-Years-In-The-Valley-1.html</id>
