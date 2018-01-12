@@ -1,0 +1,1 @@
+This is a reminder to write up the experience at Dunkin with the manager who was awesome and his surprise at me being a reasonable, decent human. Add in some reflection.
