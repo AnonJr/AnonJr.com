@@ -165,6 +165,20 @@
 	
   
 	
+	<url>
+		<loc>http://www.anonjr.com/styleguide/stylecheck-page.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	
+  
+	
+	<url>
+		<loc>http://www.anonjr.com/styleguide/stylecheck-post.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	
   
 	
 	<url>
