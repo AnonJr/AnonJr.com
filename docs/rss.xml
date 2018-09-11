@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
 <channel>
     <title>AnonJr.com</title>
     <link>http://www.anonjr.com</link>
     <atom:link href="http://www.anonjr.com/rss.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Mon, 10 Sep 2018 23:50:59 -04:00</pubDate>
-    <lastBuildDate>Mon, 10 Sep 2018 23:50:59 -04:00</lastBuildDate>
+    <pubDate>Tue, 11 Sep 2018 12:11:18 -04:00</pubDate>
+    <lastBuildDate>Tue, 11 Sep 2018 12:11:18 -04:00</lastBuildDate>
     
     <item>
       <title>Retrospective: 13 Years in the Valley, Part 2</title>

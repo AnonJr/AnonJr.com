@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="https://www.w3.org/2005/Atom">
   <title>AnonJr.com</title>
   <link href="http://www.anonjr.com"/>
   <link type="application/atom+xml" rel="self" href="http://www.anonjr.com/atom.xml"/>
-  <updated>2018-09-10T23:50:59.2873481-04:00</updated>
+  <updated>2018-09-11T12:11:18.5583004-04:00</updated>
   <id>http://www.anonjr.com</id>
   <author>
     <name>Mark Bussell Jr. (AnonJr)</name>

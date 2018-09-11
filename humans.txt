@@ -3,7 +3,7 @@
 
 # TEAM
     Everything : Mark Bussell Jr (AnonJr)
-    Blog       : http://blog.anonjr.com/
+    Blog       : http://www.anonjr.com/
     Twitter    : @AnonJr
     CV         : https://careers.stackoverflow.com/anonjr
 

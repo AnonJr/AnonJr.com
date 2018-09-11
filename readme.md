@@ -1,6 +1,6 @@
 # blog.anonjr.com
 
-This is the content for my [personal blog](http://blog.anonjr.com). While hosting with GitHub Pages, I'm using [Pretzel](https://github.com/Code52/pretzel) for the actual static site build.
+This is the content for my [personal blog](http://www.anonjr.com). While hosting with GitHub Pages, I'm using [Pretzel](https://github.com/Code52/pretzel) for the actual static site build.
 
 ## Run it locally
 
