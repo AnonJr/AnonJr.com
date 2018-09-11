@@ -1,6 +1,6 @@
 ---
 title: "Sabbaticals, Reflections, Changes, and Future Projects"
-date: 2018-09-10 23:30:00 -0500
+date: 2017-10-30 12:30:00 -0500
 author: AnonJr
 layout: post
 comments: true
@@ -9,20 +9,18 @@ tags:
 - personal
 ---
 
-Looks like some changes are on the horizon&hellip; (and have been since I started this draft on 2017-10-30)
+Looks like some changes are on the horizon&hellip;
 
 {% embed youtube "bUy-Z1imUME" %}{% endembed %}
 <!-- https://youtu.be/bUy-Z1imUME -->
 
-Burnout is one of those things that's been written about a lot lately, particularly in the tech industry. If you're not familiar, https://dev.to has a [couple][5] [articles][4] worth reading. With all the wonderful articles out there, what can I add? A case study - me.
+Burnout is one of those things that's been written about a lot lately, particularly in the tech industry. If you're not familiar, https://dev.to has a [couple][5] [articles][4] worth reading. With all the wonderful articles out there, what can I add? A case study - me. :)
 
-I've mentioned my burnout on my blog a few times before, so I won't dwell - instead I'll use it as the launching point for what's been going on: a sabbatical.
+I've mentioned my burnout on my blog a few times before, so I won't dwell - instead I'll use it as the launching point for what's next: a sabbatical.
 
 In an ideal world I would have taken more regular time off, and I would have advocated for a more balanced life for myself, and recognized when the work environment was no longer healthy. That would have been good then, so what to do now?
 
 I remember a long time ago reading about how [we should all take sabbaticals][1]. At the time I read Joel's post I didn't really take it to heart. I'd just finished college, and was still only months into my brand new job. The idea that I could be so tired and run down that an extended time away was needed &hellip; I just couldn't comprehend it.
-
-
 
 {% picture 2017-11-03_JabbaRelaxing.jpg %}
 Jabba illustrating how to relax.
