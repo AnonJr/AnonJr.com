@@ -11,8 +11,9 @@
 	Language   : English
 	Standards  : HTML5, CSS3
 	Components : HTML5Shiv, YUI3 CSS Reset
-	Dev Tools  : Visual Studio Code, Pretzel, Paint.NET
+	Dev Tools  : Visual Studio Code, Jekyll, Paint.NET
+    Hosting    : 1and1.com, Cloudflare.com for CDN
 
 # SPECIAL THANKS
 	https://browsershots.org/
-    https://github.com/Code52/pretzel/
+    https://jekyllrb.com/
