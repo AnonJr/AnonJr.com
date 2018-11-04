@@ -3,7 +3,7 @@
   <title>AnonJr.com</title>
   <link href="http://www.anonjr.com"/>
   <link type="application/atom+xml" rel="self" href="http://www.anonjr.com/atom.xml"/>
-  <updated>2018-11-02T23:34:41.1522741-04:00</updated>
+  <updated>2018-11-03T22:37:21.0167325-04:00</updated>
   <id>http://www.anonjr.com</id>
   <author>
     <name>Mark Bussell Jr. (AnonJr)</name>
@@ -12,10 +12,43 @@
 
   
   <entry>
+    <id>http://www.anonjr.com/2018/11/Sabbaticals-Reflections-and-Changes.html</id>
+    <link type="text/html" rel="alternate" href="http://www.anonjr.com/2018/11/Sabbaticals-Reflections-and-Changes.html"/>
+    <title>Sabbaticals, Reflections, and Changes</title>
+    <updated>2018-11-03T23:30:00-04:00</updated>
+    <author>
+      <name>Mark Bussell Jr. (AnonJr)</name>
+      <uri>http://www.anonjr.com</uri>
+    </author>
+    <content type="html">&lt;p&gt;I&apos;ve had a few versions of this post floating around for longer than I care to think about. What follows is something closer to what I&apos;d started around the same time I was working on the &amp;quot;13 Years in the Valley&amp;quot; retrospectives. For some reason I thought I&apos;d more directly stated just how bad the burnout was, but after looking back I apparently only had the conversation as fully and expressedly in my head.&lt;/p&gt;
+&lt;p&gt;So let&apos;s start the &lt;em&gt;reflection&lt;/em&gt; part of this endevour.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;Burnout is one of those things that&apos;s been written about a lot lately, particularly in the tech industry. If you&apos;re not familiar, the Wikipedia page on &lt;a href=&quot;https://en.wikipedia.org/wiki/Occupational_burnout&quot;&gt;Occupational Burnout&lt;/a&gt; is a good overview of the subject. &lt;a href=&quot;https://dev.to&quot;&gt;Dev.to&lt;/a&gt; also has a &lt;a href=&quot;https://dev.to/mary_grace/burnout-what-happens-when-you-take-on-too-much-74d&quot;&gt;couple&lt;/a&gt; &lt;a href=&quot;https://dev.to/wolfemurray/burnout-8hk&quot;&gt;articles&lt;/a&gt; worth reading. While I&apos;ve not quite hit &lt;a href=&quot;https://www.popehat.com/2015/05/21/happy-to-be-here/&quot;&gt;Happy to be Here&lt;/a&gt; territory, &lt;a href=&quot;http://thebloggess.com/furiously-happy/&quot;&gt;Furiously Happy&lt;/a&gt; certainly had some chapters that resonated.&lt;/p&gt;
+&lt;p&gt;If I&apos;m being completely honest, the warning signs were there in 2014. I may even get to some of that in a resumed rendition of retrospectives. In January 2016 I reached a point where I was at least willing to admit something was deeply wrong and find out just where I was at. So I took the &lt;a href=&quot;https://en.wikipedia.org/wiki/Maslach_Burnout_Inventory&quot;&gt;Maslach Burnout Inventory&lt;/a&gt; and found the following results looking back at me:&lt;/p&gt;
+&lt;figure class=&quot;image&quot;&gt;
+&lt;img itemprop=&quot;image&quot; src=&quot;/img/2018-11-03-MBIResults.png&quot; title=&quot;&amp;hellip;ouch.&quot; alt=&quot;&amp;hellip;ouch.&quot; class=&quot;pure-img&quot;/&gt;
+&lt;figcaption&gt;
+&amp;hellip;ouch.
+&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;I tried to work within the system, I tried counseling, and in the end it just wasn&apos;t getting better. In an ideal world I would have taken more regular time off, and I would have advocated for a more balanced life for myself, and recognized when the work environment was no longer healthy.&lt;/p&gt;
+&lt;p&gt;That would have been good then, so what to do now?&lt;/p&gt;
+&lt;p&gt;I remember a long time ago reading about how &lt;a href=&quot;https://www.joelonsoftware.com/2000/03/18/more-on-sabbaticals/&quot;&gt;we should all take sabbaticals&lt;/a&gt;. At the time I read Joel&apos;s post I didn&apos;t really take it to heart. I&apos;d just finished college, and was still only months into my brand new job. The idea that I could be so tired and run down that an extended time away was needed … I just couldn&apos;t comprehend it.&lt;/p&gt;
+&lt;p&gt;Now I get it. &lt;em&gt;Time to take a sabbatical.&lt;/em&gt; December 15, 2017 I stepped down from full-time work and moved to a per-diem teaching position. The end of 14 years full-time work at Cape Fear Valley. Teaching was a nice way to keep up professionally, and get myself out of the house from time to time. Unfortunately, it was also still too much. So in June I quit completely.&lt;/p&gt;
+&lt;p&gt;To get ready for the sabbatical, in September 2017 I started working part-time at the local Music and Arts. I added the earnings to my current savings and pumped up what I was terming my &amp;quot;sabbatical fund&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Knowing that given my energy levels were what they were, I kept the job to make sure I&apos;d get out of the house and actually engage in the time honored tradition of verbal communication with actual humans.&lt;/p&gt;
+&lt;figure class=&quot;image&quot;&gt;
+&lt;img itemprop=&quot;image&quot; src=&quot;/img/2018-11-03_JabbaRelaxing.jpg&quot; title=&quot;Jabba, illustrating my energy levels.&quot; alt=&quot;Jabba, illustrating my energy levels.&quot; class=&quot;pure-img&quot;/&gt;
+&lt;figcaption&gt;
+Jabba, illustrating my energy levels.
+&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;This is where the &lt;em&gt;changes&lt;/em&gt; part was supposed to go, but I&apos;ve run out of steam. Definitely to be finished before the month is up.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
     <id>http://www.anonjr.com/2018/11/Projects-Projects-Projects.html</id>
     <link type="text/html" rel="alternate" href="http://www.anonjr.com/2018/11/Projects-Projects-Projects.html"/>
     <title>Projects Projects Projects</title>
-    <updated>2018-11-03T00:30:00-04:00</updated>
+    <updated>2018-11-02T23:30:00-04:00</updated>
     <author>
       <name>Mark Bussell Jr. (AnonJr)</name>
       <uri>http://www.anonjr.com</uri>
@@ -52,7 +85,7 @@
     <id>http://www.anonjr.com/2018/11/Almost-NaNoWriMo.html</id>
     <link type="text/html" rel="alternate" href="http://www.anonjr.com/2018/11/Almost-NaNoWriMo.html"/>
     <title>Almost NaNoWriMo</title>
-    <updated>2018-11-02T00:30:00-04:00</updated>
+    <updated>2018-11-01T23:30:00-04:00</updated>
     <author>
       <name>Mark Bussell Jr. (AnonJr)</name>
       <uri>http://www.anonjr.com</uri>

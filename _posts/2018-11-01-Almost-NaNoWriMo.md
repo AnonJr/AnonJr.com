@@ -1,6 +1,6 @@
 ---
 title: "Almost NaNoWriMo"
-date: 2018-11-01 23:30:00 -0500
+date: 2018-11-01 22:30:00 -0500
 author: AnonJr
 layout: post
 comments: true

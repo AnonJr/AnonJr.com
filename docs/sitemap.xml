@@ -7,15 +7,22 @@
   <!-- Generated with pretzel -->
   
   <url>
+    <loc>http://www.anonjr.com/2018/11/Sabbaticals-Reflections-and-Changes.html</loc>
+    <lastmod>2018-11-03T23:30:00-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+  
+  <url>
     <loc>http://www.anonjr.com/2018/11/Projects-Projects-Projects.html</loc>
-    <lastmod>2018-11-03T00:30:00-04:00</lastmod>
+    <lastmod>2018-11-02T23:30:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
   </url>
   
   <url>
     <loc>http://www.anonjr.com/2018/11/Almost-NaNoWriMo.html</loc>
-    <lastmod>2018-11-02T00:30:00-04:00</lastmod>
+    <lastmod>2018-11-01T23:30:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
   </url>
@@ -100,6 +107,10 @@
 		<changefreq>daily</changefreq>
 		<priority>1.00</priority>
 	</url>
+	
+  
+	
+  
 	
   
 	
@@ -205,6 +216,14 @@
 	
 	<url>
 		<loc>http://www.anonjr.com/tag/bible-by-example/index.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	
+  
+	
+	<url>
+		<loc>http://www.anonjr.com/tag/burnout/index.html</loc>
 		<changefreq>daily</changefreq>
 		<priority>1.00</priority>
 	</url>
