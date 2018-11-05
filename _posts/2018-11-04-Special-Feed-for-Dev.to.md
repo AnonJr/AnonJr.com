@@ -20,53 +20,16 @@ Which brings us to this bit - I've got a second RSS feed now with just the artic
 
 In the front matter I have a `repost` variable like so:
 
-```
----
-title: "Special Feed for Dev.to"
-date: 2018-11-04 22:30:00 -0500
-author: AnonJr
-layout: post
-comments: true
-repost: "dev.to"
-tags:
-- meta
-- programming
----
-```
+{% picture "/img/2018-11-04-frontmatter.png" "pure-img" %}
+(side note: need to fix the highlighting/rendering of markdown code in posts...)
+{% endpicture %}
 
 Originally I was going to set up a "to-dev.to" tag, and go that way, but that didn't seem useful for the people who were visiting my site.
 
 And there's now a `todev.to.xml` that filters through the posts for just those that I want to republish.
 
-```
----
-layout: nil
----
-<?xml version="1.0"?>
-<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
-<channel>
-    <title>{{ site.title }}</title>
-    <link>{{ site.url }}</link>
-    <atom:link href="{{ site.url }}/rss.xml" rel="self" type="application/rss+xml" />
-    <description></description>
-    <language>en-us</language>
-    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %Z" }}</pubDate>
-    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %Z" }}</lastBuildDate>
-    {% for post in site.posts %}
-      {% if post.repost == "dev.to" %}
-        <item>
-          <title>{{ post.title | xml_escape }}</title>
-          <link>{{ site.url }}{{ post.url }}</link>
-          <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %Z" }}</pubDate>
-          <author>Author</author>
-          <guid>{{ site.url }}{{ post.url }}</guid>
-          <description>{{ post.content | xml_escape }}</description>
-        </item>
-      {% endif %}
-    {% endfor %}
-  </channel>
-</rss>
-```
+{% picture "/img/2018-11-04-devtoxml.png" "pure-img" %}
+{% endpicture %}
 
 At my next opportunity, I'm going to try and pump it through the [Compress layout](https://github.com/penibelst/jekyll-compress-html) and see if that can get the size down without breaking anything. Though now that I think about it, I'd have to either adapt it to work with [Pretzel](https://github.com/Code52/pretzel) or do the Pretzel-to-Jekyll conversion first.
 
