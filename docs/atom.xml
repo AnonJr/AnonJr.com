@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <feed xmlns="https://www.w3.org/2005/Atom">
   <title>AnonJr.com</title>
-  <link href="http://www.anonjr.com"/>
-  <link type="application/atom+xml" rel="self" href="http://www.anonjr.com/atom.xml"/>
-  <updated>2018-11-05T20:46:49.4135988-05:00</updated>
-  <id>http://www.anonjr.com</id>
+  <link href="https://www.anonjr.com"/>
+  <link type="application/atom+xml" rel="self" href="https://www.anonjr.com/atom.xml"/>
+  <updated>2018-11-05T20:57:43.3205911-05:00</updated>
+  <id>https://www.anonjr.com</id>
   <author>
     <name>Mark Bussell Jr. (AnonJr)</name>
     <email>Email</email>
@@ -12,13 +12,13 @@
 
   
   <entry>
-    <id>http://www.anonjr.com/2018/11/In-Defence-of-Almost-NaNoWriMo.html</id>
-    <link type="text/html" rel="alternate" href="http://www.anonjr.com/2018/11/In-Defence-of-Almost-NaNoWriMo.html"/>
+    <id>https://www.anonjr.com/2018/11/In-Defence-of-Almost-NaNoWriMo.html</id>
+    <link type="text/html" rel="alternate" href="https://www.anonjr.com/2018/11/In-Defence-of-Almost-NaNoWriMo.html"/>
     <title>In Defence of Almost NaNoWriMo</title>
     <updated>2018-11-05T22:30:00-05:00</updated>
     <author>
       <name>Mark Bussell Jr. (AnonJr)</name>
-      <uri>http://www.anonjr.com</uri>
+      <uri>https://www.anonjr.com</uri>
     </author>
     <content type="html">&lt;p&gt;Not 1/6&lt;sup&gt;th&lt;/sup&gt; of the way in to &lt;a href=&quot;/2018/11/Almost-NaNoWriMo.html&quot;&gt;Almost NaNoWriMo&lt;/a&gt;, and I&apos;ll admit to feeling a little defensive. I was originally thinking of this article this morning in terms of being a spot-check or reflection on the exercise so far, but if I&apos;m being brutally honest, it was a couple of comments that have been on a slow burn in the back of my mind since last night:&lt;/p&gt;
 &lt;figure class=&quot;image&quot;&gt;
@@ -70,13 +70,13 @@ Ghostwriter&apos;s Document Statistics
   </entry>
   
   <entry>
-    <id>http://www.anonjr.com/2018/11/Special-Feed-for-Dev.to.html</id>
-    <link type="text/html" rel="alternate" href="http://www.anonjr.com/2018/11/Special-Feed-for-Dev.to.html"/>
+    <id>https://www.anonjr.com/2018/11/Special-Feed-for-Dev.to.html</id>
+    <link type="text/html" rel="alternate" href="https://www.anonjr.com/2018/11/Special-Feed-for-Dev.to.html"/>
     <title>Special Feed for Dev.to</title>
     <updated>2018-11-04T22:30:00-05:00</updated>
     <author>
       <name>Mark Bussell Jr. (AnonJr)</name>
-      <uri>http://www.anonjr.com</uri>
+      <uri>https://www.anonjr.com</uri>
     </author>
     <content type="html">&lt;p&gt;Back in January 2017 I started following what looked like a small and promising community of programmers (and those in adjacent fields) over at &lt;a href=&quot;https://dev.to/&quot;&gt;Dev.to&lt;/a&gt;. At the time I had the site&apos;s whole feed pumping into my Feedly list, I&apos;d commented on a few posts, and I was starting to think about either revitalizing this blog or picking some other platform for posting.&lt;/p&gt;
 &lt;p&gt;In the end I decided to try and revitalize this site, beginning with &lt;a href=&quot;/2017/07/A-Pretzel-A-Jekyll-Some-Pages-Cranky-Git.html&quot;&gt;a bit on the tech&lt;/a&gt; behind a couple of projects.&lt;/p&gt;
@@ -100,13 +100,13 @@ Ghostwriter&apos;s Document Statistics
   </entry>
   
   <entry>
-    <id>http://www.anonjr.com/2018/11/Sabbaticals-Reflections-and-Changes.html</id>
-    <link type="text/html" rel="alternate" href="http://www.anonjr.com/2018/11/Sabbaticals-Reflections-and-Changes.html"/>
+    <id>https://www.anonjr.com/2018/11/Sabbaticals-Reflections-and-Changes.html</id>
+    <link type="text/html" rel="alternate" href="https://www.anonjr.com/2018/11/Sabbaticals-Reflections-and-Changes.html"/>
     <title>Sabbaticals, Reflections, and Changes</title>
     <updated>2018-11-03T23:30:00-04:00</updated>
     <author>
       <name>Mark Bussell Jr. (AnonJr)</name>
-      <uri>http://www.anonjr.com</uri>
+      <uri>https://www.anonjr.com</uri>
     </author>
     <content type="html">&lt;p&gt;I&apos;ve had a few versions of this post floating around for longer than I care to think about. What follows is something closer to what I&apos;d started around the same time I was working on the &amp;quot;13 Years in the Valley&amp;quot; retrospectives. For some reason I thought I&apos;d more directly stated just how bad the burnout was, but after looking back I apparently only had the conversation as fully and expressedly in my head.&lt;/p&gt;
 &lt;p&gt;So let&apos;s start the &lt;em&gt;reflection&lt;/em&gt; part of this endevour.&lt;/p&gt;
@@ -133,13 +133,13 @@ Jabba, illustrating my energy levels.
   </entry>
   
   <entry>
-    <id>http://www.anonjr.com/2018/11/Projects-Projects-Projects.html</id>
-    <link type="text/html" rel="alternate" href="http://www.anonjr.com/2018/11/Projects-Projects-Projects.html"/>
+    <id>https://www.anonjr.com/2018/11/Projects-Projects-Projects.html</id>
+    <link type="text/html" rel="alternate" href="https://www.anonjr.com/2018/11/Projects-Projects-Projects.html"/>
     <title>Projects Projects Projects</title>
     <updated>2018-11-02T23:30:00-04:00</updated>
     <author>
       <name>Mark Bussell Jr. (AnonJr)</name>
-      <uri>http://www.anonjr.com</uri>
+      <uri>https://www.anonjr.com</uri>
     </author>
     <content type="html">&lt;p&gt;In &lt;a href=&quot;/2018/11/Almost-NaNoWriMo.html&quot;&gt;yesterday&apos;s post&lt;/a&gt; I mentioned my goals for the coming month, and one was going through the various projects and giving a bit of a status report on them. Today&apos;s going to be a bit of a high-level overview, and the next few posts will dig a little deeper into each project.&lt;/p&gt;
 &lt;!--more--&gt;
@@ -170,13 +170,13 @@ Jabba, illustrating my energy levels.
   </entry>
   
   <entry>
-    <id>http://www.anonjr.com/2018/11/Almost-NaNoWriMo.html</id>
-    <link type="text/html" rel="alternate" href="http://www.anonjr.com/2018/11/Almost-NaNoWriMo.html"/>
+    <id>https://www.anonjr.com/2018/11/Almost-NaNoWriMo.html</id>
+    <link type="text/html" rel="alternate" href="https://www.anonjr.com/2018/11/Almost-NaNoWriMo.html"/>
     <title>Almost NaNoWriMo</title>
     <updated>2018-11-01T23:30:00-04:00</updated>
     <author>
       <name>Mark Bussell Jr. (AnonJr)</name>
-      <uri>http://www.anonjr.com</uri>
+      <uri>https://www.anonjr.com</uri>
     </author>
     <content type="html">&lt;p&gt;It seems a little ridiculous to tag this &amp;quot;NaNoWriMo&amp;quot;, but I&apos;m not really sure what to call it. I&apos;ve had a few posts in draft for longer than I care to mention, and while the desire has been there the energy has been lacking… most likely to be the subject of some upcoming posts.&lt;/p&gt;
 &lt;p&gt;For those who don&apos;t know, &lt;a href=&quot;https://nanowrimo.org/&quot;&gt;NaNoWriMo&lt;/a&gt; is short for National Novel Writing Month. The idea being that you just start writing at the start of November, and work at a steady pace to have a completed work by the end of the month. Just writing, edit later. It&apos;s a really nice idea for helping those of us who just need a little push to get started.&lt;/p&gt;
@@ -188,13 +188,13 @@ Jabba, illustrating my energy levels.
   </entry>
   
   <entry>
-    <id>http://www.anonjr.com/2017/09/13-Years-In-The-Valley-2.html</id>
-    <link type="text/html" rel="alternate" href="http://www.anonjr.com/2017/09/13-Years-In-The-Valley-2.html"/>
+    <id>https://www.anonjr.com/2017/09/13-Years-In-The-Valley-2.html</id>
+    <link type="text/html" rel="alternate" href="https://www.anonjr.com/2017/09/13-Years-In-The-Valley-2.html"/>
     <title>Retrospective: 13 Years in the Valley, Part 2</title>
     <updated>2017-09-20T13:30:00-04:00</updated>
     <author>
       <name>Mark Bussell Jr. (AnonJr)</name>
-      <uri>http://www.anonjr.com</uri>
+      <uri>https://www.anonjr.com</uri>
     </author>
     <content type="html">&lt;p&gt;A lot of life has been happening, and it seems maybe I need a little perspective - and so this &amp;quot;retrospective&amp;quot;.&lt;/p&gt;
 &lt;p&gt;Six days later and I still haven&apos;t quite gotten into the habit of regular blogging yet, so whatever is done by the time my lunch break is over is what&apos;s getting posted. Like before, some of that time was taken getting some essentials:&lt;/p&gt;
@@ -216,13 +216,13 @@ Essential Asset
   </entry>
   
   <entry>
-    <id>http://www.anonjr.com/2017/09/13-Years-In-The-Valley-1.html</id>
-    <link type="text/html" rel="alternate" href="http://www.anonjr.com/2017/09/13-Years-In-The-Valley-1.html"/>
+    <id>https://www.anonjr.com/2017/09/13-Years-In-The-Valley-1.html</id>
+    <link type="text/html" rel="alternate" href="https://www.anonjr.com/2017/09/13-Years-In-The-Valley-1.html"/>
     <title>Retrospective: 13 Years in the Valley, Part 1</title>
     <updated>2017-09-14T13:45:00-04:00</updated>
     <author>
       <name>Mark Bussell Jr. (AnonJr)</name>
-      <uri>http://www.anonjr.com</uri>
+      <uri>https://www.anonjr.com</uri>
     </author>
     <content type="html">&lt;p&gt;A lot of life has been happening, and it seems maybe I need a little perspective - and so this &amp;quot;retrospective&amp;quot;.&lt;/p&gt;
 &lt;h2 id=&quot;why-part-1&quot;&gt;Why Part 1?&lt;/h2&gt;
@@ -253,13 +253,13 @@ Essential Asset
   </entry>
   
   <entry>
-    <id>http://www.anonjr.com/2017/07/A-Pretzel-A-Jekyll-Some-Pages-Cranky-Git.html</id>
-    <link type="text/html" rel="alternate" href="http://www.anonjr.com/2017/07/A-Pretzel-A-Jekyll-Some-Pages-Cranky-Git.html"/>
+    <id>https://www.anonjr.com/2017/07/A-Pretzel-A-Jekyll-Some-Pages-Cranky-Git.html</id>
+    <link type="text/html" rel="alternate" href="https://www.anonjr.com/2017/07/A-Pretzel-A-Jekyll-Some-Pages-Cranky-Git.html"/>
     <title>A Pretzel, A Jekyll, Some Pages, and a Cranky Git</title>
     <updated>2017-07-28T14:00:00-04:00</updated>
     <author>
       <name>Mark Bussell Jr. (AnonJr)</name>
-      <uri>http://www.anonjr.com</uri>
+      <uri>https://www.anonjr.com</uri>
     </author>
     <content type="html">&lt;p&gt;Don&apos;t mind the dust, and sorry about the cobwebs… To say it&apos;s been a while would be something of an understatement since the last post is from 2013.&lt;/p&gt;
 &lt;p&gt;At the time I was earnestly looking to ramp up and do something with the Blogger account I opened and never actually used for anything other than oAuth. Life hit hard - a combination of events, accumulated effects of a sleep disorder, depression, and the early stages of burnout - and so it sat a little longer.&lt;/p&gt;
@@ -290,13 +290,13 @@ Essential Asset
   </entry>
   
   <entry>
-    <id>http://www.anonjr.com/2013/06/ASP-Ajaxed-2.1.1_-Finding-my-feet.html</id>
-    <link type="text/html" rel="alternate" href="http://www.anonjr.com/2013/06/ASP-Ajaxed-2.1.1_-Finding-my-feet.html"/>
+    <id>https://www.anonjr.com/2013/06/ASP-Ajaxed-2.1.1_-Finding-my-feet.html</id>
+    <link type="text/html" rel="alternate" href="https://www.anonjr.com/2013/06/ASP-Ajaxed-2.1.1_-Finding-my-feet.html"/>
     <title>ASP-Ajaxed 2.1.1: Finding my feet</title>
     <updated>2013-06-19T09:53:00-04:00</updated>
     <author>
       <name>Mark Bussell Jr. (AnonJr)</name>
-      <uri>http://www.anonjr.com</uri>
+      <uri>https://www.anonjr.com</uri>
     </author>
     <content type="html">&lt;p&gt;Woot! &lt;a href=&quot;https://code.google.com/p/asp-ajaxed/downloads/detail?name=asp-ajaxed_v2.1.1.zip&quot;&gt;ASP Ajaxed 2.1.1&lt;/a&gt; is up. 😃&lt;/p&gt;
 &lt;p&gt;As I mentioned in an &lt;a href=&quot;/2013/06/Keeping-a-good-thing-going.html&quot;&gt;earlier post&lt;/a&gt;, I took over the ASP Ajaxed project in the hopes of keeping it alive. I&apos;m still orienting myself to how Google Code hosts projects, and I&apos;m still trying to figure out just how I&apos;m going to go about running this particular project.&lt;/p&gt;
@@ -306,13 +306,13 @@ Essential Asset
   </entry>
   
   <entry>
-    <id>http://www.anonjr.com/2013/06/Keeping-a-good-thing-going.html</id>
-    <link type="text/html" rel="alternate" href="http://www.anonjr.com/2013/06/Keeping-a-good-thing-going.html"/>
+    <id>https://www.anonjr.com/2013/06/Keeping-a-good-thing-going.html</id>
+    <link type="text/html" rel="alternate" href="https://www.anonjr.com/2013/06/Keeping-a-good-thing-going.html"/>
     <title>Keeping a good thing going</title>
     <updated>2013-06-14T21:53:00-04:00</updated>
     <author>
       <name>Mark Bussell Jr. (AnonJr)</name>
-      <uri>http://www.anonjr.com</uri>
+      <uri>https://www.anonjr.com</uri>
     </author>
     <content type="html">&lt;p&gt;I do a lot of Classic ASP/VBScript programming - It&apos;s what my bread-winning project is built in, it&apos;s what my side projects are built in, it&apos;s what Snitz Forums (a FLOSS project I help with) is written in.&lt;/p&gt;
 &lt;p&gt;One of the things that has made my life a little easier is a neat little ASP/VBScript framework over at &lt;a href=&quot;https://code.google.com/p/asp-ajaxed/&quot;&gt;https://code.google.com/p/asp-ajaxed/&lt;/a&gt;. I&apos;ve integrated it into the LMS I built for work, and a few other work-related projects. I &lt;em&gt;love&lt;/em&gt; it.&lt;/p&gt;
@@ -322,13 +322,13 @@ Essential Asset
   </entry>
   
   <entry>
-    <id>http://www.anonjr.com/2013/06/New-Year,-New-Projects,-New-Blog.html</id>
-    <link type="text/html" rel="alternate" href="http://www.anonjr.com/2013/06/New-Year,-New-Projects,-New-Blog.html"/>
+    <id>https://www.anonjr.com/2013/06/New-Year,-New-Projects,-New-Blog.html</id>
+    <link type="text/html" rel="alternate" href="https://www.anonjr.com/2013/06/New-Year,-New-Projects,-New-Blog.html"/>
     <title>New Year, New Projects, New Blog</title>
     <updated>2013-06-14T21:42:00-04:00</updated>
     <author>
       <name>Mark Bussell Jr. (AnonJr)</name>
-      <uri>http://www.anonjr.com</uri>
+      <uri>https://www.anonjr.com</uri>
     </author>
     <content type="html">&lt;p&gt;Well... the last part is a bit of a stretch. I&apos;ve had this account for quite some time.&lt;/p&gt;
 &lt;p&gt;I was recently updating my CV over at &lt;a href=&quot;http://careers.stackoverflow.com/anonjr&quot;&gt;Stack Overflow Careers&lt;/a&gt; and it occurred to me that one thing I&apos;m really short on is publicly available projects and writing... time to fix that.&lt;/p&gt;

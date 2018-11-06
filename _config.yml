@@ -8,7 +8,7 @@ title:            AnonJr.com
 tagline:          '[Insert witty by-line here]'
 description:      'The personal blog of AnonJr'
 imageurl:         '/res/gravatar.png'
-url:              http://www.anonjr.com
+url:              https://www.anonjr.com
 only_frontmatter_categories: true
 
 author:

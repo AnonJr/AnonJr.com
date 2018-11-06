@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
 <channel>
     <title>AnonJr.com</title>
-    <link>http://www.anonjr.com</link>
-    <atom:link href="http://www.anonjr.com/rss.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.anonjr.com</link>
+    <atom:link href="https://www.anonjr.com/rss.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Mon, 05 Nov 2018 20:46:49 -05:00</pubDate>
-    <lastBuildDate>Mon, 05 Nov 2018 20:46:49 -05:00</lastBuildDate>
+    <pubDate>Mon, 05 Nov 2018 20:57:43 -05:00</pubDate>
+    <lastBuildDate>Mon, 05 Nov 2018 20:57:43 -05:00</lastBuildDate>
     
       
         <item>
           <title>In Defence of Almost NaNoWriMo</title>
-          <link>http://www.anonjr.com/2018/11/In-Defence-of-Almost-NaNoWriMo.html</link>
+          <link>https://www.anonjr.com/2018/11/In-Defence-of-Almost-NaNoWriMo.html</link>
           <pubDate>Mon, 05 Nov 2018 22:30:00 -05:00</pubDate>
           <author>Author</author>
-          <guid>http://www.anonjr.com/2018/11/In-Defence-of-Almost-NaNoWriMo.html</guid>
+          <guid>https://www.anonjr.com/2018/11/In-Defence-of-Almost-NaNoWriMo.html</guid>
           <description>&lt;p&gt;Not 1/6&lt;sup&gt;th&lt;/sup&gt; of the way in to &lt;a href=&quot;/2018/11/Almost-NaNoWriMo.html&quot;&gt;Almost NaNoWriMo&lt;/a&gt;, and I&apos;ll admit to feeling a little defensive. I was originally thinking of this article this morning in terms of being a spot-check or reflection on the exercise so far, but if I&apos;m being brutally honest, it was a couple of comments that have been on a slow burn in the back of my mind since last night:&lt;/p&gt;
 &lt;figure class=&quot;image&quot;&gt;
 &lt;img itemprop=&quot;image&quot; src=&quot;/img/2018-11-05-UnhelpfulAdvice-01.png&quot; title=&quot;&quot; alt=&quot;&quot; class=&quot;pure-img&quot;/&gt;
@@ -69,10 +69,10 @@ Ghostwriter&apos;s Document Statistics
       
         <item>
           <title>Special Feed for Dev.to</title>
-          <link>http://www.anonjr.com/2018/11/Special-Feed-for-Dev.to.html</link>
+          <link>https://www.anonjr.com/2018/11/Special-Feed-for-Dev.to.html</link>
           <pubDate>Sun, 04 Nov 2018 22:30:00 -05:00</pubDate>
           <author>Author</author>
-          <guid>http://www.anonjr.com/2018/11/Special-Feed-for-Dev.to.html</guid>
+          <guid>https://www.anonjr.com/2018/11/Special-Feed-for-Dev.to.html</guid>
           <description>&lt;p&gt;Back in January 2017 I started following what looked like a small and promising community of programmers (and those in adjacent fields) over at &lt;a href=&quot;https://dev.to/&quot;&gt;Dev.to&lt;/a&gt;. At the time I had the site&apos;s whole feed pumping into my Feedly list, I&apos;d commented on a few posts, and I was starting to think about either revitalizing this blog or picking some other platform for posting.&lt;/p&gt;
 &lt;p&gt;In the end I decided to try and revitalize this site, beginning with &lt;a href=&quot;/2017/07/A-Pretzel-A-Jekyll-Some-Pages-Cranky-Git.html&quot;&gt;a bit on the tech&lt;/a&gt; behind a couple of projects.&lt;/p&gt;
 &lt;p&gt;One of the things I&apos;d considered at the time, and mentioned in &lt;a href=&quot;/2018/11/Projects-Projects-Projects.html&quot;&gt;Projects Projects Projects&lt;/a&gt;, is setting up a custom RSS feed for just the articles I wanted to submit at Dev.To. I plan on publishing a wide variety of articles here, and I know not all of them will be right for the community there, so I want to make sure I&apos;m filtering out the rest. I tried just running my regular RSS feed to my profile there, but it left a lot of cruft on my dashboard in the &lt;em&gt;drafts&lt;/em&gt;, and even if I deleted the drafts they would just show up again on the next refresh.&lt;/p&gt;
@@ -98,10 +98,10 @@ Ghostwriter&apos;s Document Statistics
       
         <item>
           <title>Sabbaticals, Reflections, and Changes</title>
-          <link>http://www.anonjr.com/2018/11/Sabbaticals-Reflections-and-Changes.html</link>
+          <link>https://www.anonjr.com/2018/11/Sabbaticals-Reflections-and-Changes.html</link>
           <pubDate>Sat, 03 Nov 2018 23:30:00 -04:00</pubDate>
           <author>Author</author>
-          <guid>http://www.anonjr.com/2018/11/Sabbaticals-Reflections-and-Changes.html</guid>
+          <guid>https://www.anonjr.com/2018/11/Sabbaticals-Reflections-and-Changes.html</guid>
           <description>&lt;p&gt;I&apos;ve had a few versions of this post floating around for longer than I care to think about. What follows is something closer to what I&apos;d started around the same time I was working on the &amp;quot;13 Years in the Valley&amp;quot; retrospectives. For some reason I thought I&apos;d more directly stated just how bad the burnout was, but after looking back I apparently only had the conversation as fully and expressedly in my head.&lt;/p&gt;
 &lt;p&gt;So let&apos;s start the &lt;em&gt;reflection&lt;/em&gt; part of this endevour.&lt;/p&gt;
 &lt;!--more--&gt;
@@ -130,10 +130,10 @@ Jabba, illustrating my energy levels.
       
         <item>
           <title>Projects Projects Projects</title>
-          <link>http://www.anonjr.com/2018/11/Projects-Projects-Projects.html</link>
+          <link>https://www.anonjr.com/2018/11/Projects-Projects-Projects.html</link>
           <pubDate>Fri, 02 Nov 2018 23:30:00 -04:00</pubDate>
           <author>Author</author>
-          <guid>http://www.anonjr.com/2018/11/Projects-Projects-Projects.html</guid>
+          <guid>https://www.anonjr.com/2018/11/Projects-Projects-Projects.html</guid>
           <description>&lt;p&gt;In &lt;a href=&quot;/2018/11/Almost-NaNoWriMo.html&quot;&gt;yesterday&apos;s post&lt;/a&gt; I mentioned my goals for the coming month, and one was going through the various projects and giving a bit of a status report on them. Today&apos;s going to be a bit of a high-level overview, and the next few posts will dig a little deeper into each project.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;p&gt;In no particular order, here we go:&lt;/p&gt;
@@ -166,10 +166,10 @@ Jabba, illustrating my energy levels.
       
         <item>
           <title>Almost NaNoWriMo</title>
-          <link>http://www.anonjr.com/2018/11/Almost-NaNoWriMo.html</link>
+          <link>https://www.anonjr.com/2018/11/Almost-NaNoWriMo.html</link>
           <pubDate>Thu, 01 Nov 2018 23:30:00 -04:00</pubDate>
           <author>Author</author>
-          <guid>http://www.anonjr.com/2018/11/Almost-NaNoWriMo.html</guid>
+          <guid>https://www.anonjr.com/2018/11/Almost-NaNoWriMo.html</guid>
           <description>&lt;p&gt;It seems a little ridiculous to tag this &amp;quot;NaNoWriMo&amp;quot;, but I&apos;m not really sure what to call it. I&apos;ve had a few posts in draft for longer than I care to mention, and while the desire has been there the energy has been lacking… most likely to be the subject of some upcoming posts.&lt;/p&gt;
 &lt;p&gt;For those who don&apos;t know, &lt;a href=&quot;https://nanowrimo.org/&quot;&gt;NaNoWriMo&lt;/a&gt; is short for National Novel Writing Month. The idea being that you just start writing at the start of November, and work at a steady pace to have a completed work by the end of the month. Just writing, edit later. It&apos;s a really nice idea for helping those of us who just need a little push to get started.&lt;/p&gt;
 &lt;!--more--&gt;
