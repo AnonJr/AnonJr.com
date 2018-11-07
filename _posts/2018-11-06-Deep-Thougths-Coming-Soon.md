@@ -1,6 +1,6 @@
 ---
 title: "Deep Thoughts Coming Soon"
-date: 2018-11-05 22:30:00 -0500
+date: 2018-11-06 22:30:00 -0500
 author: AnonJr
 layout: post
 comments: true
