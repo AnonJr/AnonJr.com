@@ -33,4 +33,10 @@ Fortunately, if you want to see the customizations I've made, the [CoffeeCraft.u
 
 My plan is to use some of the textures from the game itself for the major design elements. I need to email Xisumavoid, the website administrator for Hermitcraft, about some of the things he's done with their site.
 
-When it comes to the actual broadcasting, I'm going to use XSplit to manage the stream, and send it out to Restream.io for broadcast to YouTube, Twitch, Mixer, and maybe one or two other services. I still need a couple assets for XSplit, like setting up the scenes and that sort of thing. Good thing the hardware is essentially set. I've done a few one-off 
+When it comes to the actual broadcasting, I'm going to use XSplit to manage the stream, and send it out to Restream.io for broadcast to YouTube, Twitch, Mixer, and maybe one or two other services. I still need a couple assets for XSplit, like setting up the scenes and that sort of thing. Good thing the hardware is essentially set. I've done a few one-off recording/broadcasting bits, so I've got an MXL990 microphone and a few different interfaces for hooking it up to the PC. I've got a decent enough camera from another project, I just need to re-mount it on my new desk. My sister made a beautiful blue backdrop so there's no distracting window over my shoulder.
+
+As for the game itself, we've got a server up locally that's good enough for the three of us. My old Alienware MX17 laptop is now doing double-duty as the media center and Minecraft server. We ran our previous server for a while with little trouble, and we've been running a "Season 00" map since 1.13 was released and for the most part it's been running great.
+
+Of course, all the prep and work is nothing without actually recording and broadcasting. :)
+
+Once I get the email and YouTube set up, I'll start doing some test recording/editing/posting.
