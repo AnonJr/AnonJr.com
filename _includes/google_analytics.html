@@ -9,3 +9,19 @@ ga('send', 'pageview');
 <script async src='//www.google-analytics.com/analytics.js'></script>
 <!-- End Google Analytics -->
 {% endif %}
+
+{% comment %}
+
+{% if site.google_analytics_tracking_id %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-42177830-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ site.google_analytics_tracking_id }}');
+</script>
+{% endif %}
+
+{% endcomment %}

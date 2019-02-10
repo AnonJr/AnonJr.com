@@ -17,4 +17,6 @@
     {% include opengraph.html %}
 
     <script src="/res/html5shiv.js"></script>
+
+    {% if site.google_analytics_tracking_id %}{% include google_analytics.html %}{% endif %}
 </head>
