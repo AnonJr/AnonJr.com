@@ -185,6 +185,22 @@
   
 	
 	<url>
+		<loc>https://www.anonjr.com/p/biblebyexample.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	
+  
+	
+	<url>
+		<loc>https://www.anonjr.com/p/coffeecraft.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	
+  
+	
+	<url>
 		<loc>https://www.anonjr.com/p/projects.html</loc>
 		<changefreq>daily</changefreq>
 		<priority>1.00</priority>
@@ -197,6 +213,18 @@
 		<changefreq>daily</changefreq>
 		<priority>1.00</priority>
 	</url>
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
 	
   
 	
