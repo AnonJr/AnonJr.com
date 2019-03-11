@@ -7,6 +7,13 @@
 /* Colors etc. */
 @highlight-color: #ff9900;
 @container-bg: rgba(0,0,0, .55); /* url(black50.png); */
+@headerFont: 'Alfa Slab One', Georgia, 'Times New Roman', Times, serif;
+@bodyFont: 'Acme', FreeSans, Arimo, "Droid Sans", Helvetica, Arial, sans-serif;
+
+/* Linked Google Fonts
+font-family: 'Acme', sans-serif;
+font-family: 'Alfa Slab One', cursive;
+*/
 
 body
 {
@@ -16,7 +23,7 @@ body
     background-repeat: no-repeat;
     background-attachment: fixed;
     color: #cccccc;
-    font-family: FreeSans, Arimo, "Droid Sans", Helvetica, Arial, sans-serif;
+    font-family: @bodyFont;
     margin-left:auto;
 	margin-right: auto;
 	width:1100px;
@@ -30,7 +37,8 @@ h5,
 h6
 {
     color: #ffffff;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: @headerFont;
+    font-weight: normal;
     margin: 15px 0 5px;
     padding: 2px 0;
 }

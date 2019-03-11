@@ -19,7 +19,7 @@
     {% if page.header.teaser %}
       <meta name="twitter:image" content="{% if page.header.teaser contains "://" %}{{ page.header.teaser }}{% else %}{{ page.header.teaser | absolute_url }}{% endif %}">
     {% elsif site.og_image %}
-      <meta name="twitter:image" content="{{ site.og_image | absolute_url }}">
+      <meta name="twitter:image" content="{{ site.url }}{{ site.og_image }}">
     {% endif %}
   {% endif %}
 
@@ -52,5 +52,5 @@
 {% elsif page.image -%}
   <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
 {% else -%}
-  <meta property="og:image" content="" />
+  <meta property="og:image" content="{{ site.url }}{{ site.og_image }}" />
 {% endif -%}
