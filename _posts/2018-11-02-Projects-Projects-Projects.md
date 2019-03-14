@@ -1,5 +1,6 @@
 ---
 title: "Projects Projects Projects"
+description: "Going through the various projects and giving a bit of a status report on them. Today's going to be a bit of a high-level overview, and the next few posts will dig a little deeper into each project."
 date: 2018-11-02 22:30:00 -0500
 author: AnonJr
 layout: post

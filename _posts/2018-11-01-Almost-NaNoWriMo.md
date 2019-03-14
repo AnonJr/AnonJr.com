@@ -1,5 +1,6 @@
 ---
 title: "Almost NaNoWriMo"
+description: "Blogging has been another writing activity that I've long intended to do, but never seem to actually make happen. For the month of November my goal is to get at least one post out a day."
 date: 2018-11-01 22:30:00 -0500
 author: AnonJr
 layout: post

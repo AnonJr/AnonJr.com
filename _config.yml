@@ -61,7 +61,6 @@ compress_html:
 
 # Misc
 exclude:
-  - _misc
   - _pretzel
   - deploy.cmd
   - test.cmd

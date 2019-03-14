@@ -1,6 +1,8 @@
 ---
 title: New Year, New Projects, New Blog
+description: "Re-starting my blog... pay no attention to the dust."
 date: 2013-06-14 20:42:00 -0500
+author: AnonJr
 layout: post
 comments: true
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "A Pretzel, A Jekyll, Some Pages, and a Cranky Git"
+description: "Restarting some projects, and building some sites using Jekyll, Pretzel, and GitHub Pages."
 date: 2017-07-28 13:00:00 -0500
 author: AnonJr
 layout: post

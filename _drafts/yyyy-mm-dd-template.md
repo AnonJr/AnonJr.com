@@ -1,21 +1,18 @@
 ---
-title: Well, Here I am
-date: 2016-08-31 20:42:00 -0500
+title: "Post Title"
+description: "Post Summary"
+date: 2018-11-07 22:30:00 -0500
 author: AnonJr
 layout: post
 comments: true
+repost: "" #"dev.to"
 tags:
 - meta
+- NaNoWriMo
 ---
 
-## Hello world...
+Text beginning and intro stuff.
 
-```cs
-static void Main()
-{
-    Console.WriteLine("Hello World!");
-}
-```
+<!--more-->
 
-
-This is my first post on the site!
+Stuff that runs after whatever will show in the initial feed
