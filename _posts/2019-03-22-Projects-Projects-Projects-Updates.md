@@ -8,7 +8,7 @@ comments: true
 tags:
 - programming
 - projects
-- coffeecraft.us
+- CoffeeCraft
 - d20-Project
 - bible-by-example
 ---

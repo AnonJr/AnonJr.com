@@ -11,7 +11,7 @@ tags:
 - programming
 - projects
 - asp-ajaxed
-- coffeecraft.us
+- CoffeeCraft
 - d20-Project
 - bible-by-example
 ---
