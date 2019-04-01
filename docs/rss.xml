@@ -6,9 +6,9 @@
     <atom:link href="https://www.anonjr.com/rss.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Sun, 31 Mar 2019 20:02:07 -04:00</pubDate>
-    <lastBuildDate>Sun, 31 Mar 2019 20:02:07 -04:00</lastBuildDate>
-
+    <pubDate>Sun, 31 Mar 2019 22:05:49 -04:00</pubDate>
+    <lastBuildDate>Sun, 31 Mar 2019 22:05:49 -04:00</lastBuildDate>
+    
     <item>
       <title>Programming Bits from Recent Projects</title>
       <link>https://www.anonjr.com/2019/03/Programing-Bits-from-Recent-Projects.html</link>
@@ -38,7 +38,7 @@
 &lt;p&gt;I stayed up far later than I&apos;d originally intended, so I&apos;ll cut this one short. I&apos;ve got to be up for work at 4am… and an impending live stream at 7pm EDT. I&apos;ll close with a reminder that since this is the beginning of the channel I don&apos;t really expect much in the way of attendance - so, if you&apos;d like to hop in chat and ask some programming or career questions I&apos;d be more than happy to answer. I&apos;m on &lt;a href=&quot;https://www.twitch.tv/anonjr_live&quot;&gt;Twitch&lt;/a&gt;, &lt;a href=&quot;https://mixer.com/AnonJr_Live?vod=91997262&quot;&gt;Mixer&lt;/a&gt;, and &lt;a href=&quot;https://www.youtube.com/channel/UCXafqhKHbkSUIrq0LAuu0tw&quot;&gt;YouTube&lt;/a&gt; - use the one you feel most comfortable with. &lt;a href=&quot;https://restream.io/&quot;&gt;Restream.io&lt;/a&gt; should be syncing the chat between all the channels, and I&apos;ll have their chat app up and running (it&apos;s supposed to show me all the chats as they go across).&lt;/p&gt;
 &lt;p&gt;Hope to see you there.&lt;/p&gt;</description>
     </item>
-
+    
     <item>
       <title>Update on Projects Projects Projects</title>
       <link>https://www.anonjr.com/2019/03/Projects-Projects-Projects-Updates.html</link>
@@ -78,7 +78,7 @@ New banner for some of my profiles.
 &lt;h2 id=&quot;wrapping-it-up&quot;&gt;Wrapping it up&lt;/h2&gt;
 &lt;p&gt;I really feel like I&apos;ve forgotten something, but at this hour that&apos;s not surprising. Tomorrow I&apos;ve got one or two more post drafts that I plan on finishing off, and I&apos;ve got to do a little more prep for Monday&apos;s live stream.&lt;/p&gt;</description>
     </item>
-
+    
     <item>
       <title>Almost Didn&apos;t Post This</title>
       <link>https://www.anonjr.com/2018/11/Almost-Didnt-Post-This.html</link>
@@ -90,7 +90,7 @@ New banner for some of my profiles.
 &lt;p&gt;Anyway, back to the original spark: I&apos;m wondering if I&apos;m striking the right balance between &amp;quot;good enough&amp;quot; and &amp;quot;minimally acceptable&amp;quot; in a couple of projects. Two of the bigger concerns are CoffeeCraft and Bible By Example. (See &lt;a href=&quot;/2018/11/Projects-Projects-Projects.html&quot;&gt;Projects Projects Projects&lt;/a&gt; for the Cliff Notes version)&lt;/p&gt;
 &lt;p&gt;I think tomorrow I&apos;ll do a status update on one, Friday the other, and revisit this idea on Saturday. Look at that, a plan. Yesterday and today may have been low-energy days, but tomorrow&apos;s a new day.&lt;/p&gt;</description>
     </item>
-
+    
     <item>
       <title>Deep Thoughts Coming Soon</title>
       <link>https://www.anonjr.com/2018/11/Deep-Thougths-Coming-Soon.html</link>
@@ -102,7 +102,7 @@ New banner for some of my profiles.
 &lt;p&gt;I suspect the problem is the same as one I&apos;m seeing elsewhere now - &amp;quot;it was good enough before, so it should be good enough now&amp;quot;. They only saw the online education through the lens of what had come before, and in that context what I was trying to implement was far above what had come before (though very much a baby step in getting the training in line with more current standards). Having said all that, I now see that we were far and away better than the training some other companies are pushing on their employees… but that&apos;s another topic for another day.&lt;/p&gt;
 &lt;p&gt;I know there&apos;s a way to tie these two things together, and with more illustrative examples. That&apos;s the thought exercise for the next few days.&lt;/p&gt;</description>
     </item>
-
+    
     <item>
       <title>In Defence of Almost NaNoWriMo</title>
       <link>https://www.anonjr.com/2018/11/In-Defence-of-Almost-NaNoWriMo.html</link>
@@ -157,7 +157,7 @@ New banner for some of my profiles.
 Ghostwriter&apos;s Document Statistics
 &lt;/figcaption&gt;&lt;/figure&gt;</description>
     </item>
-
+    
     <item>
       <title>Special Feed for Dev.to</title>
       <link>https://www.anonjr.com/2018/11/Special-Feed-for-Dev.to.html</link>
@@ -184,7 +184,7 @@ Ghostwriter&apos;s Document Statistics
 &lt;p&gt;So there&apos;s the short version. I&apos;m sure there&apos;s a more efficient way to do this, but I probably won&apos;t worry too much about it until I do the conversion to Jekyll. I don&apos;t plan on adding any more features before then.&lt;/p&gt;
 &lt;p&gt;(Hot damn! that makes 4 for 4 on my &amp;quot;&lt;a href=&quot;/2018/11/Almost-NaNoWriMo.html&quot;&gt;Almost NaNoWriMo&lt;/a&gt;&amp;quot;!)&lt;/p&gt;</description>
     </item>
-
+    
     <item>
       <title>Sabbaticals, Reflections, and Changes</title>
       <link>https://www.anonjr.com/2018/11/Sabbaticals-Reflections-and-Changes.html</link>
@@ -214,7 +214,7 @@ Jabba, illustrating my energy levels.
 &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;This is where the &lt;em&gt;changes&lt;/em&gt; part was supposed to go, but I&apos;ve run out of steam. Definitely to be finished before the month is up.&lt;/p&gt;</description>
     </item>
-
+    
     <item>
       <title>Projects Projects Projects</title>
       <link>https://www.anonjr.com/2018/11/Projects-Projects-Projects.html</link>
@@ -248,7 +248,7 @@ Jabba, illustrating my energy levels.
 &lt;h2 id=&quot;wrapping-it-up&quot;&gt;Wrapping it up&lt;/h2&gt;
 &lt;p&gt;I really feel like I&apos;ve forgotten something, but at this hour that&apos;s not surprising. Tomorrow I&apos;ll pick one and do a bit of a deeper look at where it&apos;s at and what needs to happen. From there the goal is to start making actual progress and to focus the posts on status updates and/or do some thinking out loud type stuff.&lt;/p&gt;</description>
     </item>
-
+    
     <item>
       <title>Almost NaNoWriMo</title>
       <link>https://www.anonjr.com/2018/11/Almost-NaNoWriMo.html</link>
@@ -263,7 +263,7 @@ Jabba, illustrating my energy levels.
 &lt;p&gt;Look for some updates on old projects, some &amp;quot;talking out loud&amp;quot; type planning on upcoming projects, and a few other things.&lt;/p&gt;
 &lt;p&gt;Quite frankly I feel like an athlete who&apos;s been on a long recovery finally getting back into training. Now that I think about it, that&apos;s probably a more apt analogy than I&apos;m ready to admit to.&lt;/p&gt;</description>
     </item>
-
+    
     <item>
       <title>Retrospective: 13 Years in the Valley, Part 2</title>
       <link>https://www.anonjr.com/2017/09/13-Years-In-The-Valley-2.html</link>
@@ -288,7 +288,7 @@ Essential Asset
 &lt;p&gt;My predecessor was a Nurse Educator who had been tasked with creating the website. While she was smart, this wasn&apos;t exactly her bailiwick. There was no master CSS, inline styles run amok, no &lt;code&gt;&amp;lt;!-- #include --&amp;gt;&lt;/code&gt; statements to be found (granted, it was hosted on NT4 in 2003, but even NT4 had server-side includes), and the general design and cohesion to rival the best the late ‘90s had to offer (did I mention this was 2003?).&lt;/p&gt;
 &lt;p&gt;The only server scripting was the PERL used to grade the test and record the results. Since lunch is nearly up and I need a minute to publish, I&apos;ll leave that for the starting point of the next part.&lt;/p&gt;</description>
     </item>
-
+    
     <item>
       <title>Retrospective: 13 Years in the Valley, Part 1</title>
       <link>https://www.anonjr.com/2017/09/13-Years-In-The-Valley-1.html</link>
@@ -322,7 +322,7 @@ Essential Asset
 &lt;p&gt;My hour is almost up, so I&apos;ll close it off here. This has been mostly a as-I-think-of-it deal, and I&apos;m not sure how I feel about working that way. I&apos;m more than a little bit of a perfectionist, but I&apos;ve also gone far too long since the last post - so if this is how it has to happen to get it done, so be it.&lt;/p&gt;
 &lt;p&gt;I&apos;ll probably skip the over-gratuitous headers next time. See you then.&lt;/p&gt;</description>
     </item>
-
+    
     <item>
       <title>A Pretzel, A Jekyll, Some Pages, and a Cranky Git</title>
       <link>https://www.anonjr.com/2017/07/A-Pretzel-A-Jekyll-Some-Pages-Cranky-Git.html</link>
@@ -356,7 +356,7 @@ Essential Asset
 &lt;p&gt;Both projects are up on GitHub, and are being hosted using GitHub pages. Now that&apos;s been an interesting endevour… particularly getting the domains squared away. The next step for both sites will be to get them behind &lt;a href=&quot;https://www.cloudflare.com/&quot;&gt;Cloudflare &lt;/a&gt; for some CDN goodness and HTTPS.&lt;/p&gt;
 &lt;p&gt;I&apos;ll write a little more about each project individually, and some &amp;quot;thinking out loud&amp;quot; type posts over the next few days.&lt;/p&gt;</description>
     </item>
-
+    
     <item>
       <title>ASP-Ajaxed 2.1.1: Finding my feet</title>
       <link>https://www.anonjr.com/2013/06/ASP-Ajaxed-2.1.1_-Finding-my-feet.html</link>
@@ -369,7 +369,7 @@ Essential Asset
 &lt;p&gt;One of the things I found when converting the source control from svn to hg was that there were some bug fixes that were not in the posted 2.1 release. I added a couple of fixes of my own, and a new feature - a SHA256() hashing function - and published &lt;a href=&quot;https://code.google.com/p/asp-ajaxed/downloads/detail?name=asp-ajaxed_v2.1.1.zip&quot;&gt;version 2.1.1&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Hopefully soon I&apos;ll have a little more about the plans and intentions for this little project.&lt;/p&gt;</description>
     </item>
-
+    
     <item>
       <title>Keeping a good thing going</title>
       <link>https://www.anonjr.com/2013/06/Keeping-a-good-thing-going.html</link>
@@ -382,7 +382,7 @@ Essential Asset
 &lt;p&gt;Unfortunately, the owner passed away and the project has slowly faded away. Recently the main site disappeared... Not wanting to see a good code base go to waste, I&apos;ve taken ownership of the project (with the blessing of one of the remaining project members).&lt;/p&gt;
 &lt;p&gt;I&apos;m not sure where I&apos;m going to begin in getting this thing back up and running, but I do want to keep this project alive and better maintained. Look for more updates to come. 😃&lt;/p&gt;</description>
     </item>
-
+    
     <item>
       <title>New Year, New Projects, New Blog</title>
       <link>https://www.anonjr.com/2013/06/New-Year,-New-Projects,-New-Blog.html</link>
@@ -396,6 +396,6 @@ Essential Asset
 &lt;p&gt;I &lt;em&gt;can&lt;/em&gt; tell you that this is not going to have a singular focus. I will most likely have a heavy focus on tech as that&apos;s where I work and play - but I will also write about religion, politics, and maybe a few things of a more personal nature. Jeff Jarvis has often spoke of the therapeutic value of blogging about health issues (and I have a few) so I may throw a few of those out there as well.&lt;/p&gt;
 &lt;p&gt;We&apos;ll see where this goes...&lt;/p&gt;</description>
     </item>
-
+    
   </channel>
 </rss>
