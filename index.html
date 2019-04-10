@@ -16,7 +16,7 @@ title : AnonJr.com
             {{ post.excerpt | number_of_words }}
         {% endcapture %}
         {% if excerpt_words != content_words %}<p><a href="{{ post.url }}#read-more">Read more <span class="fa fa-arrow-circle-right"></span></a></p>{% endif %}
-        {% if post.comments == true %}<a href="{{ post.url }}#disqus_thread">Comments</a>{% endif %}
+        {% if post.comments == true and site.disqus_enable == true %}<a href="{{ post.url }}#disqus_thread">Comments</a>{% endif %}
     </div>
 {% endfor %}
 </div>
@@ -28,6 +28,7 @@ title : AnonJr.com
 {% endfor %}
 </ul>
 {% endif %}
+{% if post.comments == true and site.disqus_enable == true %}
 <script type="text/javascript">
 //<![CDATA[
 (function() {
@@ -42,3 +43,4 @@ title : AnonJr.com
 })();
 //]]>
 </script>
+{% endif %}

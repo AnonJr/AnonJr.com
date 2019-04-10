@@ -21,8 +21,9 @@ show_drafts:      false
 excerpt_separator: <!--more-->
 
 # Disqus - anonjr.disqus.com
-disqus_short_name: anonjr
-disqus_show_comment_count: true
+disqus_enable: false
+disqus_short_name: #anonjr
+disqus_show_comment_count: #true
 
 # SEO Related
 google_site_verification :
