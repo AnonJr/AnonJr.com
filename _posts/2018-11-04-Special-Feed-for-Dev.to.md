@@ -21,16 +21,19 @@ Which brings us to this bit - I've got a second RSS feed now with just the artic
 
 In the front matter I have a `repost` variable like so:
 
-{% picture "/img/2018-11-04-frontmatter.png" "pure-img" %}
-(side note: need to fix the highlighting/rendering of markdown code in posts...)
-{% endpicture %}
+![(side note: need to fix the highlighting/rendering of markdown code in posts&hellip;)](/img/2018-11-04-frontmatter.png '(side note: need to fix the highlighting/rendering of markdown code in posts&hellip;)'){: class="pure-img"}
+{% comment %}
+{% include figure class="pure-img" image_path="/img/2018-11-04-frontmatter.png" alt="(side note: need to fix the highlighting/rendering of markdown code in posts&hellip;)" caption="(side note: need to fix the highlighting/rendering of markdown code in posts&hellip;)" %}
+{% endcomment %}
 
 Originally I was going to set up a "to-dev.to" tag, and go that way, but that didn't seem useful for the people who were visiting my site.
 
 And there's now a `todev.to.xml` that filters through the posts for just those that I want to republish.
 
-{% picture "/img/2018-11-04-devtoxml.png" "pure-img" %}
-{% endpicture %}
+![DevTo XML](/img/2018-11-04-devtoxml.png){: class="pure-img"}
+{% comment %}
+{% include figure class="pure-img" image_path="/img/2018-11-04-devtoxml.png" alt="DevTo XML" caption="" %}
+{% endcomment %}
 
 At my next opportunity, I'm going to try and pump it through the [Compress layout](https://github.com/penibelst/jekyll-compress-html) and see if that can get the size down without breaking anything. Though now that I think about it, I'd have to either adapt it to work with [Pretzel](https://github.com/Code52/pretzel) or do the Pretzel-to-Jekyll conversion first.
 

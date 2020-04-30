@@ -10,11 +10,11 @@ tags:
 ---
 
 Looks like some changes are on the horizon&hellip; (and have been since I started this draft on 2017-10-30)
-
-{% include responsive-embed url="https://youtube.com/embed/bUy-Z1imUME" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
 {% comment %}
-<iframe width="560" height="315" src="https://youtube.com/embed/bUy-Z1imUME" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include responsive-embed url="https://youtube.com/embed/bUy-Z1imUME" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
 {% endcomment %}
+<iframe width="560" height="315" src="https://youtube.com/embed/bUy-Z1imUME" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Burnout is one of those things that's been written about a lot lately, particularly in the tech industry. If you're not familiar, https://dev.to has a [couple][5] [articles][4] worth reading. With all the wonderful articles out there, what can I add? A case study - me.
 
@@ -24,11 +24,11 @@ In an ideal world I would have taken more regular time off, and I would have adv
 
 I remember a long time ago reading about how [we should all take sabbaticals][1]. At the time I read Joel's post I didn't really take it to heart. I'd just finished college, and was still only months into my brand new job. The idea that I could be so tired and run down that an extended time away was needed &hellip; I just couldn't comprehend it.
 
+![Jabba illustrating how to relax](/img/2017-11-03_JabbaRelaxing.jpg 'Jabba illustrating how to relax'){: class="pure-img"}
 
-
-{% picture 2017-11-03_JabbaRelaxing.jpg %}
-Jabba illustrating how to relax.
-{% endpicture %}
+{% comment %}
+{% include figure class="pure-img" image_path="/img/2017-11-03_JabbaRelaxing.jpg" alt="Jabba illustrating how to relax" caption="Jabba illustrating how to relax" %}
+{% endcomment %}
 
 [1]: https://www.joelonsoftware.com/2000/03/18/more-on-sabbaticals/
 [2]: https://www.popehat.com/2015/05/21/happy-to-be-here/

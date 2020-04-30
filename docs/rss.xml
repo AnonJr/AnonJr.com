@@ -6,8 +6,8 @@
     <atom:link href="https://www.anonjr.com/rss.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Thu, 30 Apr 2020 10:52:59 -04:00</pubDate>
-    <lastBuildDate>Thu, 30 Apr 2020 10:52:59 -04:00</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2020 15:04:30 -04:00</pubDate>
+    <lastBuildDate>Thu, 30 Apr 2020 15:04:30 -04:00</lastBuildDate>
     
     <item>
       <title>Programming Bits from Recent Projects</title>
@@ -56,11 +56,7 @@
 &lt;p&gt;I did a little bit of tidying up around here. Changed up the nav bar a little, added some links (and now that I&apos;m looking at it, missed a couple), updated the project pages, added a proper Favicon, and a few other bits and bobs. I&apos;ve got more I&apos;d like to do, but to be quite frank I suck at being both the client and the designer…&lt;/p&gt;
 &lt;p&gt;Part of the problem is I don&apos;t have a clear vision for what I want. Yet. In the spirit of moving forward instead of stalling I went ahead and went with the new Favicon design, and added it to a bunch of the accounts I run. I know I&apos;ve missed a few, and I hope to have them squared away over the next week.&lt;/p&gt;
 &lt;p&gt;I&apos;ve also put a new header/banner up on my new &lt;a href=&quot;https://www.twitch.tv/anonjr_live&quot;&gt;Twitch&lt;/a&gt;, &lt;a href=&quot;https://mixer.com/AnonJr_Live?vod=91997262&quot;&gt;Mixer&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/channel/UCXafqhKHbkSUIrq0LAuu0tw&quot;&gt;YouTube&lt;/a&gt;, and other accounts. The references in the by-line will be explained in the next two bits.&lt;/p&gt;
-&lt;figure class=&quot;image&quot;&gt;
-&lt;img itemprop=&quot;image&quot; src=&quot;/img/2019-03-22-Projects-Projects-Projects-Updates.png&quot; title=&quot;New banner for some of my profiles.&quot; alt=&quot;New banner for some of my profiles.&quot; class=&quot;pure-img&quot;/&gt;
-&lt;figcaption&gt;
-New banner for some of my profiles.
-&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;img src=&quot;/img/2019-03-22-Projects-Projects-Projects-Updates.png&quot; : lass=&quot;pure-img&quot; alt=&quot;New banner for some of my profiles&quot; title=&quot;New banner for some of my profiles&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;As much as I love the current background, I&apos;ll probably switch it out for a photo I took on a trip to Arizona not too far back. I still need to switch this over from Pretzel to Jekyll, and work out a smoother deploy. I did get that &lt;a href=&quot;/2018/11/Special-Feed-for-Dev.to.html&quot;&gt;special feed&lt;/a&gt; built though.&lt;/p&gt;
 &lt;h2 id=&quot;coffeecraft.us&quot;&gt;CoffeeCraft.us&lt;/h2&gt;
 &lt;p&gt;One of the items on the aforementioned by-line, &lt;a href=&quot;https://www.coffeecraft.us/&quot;&gt;CoffeeCraft&lt;/a&gt; is where the bulk of the work has been this month. To recap, it&apos;s a small survival Minecraft server that &lt;a href=&quot;https://www.coffeecraft.us/members/rayeste/&quot;&gt;my sister&lt;/a&gt;, &lt;a href=&quot;https://www.coffeecraft.us/members/arcaidius/&quot;&gt;her husband&lt;/a&gt;, and &lt;a href=&quot;https://www.coffeecraft.us/members/anonjr/&quot;&gt;I&lt;/a&gt; have been playing on. Inspired by &lt;a href=&quot;http://hermitcraft.com/&quot;&gt;HermitCraft&lt;/a&gt;, we&apos;ve fired up a fresh world for &amp;quot;Season 00&amp;quot; so we can get used to working together in a way that works better for making videos and live streaming, and actually get used to streaming and making videos.&lt;/p&gt;
@@ -110,14 +106,8 @@ New banner for some of my profiles.
       <author>By AnonJr</author>
       <guid>https://www.anonjr.com/2018/11/In-Defence-of-Almost-NaNoWriMo.html</guid>
       <description>&lt;p&gt;Not 1/6&lt;sup&gt;th&lt;/sup&gt; of the way in to &lt;a href=&quot;/2018/11/Almost-NaNoWriMo.html&quot;&gt;Almost NaNoWriMo&lt;/a&gt;, and I&apos;ll admit to feeling a little defensive. I was originally thinking of this article this morning in terms of being a spot-check or reflection on the exercise so far, but if I&apos;m being brutally honest, it was a couple of comments that have been on a slow burn in the back of my mind since last night:&lt;/p&gt;
-&lt;figure class=&quot;image&quot;&gt;
-&lt;img itemprop=&quot;image&quot; src=&quot;/img/2018-11-05-UnhelpfulAdvice-01.png&quot; title=&quot;&quot; alt=&quot;&quot; class=&quot;pure-img&quot;/&gt;
-&lt;figcaption&gt;
-&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure class=&quot;image&quot;&gt;
-&lt;img itemprop=&quot;image&quot; src=&quot;/img/2018-11-05-UnhelpfulAdvice-02.png&quot; title=&quot;&quot; alt=&quot;&quot; class=&quot;pure-img&quot;/&gt;
-&lt;figcaption&gt;
-&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;img src=&quot;/img/2018-11-05-UnhelpfulAdvice-01.png&quot; : lass=&quot;pure-img&quot; alt=&quot;Unhelpful Advice&quot; title=&quot;Unhelpful Advice&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/2018-11-05-UnhelpfulAdvice-02.png&quot; : lass=&quot;pure-img&quot; alt=&quot;Unhelpful Advice&quot; title=&quot;Unhelpful Advice&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Now please don&apos;t hear what I&apos;m not saying: I&apos;m not judging the &lt;em&gt;intent&lt;/em&gt; of the commenter, just the &lt;em&gt;approach&lt;/em&gt; and the &lt;em&gt;potential results&lt;/em&gt;. On the latter part, I won&apos;t pretend to speak for anyone else - I lost a bit of the fire and enthusiasm gained from starting the endevour, finding some &lt;a href=&quot;https://dev.to/mark_nicol/an-article-a-day-for-november-41f5&quot;&gt;kindred&lt;/a&gt; &lt;a href=&quot;https://dev.to/lvrbrtsn/article-a-day-375h&quot;&gt;spirits&lt;/a&gt;, and seeing the encouraging comments.&lt;/p&gt;
 &lt;p&gt;For the first commenter I certainly understand the sentiment.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -143,19 +133,12 @@ New banner for some of my profiles.
 &lt;/ul&gt;
 &lt;p&gt;We also recognize this in the programming space, where we understand that growth requires working on projects, exercises, and using various training programs.&lt;/p&gt;
 &lt;p&gt;Which brings us back to the writing - you don&apos;t get to &lt;em&gt;better&lt;/em&gt; articles without writing &lt;em&gt;more&lt;/em&gt; articles; or at least more articles with a particular mindset and approach. We can see this in some of the more helpful comments.&lt;/p&gt;
-&lt;figure class=&quot;image&quot;&gt;
-&lt;img itemprop=&quot;image&quot; src=&quot;/img/2018-11-05-SemihelpfulAdvice-01.png&quot; title=&quot;&quot; alt=&quot;&quot; class=&quot;pure-img&quot;/&gt;
-&lt;figcaption&gt;
-&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;img src=&quot;/img/2018-11-05-SemihelpfulAdvice-01.png&quot; : lass=&quot;pure-img&quot; alt=&quot;Semi-helpful Advice&quot; title=&quot;Semi-helpful Advice&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;It&apos;s going to take deliberate, focused steps to get the quality where it needs to be. For me, the first few have been a matter of showing up. It&apos;s hard to improve if you&apos;re not showing up. This is something that &lt;a href=&quot;https://dev.to/lvrbrtsn/on-staying-motivated--4861&quot;&gt;others&lt;/a&gt; doing the &amp;quot;November Daily&amp;quot; thing have pointed to.&lt;/p&gt;
 &lt;p&gt;This post and the next few are going to be posts that I&apos;ve spent a little more time setting up and figuring out what I want to articulate. I&apos;m also going to keep an eye on the reading ease and other statistics &lt;a href=&quot;https://wereturtle.github.io/ghostwriter/&quot;&gt;Ghostwriter&lt;/a&gt; provides. For the moment I&apos;m not going to do much with them, just look at what I&apos;m actually doing, so I&apos;ll know where I need to go from there. My target will be a 10&lt;sup&gt;th&lt;/sup&gt; grade reading level. It&apos;s a little higher than the usual recommendation, but is a step better than what I&apos;ve managed with this post. (I&apos;ll put a screenshot at the end)&lt;/p&gt;
 &lt;p&gt;Having done &lt;a href=&quot;/2018/11/Projects-Projects-Projects.html&quot;&gt;Projects Projects Projects&lt;/a&gt;, I&apos;ve got a good idea of what I really want to do something with (or at least what in the near future I want to focus on), and from there I can build a more structured schedule. Probably won&apos;t happen by the next post or two, but it should be in place before the end of the week. I&apos;ve got to put the car in the shop which should leave me plenty of time to walk over to the coffee shop and think. 😃&lt;/p&gt;
 &lt;p&gt;Oh, and for those wondering, here&apos;s the statistics for this post.&lt;/p&gt;
-&lt;figure class=&quot;image&quot;&gt;
-&lt;img itemprop=&quot;image&quot; src=&quot;/img/2018-11-05-WritingStats-01.png&quot; title=&quot;Ghostwriter&apos;s Document Statistics&quot; alt=&quot;Ghostwriter&apos;s Document Statistics&quot; class=&quot;pure-img&quot;/&gt;
-&lt;figcaption&gt;
-Ghostwriter&apos;s Document Statistics
-&lt;/figcaption&gt;&lt;/figure&gt;</description>
+&lt;p&gt;&lt;img src=&quot;/img/2018-11-05-WritingStats-01.png&quot; : lass=&quot;pure-img&quot; alt=&quot;Ghostwriter&apos;s Document Statistics&quot; title=&quot;Ghostwriter&apos;s Document Statistics&quot; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -169,17 +152,10 @@ Ghostwriter&apos;s Document Statistics
 &lt;p&gt;One of the things I&apos;d considered at the time, and mentioned in &lt;a href=&quot;/2018/11/Projects-Projects-Projects.html&quot;&gt;Projects Projects Projects&lt;/a&gt;, is setting up a custom RSS feed for just the articles I wanted to submit at Dev.To. I plan on publishing a wide variety of articles here, and I know not all of them will be right for the community there, so I want to make sure I&apos;m filtering out the rest. I tried just running my regular RSS feed to my profile there, but it left a lot of cruft on my dashboard in the &lt;em&gt;drafts&lt;/em&gt;, and even if I deleted the drafts they would just show up again on the next refresh.&lt;/p&gt;
 &lt;p&gt;Which brings us to this bit - I&apos;ve got a second RSS feed now with just the articles that I want to send over there.&lt;/p&gt;
 &lt;p&gt;In the front matter I have a &lt;code&gt;repost&lt;/code&gt; variable like so:&lt;/p&gt;
-&lt;figure class=&quot;image&quot;&gt;
-&lt;img itemprop=&quot;image&quot; src=&quot;/img/2018-11-04-frontmatter.png&quot; title=&quot;(side note: need to fix the highlighting/rendering of markdown code in posts...)&quot; alt=&quot;(side note: need to fix the highlighting/rendering of markdown code in posts...)&quot; class=&quot;pure-img&quot;/&gt;
-&lt;figcaption&gt;
-(side note: need to fix the highlighting/rendering of markdown code in posts...)
-&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;img src=&quot;/img/2018-11-04-frontmatter.png&quot; : lass=&quot;pure-img&quot; alt=&quot;(side note: need to fix the highlighting/rendering of markdown code in posts…)&quot; title=&quot;(side note: need to fix the highlighting/rendering of markdown code in posts…)&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Originally I was going to set up a &amp;quot;to-dev.to&amp;quot; tag, and go that way, but that didn&apos;t seem useful for the people who were visiting my site.&lt;/p&gt;
 &lt;p&gt;And there&apos;s now a &lt;code&gt;todev.to.xml&lt;/code&gt; that filters through the posts for just those that I want to republish.&lt;/p&gt;
-&lt;figure class=&quot;image&quot;&gt;
-&lt;img itemprop=&quot;image&quot; src=&quot;/img/2018-11-04-devtoxml.png&quot; title=&quot;&quot; alt=&quot;&quot; class=&quot;pure-img&quot;/&gt;
-&lt;figcaption&gt;
-&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;img src=&quot;/img/2018-11-04-devtoxml.png&quot; : lass=&quot;pure-img&quot; alt=&quot;DevTo XML&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;At my next opportunity, I&apos;m going to try and pump it through the &lt;a href=&quot;https://github.com/penibelst/jekyll-compress-html&quot;&gt;Compress layout&lt;/a&gt; and see if that can get the size down without breaking anything. Though now that I think about it, I&apos;d have to either adapt it to work with &lt;a href=&quot;https://github.com/Code52/pretzel&quot;&gt;Pretzel&lt;/a&gt; or do the Pretzel-to-Jekyll conversion first.&lt;/p&gt;
 &lt;p&gt;So there&apos;s the short version. I&apos;m sure there&apos;s a more efficient way to do this, but I probably won&apos;t worry too much about it until I do the conversion to Jekyll. I don&apos;t plan on adding any more features before then.&lt;/p&gt;
 &lt;p&gt;(Hot damn! that makes 4 for 4 on my &amp;quot;&lt;a href=&quot;/2018/11/Almost-NaNoWriMo.html&quot;&gt;Almost NaNoWriMo&lt;/a&gt;&amp;quot;!)&lt;/p&gt;</description>
@@ -196,22 +172,14 @@ Ghostwriter&apos;s Document Statistics
 &lt;!--more--&gt;
 &lt;p&gt;Burnout is one of those things that&apos;s been written about a lot lately, particularly in the tech industry. If you&apos;re not familiar, the Wikipedia page on &lt;a href=&quot;https://en.wikipedia.org/wiki/Occupational_burnout&quot;&gt;Occupational Burnout&lt;/a&gt; is a good overview of the subject. &lt;a href=&quot;https://dev.to&quot;&gt;Dev.to&lt;/a&gt; also has a &lt;a href=&quot;https://dev.to/mary_grace/burnout-what-happens-when-you-take-on-too-much-74d&quot;&gt;couple&lt;/a&gt; &lt;a href=&quot;https://dev.to/wolfemurray/burnout-8hk&quot;&gt;articles&lt;/a&gt; worth reading. While I&apos;ve not quite hit &lt;a href=&quot;https://www.popehat.com/2015/05/21/happy-to-be-here/&quot;&gt;Happy to be Here&lt;/a&gt; territory, &lt;a href=&quot;http://thebloggess.com/furiously-happy/&quot;&gt;Furiously Happy&lt;/a&gt; certainly had some chapters that resonated.&lt;/p&gt;
 &lt;p&gt;If I&apos;m being completely honest, the warning signs were there in 2014. I may even get to some of that in a resumed rendition of retrospectives. In January 2016 I reached a point where I was at least willing to admit something was deeply wrong and find out just where I was at. So I took the &lt;a href=&quot;https://en.wikipedia.org/wiki/Maslach_Burnout_Inventory&quot;&gt;Maslach Burnout Inventory&lt;/a&gt; and found the following results looking back at me:&lt;/p&gt;
-&lt;figure class=&quot;image&quot;&gt;
-&lt;img itemprop=&quot;image&quot; src=&quot;/img/2018-11-03-MBIResults.png&quot; title=&quot;&amp;hellip;ouch.&quot; alt=&quot;&amp;hellip;ouch.&quot; class=&quot;pure-img&quot;/&gt;
-&lt;figcaption&gt;
-&amp;hellip;ouch.
-&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;img src=&quot;/img/2018-11-03-MBIResults.png&quot; : lass=&quot;pure-img&quot; alt=&quot;…ouch.&quot; title=&quot;…ouch.&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;I tried to work within the system, I tried counseling, and in the end it just wasn&apos;t getting better. In an ideal world I would have taken more regular time off, and I would have advocated for a more balanced life for myself, and recognized when the work environment was no longer healthy.&lt;/p&gt;
 &lt;p&gt;That would have been good then, so what to do now?&lt;/p&gt;
 &lt;p&gt;I remember a long time ago reading about how &lt;a href=&quot;https://www.joelonsoftware.com/2000/03/18/more-on-sabbaticals/&quot;&gt;we should all take sabbaticals&lt;/a&gt;. At the time I read Joel&apos;s post I didn&apos;t really take it to heart. I&apos;d just finished college, and was still only months into my brand new job. The idea that I could be so tired and run down that an extended time away was needed … I just couldn&apos;t comprehend it.&lt;/p&gt;
 &lt;p&gt;Now I get it. &lt;em&gt;Time to take a sabbatical.&lt;/em&gt; December 15, 2017 I stepped down from full-time work and moved to a per-diem teaching position. The end of 14 years full-time work at Cape Fear Valley. Teaching was a nice way to keep up professionally, and get myself out of the house from time to time. Unfortunately, it was also still too much. So in June I quit completely.&lt;/p&gt;
 &lt;p&gt;To get ready for the sabbatical, in September 2017 I started working part-time at the local Music and Arts. I added the earnings to my current savings and pumped up what I was terming my &amp;quot;sabbatical fund&amp;quot;.&lt;/p&gt;
 &lt;p&gt;Knowing that given my energy levels were what they were, I kept the job to make sure I&apos;d get out of the house and actually engage in the time honored tradition of verbal communication with actual humans.&lt;/p&gt;
-&lt;figure class=&quot;image&quot;&gt;
-&lt;img itemprop=&quot;image&quot; src=&quot;/img/2018-11-03_JabbaRelaxing.jpg&quot; title=&quot;Jabba, illustrating my energy levels.&quot; alt=&quot;Jabba, illustrating my energy levels.&quot; class=&quot;pure-img&quot;/&gt;
-&lt;figcaption&gt;
-Jabba, illustrating my energy levels.
-&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;img src=&quot;/img/2018-11-03_JabbaRelaxing.jpg&quot; : lass=&quot;pure-img&quot; alt=&quot;Jabba, illustrating my energy levels&quot; title=&quot;Jabba, illustrating my energy levels&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;This is where the &lt;em&gt;changes&lt;/em&gt; part was supposed to go, but I&apos;ve run out of steam. Definitely to be finished before the month is up.&lt;/p&gt;</description>
     </item>
     
@@ -273,11 +241,7 @@ Jabba, illustrating my energy levels.
       <description>&lt;p&gt;A lot of life has been happening, and it seems maybe I need a little perspective - and so this &amp;quot;retrospective&amp;quot;.&lt;/p&gt;
 &lt;p&gt;Six days later and I still haven&apos;t quite gotten into the habit of regular blogging yet, so whatever is done by the time my lunch break is over is what&apos;s getting posted. Like before, some of that time was taken getting some essentials:&lt;/p&gt;
 &lt;!--more--&gt;
-&lt;figure class=&quot;image&quot;&gt;
-&lt;img itemprop=&quot;image&quot; src=&quot;/img/2017-09-14_EssentialAsset.png&quot; title=&quot;Essential Asset&quot; alt=&quot;Essential Asset&quot; /&gt;
-&lt;figcaption&gt;
-Essential Asset
-&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;img src=&quot;/img/2017-09-14_EssentialAsset.png&quot; : lass=&quot;pure-img&quot; alt=&quot;Essential Asset&quot; title=&quot;Essential Asset&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;/2017/09/13-Years-In-The-Valley-1.html&quot;&gt;Last time&lt;/a&gt; I went over some background to add a little context to what came next. December 2003, fresh out of college with my brand new 2-year degree, I started working at Cape Fear Valley (CFV) in the Education department.&lt;/p&gt;
 &lt;p&gt;I can hear it now – &amp;quot;Education?&amp;quot; – my job was an IT role, but not in the IT (&apos;scuse me, &lt;em&gt;IST&lt;/em&gt; as they prefer) department. Ostensibly, at the time I interviewed and was hired, my role was twofold:&lt;/p&gt;
 &lt;p&gt;My secondary job was to teach Basic Life Support classes (BLS - basically CPR for the Healthcare worker). Fortunately I&apos;d paid for college by working at the local YMCA as (among other roles) a Lifeguard Instructor. I just needed to switch over my teaching credentials from the Red Cross to the AHA.&lt;/p&gt;
@@ -299,14 +263,10 @@ Essential Asset
 &lt;h2 id=&quot;why-part-1&quot;&gt;Why Part 1?&lt;/h2&gt;
 &lt;p&gt;Well, I haven&apos;t quite gotten into the habit of regular blogging yet, so whatever is done by the time my lunch break is over is what&apos;s getting posted. I&apos;d say lunch hour, but some of that time was taken getting some essentials:&lt;/p&gt;
 &lt;!--more--&gt;
-&lt;figure class=&quot;image&quot;&gt;
-&lt;img itemprop=&quot;image&quot; src=&quot;/img/2017-09-14_EssentialAsset.png&quot; title=&quot;Essential Asset&quot; alt=&quot;Essential Asset&quot; /&gt;
-&lt;figcaption&gt;
-Essential Asset
-&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;img src=&quot;/img/2017-09-14_EssentialAsset.png&quot; :class=&quot;pure-img&quot; alt=&quot;Essential Asset&quot; title=&quot;Essential Asset&quot; /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;years-in-the-valley&quot;&gt;13 Years? In the Valley?&lt;/h2&gt;
 &lt;p&gt;I started working for Cape Fear Valley Health System back in December 2003, and it&apos;s been quite the wild ride. When I started in 2003 there were two campuses, a few outpatient clinics, and a grand total of 2500 employees. Now? There&apos;s 5-ish campuses, I&apos;ve lost track of how many outpatient clinics, and somewhere in the ballpark of 7000 employees.&lt;/p&gt;
-&lt;p&gt;Over that time my roles and responsibilities have grown, creating a somewhat less than tenable position and the aforementioned burnout. I may write about that separately&amp;amp;hellp;&lt;/p&gt;
+&lt;p&gt;Over that time my roles and responsibilities have grown, creating a somewhat less than tenable position and the aforementioned burnout. I may write about that separately…&lt;/p&gt;
 &lt;h2 id=&quot;but-first&quot;&gt;But First…&lt;/h2&gt;
 &lt;p&gt;Before I start going through my time at Cape Fear Valley (henceforth, CFV), I want to make a very important note and a small sidebar on how I even got to CFV since it plays a part in the rest of the story.&lt;/p&gt;
 &lt;p&gt;Before I go all-in on my experiences, opinions, and whatnot, I want to make clear you shouldn&apos;t put too much stock in the &amp;quot;13 years&amp;quot; part. I know a lot of people will automatically attribute some weight to such lengthy experience - and they &lt;em&gt;shouldn&apos;t&lt;/em&gt;.&lt;/p&gt;
@@ -314,7 +274,7 @@ Essential Asset
 &lt;p&gt;Which am I? I don&apos;t know any more, probably a mix of the two. As we&apos;ll see, I&apos;ve had periods of growth and periods of stagnation. I&apos;ll leave the ultimate conclusion for the end.&lt;/p&gt;
 &lt;h2 id=&quot;howd-i-even-get-here&quot;&gt;How&apos;d I Even get here?&lt;/h2&gt;
 &lt;p&gt;In 1999 I graduated high school and went to the local community college - it was all I could afford. (There&apos;s a story there too, maybe another time.) I started in the mistaken assumption that since I enjoyed physics and all my science classes, and that since I enjoyed building and fixing things I should get into Engineering. Let&apos;s just say that second semester Calculus class made me re-think things.&lt;/p&gt;
-&lt;p&gt;After a series of &amp;amp;hellp; events … I took a semester off. And a year later I started back up again. (Story there too, omitted to cut down on the rabbit trails.)&lt;/p&gt;
+&lt;p&gt;After a series of … events … I took a semester off. And a year later I started back up again. (Story there too, omitted to cut down on the rabbit trails.)&lt;/p&gt;
 &lt;p&gt;I started in the Network Management program, and mostly enjoyed it. I didn&apos;t really get into computers until late-ish in high school. I was (and still am) acutely sensitive to the fact that much of what I learned was whatever I could pick up from whatever was around.&lt;/p&gt;
 &lt;p&gt;About half-way through the program I took the one mandatory &amp;quot;Intro to Programming&amp;quot; course, and it changed things. I was good at it, I loved it, and it fit my desire to build/fix things. I switched majors and finished an Associates degree in Computer Programming.&lt;/p&gt;
 &lt;p&gt;In my last semester, one of my Prof&apos;s former students was leaving her position at the hospital. She asked him if he had any promising students in mind, and a couple of us went there to interview. Long story short, I interviewed and got the job - starting right after I graduated.&lt;/p&gt;

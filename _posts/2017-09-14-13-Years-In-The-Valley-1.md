@@ -16,15 +16,16 @@ A lot of life has been happening, and it seems maybe I need a little perspective
 
 Well, I haven't quite gotten into the habit of regular blogging yet, so whatever is done by the time my lunch break is over is what's getting posted. I'd say lunch hour, but some of that time was taken getting some essentials:
 <!--more-->
-{% picture /img/2017-09-14_EssentialAsset.png %}
-Essential Asset
-{% endpicture %}
+![Essential Asset](/img/2017-09-14_EssentialAsset.png 'Essential Asset'){:class="pure-img"}
+{% comment %}
+{% include figure class="pure-img" image_path="/img/2017-09-14_EssentialAsset.png" alt="Essential Asset" caption="Essential Asset" %}
+{% endcomment %}
 
 ## 13 Years? In the Valley?
 
 I started working for Cape Fear Valley Health System back in December 2003, and it's been quite the wild ride. When I started in 2003 there were two campuses, a few outpatient clinics, and a grand total of 2500 employees. Now? There's 5-ish campuses, I've lost track of how many outpatient clinics, and somewhere in the ballpark of 7000 employees.
 
-Over that time my roles and responsibilities have grown, creating a somewhat less than tenable position and the aforementioned burnout. I may write about that separately&hellp;
+Over that time my roles and responsibilities have grown, creating a somewhat less than tenable position and the aforementioned burnout. I may write about that separately&hellip;
 
 ## But First&hellip;
 
@@ -40,7 +41,7 @@ Which am I? I don't know any more, probably a mix of the two. As we'll see, I've
 
 In 1999 I graduated high school and went to the local community college - it was all I could afford. (There's a story there too, maybe another time.) I started in the mistaken assumption that since I enjoyed physics and all my science classes, and that since I enjoyed building and fixing things I should get into Engineering. Let's just say that second semester Calculus class made me re-think things.
 
-After a series of &hellp; events &hellip; I took a semester off. And a year later I started back up again. (Story there too, omitted to cut down on the rabbit trails.)
+After a series of &hellip; events &hellip; I took a semester off. And a year later I started back up again. (Story there too, omitted to cut down on the rabbit trails.)
 
 I started in the Network Management program, and mostly enjoyed it. I didn't really get into computers until late-ish in high school. I was (and still am) acutely sensitive to the fact that much of what I learned was whatever I could pick up from whatever was around.
 
