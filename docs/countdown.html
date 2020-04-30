@@ -42,7 +42,7 @@
  <meta property="og:type" content="website" />
  <meta property="og:site_name" content="AnonJr.com" />
  <meta property="og:url" content="https://www.anonjr.com/countdown.html" />
- <meta property="article:published_time" content="2019-04-26T17:48:38.8352368-04:00" />
+ <meta property="article:published_time" content="2019-04-29T11:12:31.0572068-04:00" />
  <meta property="og:image" content="https://www.anonjr.com/res/favicon-152x152.png" />
     <script src="/res/html5shiv.js"></script>
     
@@ -60,7 +60,6 @@ ga('send', 'pageview');
        <div id="container" class="pure-g">
            <div id="content" class="pure-u-3-4">
                 <!-- Based On: https://github.com/madcitygg/xsplit-countdown-->
-
 <style type="text/css">
     html, body { width: 300px; background: none transparent; overflow: hidden; }
     * { margin: 0; padding: 0; line-height: 1; }
@@ -73,9 +72,7 @@ ga('send', 'pageview');
         text-shadow: 0 0 1px rgba(0, 0, 0, .95);
     }
 </style>
-
 <h1 class="timer" id="js-stream-timer">00:00</h1>
-
 <!-- MAIN JS -->
 <script type="text/javascript">
     var countdownMinutes = 5;
@@ -86,26 +83,20 @@ ga('send', 'pageview');
         setInterval(function () {
             minutes = parseInt(timer / 60, 10)
             seconds = parseInt(timer % 60, 10);
-
             minutes = minutes < 10 ? "0" + minutes : minutes;
             seconds = seconds < 10 ? "0" + seconds : seconds;
-
             textElement.textContent = minutes + ":" + seconds;
-
             if (--timer < 0) {
                 timer = duration;
             }
         }, 1000);
     }
-
     window.onload = function () {
         var totalMinutes = 60 * countdownMinutes;
         var textElement = document.querySelector('#js-stream-timer');
         textElement.textContent = countdownMinutes < 10 ? '0' + countdownMinutes + ':00' : '' + countdownMinutes + ':00'
-
         start(totalMinutes, textElement);
     };
-
 </script>
            </div>
            <div id="side" class="pure-u-1-4">

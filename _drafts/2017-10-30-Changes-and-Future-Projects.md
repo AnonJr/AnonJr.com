@@ -11,8 +11,10 @@ tags:
 
 Looks like some changes are on the horizon&hellip; (and have been since I started this draft on 2017-10-30)
 
-{% embed youtube "bUy-Z1imUME" %}{% endembed %}
-<!-- https://youtu.be/bUy-Z1imUME -->
+{% include responsive-embed url="https://youtube.com/embed/bUy-Z1imUME" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% comment %}
+<iframe width="560" height="315" src="https://youtube.com/embed/bUy-Z1imUME" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% endcomment %}
 
 Burnout is one of those things that's been written about a lot lately, particularly in the tech industry. If you're not familiar, https://dev.to has a [couple][5] [articles][4] worth reading. With all the wonderful articles out there, what can I add? A case study - me.
 

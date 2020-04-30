@@ -15,9 +15,11 @@ Don't mind the dust, and sorry about the cobwebs&hellip; To say it's been a whil
 At the time I was earnestly looking to ramp up and do something with the Blogger account I opened and never actually used for anything other than oAuth. Life hit hard - a combination of events, accumulated effects of a sleep disorder, depression, and the early stages of burnout - and so it sat a little longer.
 <!--more-->
 I've made a few halfhearted attempts to start it all back up, but as you can clearly see nothing came to much. So here we are.
+{% comment %}
+{% include responsive-embed url="https://youtube.com/embed/Tkfjrp0PNYw" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% endcomment %}
+<iframe width="560" height="315" src="https://youtube.com/embed/Tkfjrp0PNYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% embed youtube "Tkfjrp0PNYw" %}{% endembed %}
-<!-- https://youtu.be/Tkfjrp0PNYw -->
 
 > If you've managed to make it this long without watching the awesome (and canceled too soon) show Firefly, get your popcorn and streaming service of choice going and enjoy a weekend binge. We can even compare notes with the good folks at [Cordkillers](http://www.cordkillers.com/).
 
