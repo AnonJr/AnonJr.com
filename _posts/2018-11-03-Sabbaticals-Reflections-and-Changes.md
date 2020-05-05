@@ -19,7 +19,7 @@ Burnout is one of those things that's been written about a lot lately, particula
 
 If I'm being completely honest, the warning signs were there in 2014. I may even get to some of that in a resumed rendition of retrospectives. In January 2016 I reached a point where I was at least willing to admit something was deeply wrong and find out just where I was at. So I took the [Maslach Burnout Inventory][6] and found the following results looking back at me:
 
-![&hellip;ouch.](/img/2018-11-03-MBIResults.png '&hellip;ouch.'){: class="pure-img"}
+![&hellip;ouch.](/img/2018-11-03-MBIResults.png '&hellip;ouch.'){class="pure-img"}
 {% comment %}
 {% include figure class="pure-img" image_path="/img/2018-11-03-MBIResults.png" alt="&hellip;ouch." caption="&hellip;ouch." %}
 {% endcomment %}
@@ -36,7 +36,7 @@ To get ready for the sabbatical, in September 2017 I started working part-time a
 
 Knowing that given my energy levels were what they were, I kept the job to make sure I'd get out of the house and actually engage in the time honored tradition of verbal communication with actual humans.
 
-![Jabba, illustrating my energy levels](/img/2018-11-03_JabbaRelaxing.jpg 'Jabba, illustrating my energy levels'){: class="pure-img"}
+![Jabba, illustrating my energy levels](/img/2018-11-03_JabbaRelaxing.jpg 'Jabba, illustrating my energy levels'){class="pure-img"}
 {% comment %}
 {% include figure class="pure-img" image_path="/img/2018-11-03_JabbaRelaxing.jpg" alt="Jabba, illustrating my energy levels" caption="Jabba, illustrating my energy levels" %}
 {% endcomment %}

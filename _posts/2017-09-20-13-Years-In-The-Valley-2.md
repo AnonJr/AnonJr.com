@@ -14,7 +14,7 @@ A lot of life has been happening, and it seems maybe I need a little perspective
 
 Six days later and I still haven't quite gotten into the habit of regular blogging yet, so whatever is done by the time my lunch break is over is what's getting posted. Like before, some of that time was taken getting some essentials:
 <!--more-->
-![Essential Asset](/img/2017-09-14_EssentialAsset.png 'Essential Asset'){: class="pure-img"}
+![Essential Asset](/img/2017-09-14_EssentialAsset.png 'Essential Asset'){class="pure-img"}
 {% comment %}
 {% include figure class="pure-img" image_path="/img/2017-09-14_EssentialAsset.png" alt="Essential Asset" caption="Essential Asset" %}
 {% endcomment %}

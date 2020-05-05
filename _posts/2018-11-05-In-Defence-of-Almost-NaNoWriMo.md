@@ -14,12 +14,12 @@ tags:
 
 Not 1/6<sup>th</sup> of the way in to [Almost NaNoWriMo]({% post_url 2018-11-01-Almost-NaNoWriMo %}), and I'll admit to feeling a little defensive. I was originally thinking of this article this morning in terms of being a spot-check or reflection on the exercise so far, but if I'm being brutally honest, it was a couple of comments that have been on a slow burn in the back of my mind since last night:
 
-![Unhelpful Advice](/img/2018-11-05-UnhelpfulAdvice-01.png 'Unhelpful Advice'){: class="pure-img"}
+![Unhelpful Advice](/img/2018-11-05-UnhelpfulAdvice-01.png 'Unhelpful Advice'){class="pure-img"}
 {% comment %}
 {% include figure class="pure-img" image_path="/img/2018-11-05-UnhelpfulAdvice-01.png" alt="Unhelpful Advice" caption="" %}
 {% endcomment %}
 
-![Unhelpful Advice](/img/2018-11-05-UnhelpfulAdvice-02.png 'Unhelpful Advice'){: class="pure-img"}
+![Unhelpful Advice](/img/2018-11-05-UnhelpfulAdvice-02.png 'Unhelpful Advice'){class="pure-img"}
 {% comment %}
 {% include figure class="pure-img" image_path="/img/2018-11-05-UnhelpfulAdvice-02.png" alt="Unhelpful Advice" caption="" %}
 {% endcomment %}
@@ -57,7 +57,7 @@ We also recognize this in the programming space, where we understand that growth
 
 Which brings us back to the writing - you don't get to *better* articles without writing *more* articles; or at least more articles with a particular mindset and approach. We can see this in some of the more helpful comments.
 
-![Semi-helpful Advice](/img/2018-11-05-SemihelpfulAdvice-01.png 'Semi-helpful Advice'){: class="pure-img"}
+![Semi-helpful Advice](/img/2018-11-05-SemihelpfulAdvice-01.png 'Semi-helpful Advice'){class="pure-img"}
 {% comment %}
 {% include figure class="pure-img" image_path="/img/2018-11-05-SemihelpfulAdvice-01.png" alt="Semi-helpful Advice" caption="" %}
 {% endcomment %}
@@ -70,7 +70,7 @@ Having done [Projects Projects Projects]({% post_url 2018-11-02-Projects-Project
 
 Oh, and for those wondering, here's the statistics for this post.
 
-![Ghostwriter's Document Statistics](/img/2018-11-05-WritingStats-01.png 'Ghostwriter\'s Document Statistics'){: class="pure-img"}
+![Ghostwriter's Document Statistics](/img/2018-11-05-WritingStats-01.png 'Ghostwriter\'s Document Statistics'){class="pure-img"}
 {% comment %}
 {% include figure class="pure-img" image_path="/img/2018-11-05-WritingStats-01.png" alt="Ghostwriter's Document Statistics" caption="Ghostwriter's Document Statistics" %}
 {% endcomment %}

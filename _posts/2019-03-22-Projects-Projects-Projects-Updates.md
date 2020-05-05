@@ -31,7 +31,7 @@ Part of the problem is I don't have a clear vision for what I want. Yet. In the 
 
 I've also put a new header/banner up on my new [Twitch](https://www.twitch.tv/anonjr_live), [Mixer](https://mixer.com/AnonJr_Live?vod=91997262), [YouTube](https://www.youtube.com/channel/UCXafqhKHbkSUIrq0LAuu0tw), and other accounts. The references in the by-line will be explained in the next two bits.
 
-![New banner for some of my profiles](/img/2019-03-22-Projects-Projects-Projects-Updates.png 'New banner for some of my profiles'){: class="pure-img"}
+![New banner for some of my profiles](/img/2019-03-22-Projects-Projects-Projects-Updates.png 'New banner for some of my profiles'){class="pure-img"}
 {% comment %}
 {% include figure class="pure-img" image_path="/img/2019-03-22-Projects-Projects-Projects-Updates.png" alt="New banner for some of my profiles" caption="New banner for some of my profiles" %}
 {% endcomment %}

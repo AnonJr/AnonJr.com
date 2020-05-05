@@ -24,7 +24,7 @@ In an ideal world I would have taken more regular time off, and I would have adv
 
 I remember a long time ago reading about how [we should all take sabbaticals][1]. At the time I read Joel's post I didn't really take it to heart. I'd just finished college, and was still only months into my brand new job. The idea that I could be so tired and run down that an extended time away was needed &hellip; I just couldn't comprehend it.
 
-![Jabba illustrating how to relax](/img/2017-11-03_JabbaRelaxing.jpg 'Jabba illustrating how to relax'){: class="pure-img"}
+![Jabba illustrating how to relax](/img/2017-11-03_JabbaRelaxing.jpg 'Jabba illustrating how to relax'){class="pure-img"}
 
 {% comment %}
 {% include figure class="pure-img" image_path="/img/2017-11-03_JabbaRelaxing.jpg" alt="Jabba illustrating how to relax" caption="Jabba illustrating how to relax" %}

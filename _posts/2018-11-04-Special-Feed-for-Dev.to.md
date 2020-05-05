@@ -21,7 +21,7 @@ Which brings us to this bit - I've got a second RSS feed now with just the artic
 
 In the front matter I have a `repost` variable like so:
 
-![(side note: need to fix the highlighting/rendering of markdown code in posts&hellip;)](/img/2018-11-04-frontmatter.png '(side note: need to fix the highlighting/rendering of markdown code in posts&hellip;)'){: class="pure-img"}
+![(side note: need to fix the highlighting/rendering of markdown code in posts&hellip;)](/img/2018-11-04-frontmatter.png '(side note: need to fix the highlighting/rendering of markdown code in posts&hellip;)'){class="pure-img"}
 {% comment %}
 {% include figure class="pure-img" image_path="/img/2018-11-04-frontmatter.png" alt="(side note: need to fix the highlighting/rendering of markdown code in posts&hellip;)" caption="(side note: need to fix the highlighting/rendering of markdown code in posts&hellip;)" %}
 {% endcomment %}
@@ -30,7 +30,7 @@ Originally I was going to set up a "to-dev.to" tag, and go that way, but that di
 
 And there's now a `todev.to.xml` that filters through the posts for just those that I want to republish.
 
-![DevTo XML](/img/2018-11-04-devtoxml.png){: class="pure-img"}
+![DevTo XML](/img/2018-11-04-devtoxml.png){class="pure-img"}
 {% comment %}
 {% include figure class="pure-img" image_path="/img/2018-11-04-devtoxml.png" alt="DevTo XML" caption="" %}
 {% endcomment %}
