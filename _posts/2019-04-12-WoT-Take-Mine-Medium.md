@@ -1,18 +1,20 @@
 ---
-title: "The 47%: Audio Test 87546"
-description: "After some audio issues in the last few streams, I made some changes to my settings and setup. Here's where I tested it out and had a little fun in artillery."
-date: 2019-04-06 23:30:00 -0500
+title: "The 47%: I'll Take Mine Medium"
+description: "Today was an opportunity to work with some Medium Tanks for the bulk of the stream. And have some fun with Fartrock."
+date: 2019-04-12 23:30:00 -0500
 tags:
 - The 47%
 - World of Tanks
 repost: "" #"dev.to"
 ---
 
-After some audio issues in the last few streams, I made some changes to my settings and setup. Here's where I tested it out and had a little fun in artillery. :)
+Today was an opportunity to work with some Medium Tanks for the bulk of the stream. And have some fun with Fartrock. :)
+
+Unfortunately it looks like the recording got cut a little early...
 
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/-JumDpT6c2I" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include responsive-embed url="https://youtube.com/embed/l9REutzh4tc" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

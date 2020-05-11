@@ -1,18 +1,17 @@
 ---
-title: "The 47%: Audio Test 87546"
-description: "After some audio issues in the last few streams, I made some changes to my settings and setup. Here's where I tested it out and had a little fun in artillery."
-date: 2019-04-06 23:30:00 -0500
+title: "CoffeeCraft S00: Testing Settings (Part 2)"
+description: "The one where I'm testing XSplit and doing a quick run around the world. First *real* stream should be coming this Friday."
+date: 2019-03-17 20:30:00 -0500
 tags:
-- The 47%
-- World of Tanks
+- CoffeeCraft
+- Minecraft
 repost: "" #"dev.to"
 ---
 
-After some audio issues in the last few streams, I made some changes to my settings and setup. Here's where I tested it out and had a little fun in artillery. :)
-
+The one where I'm testing XSplit and doing a quick run around the world. First *real* stream should be coming this Friday.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/-JumDpT6c2I" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include responsive-embed url="https://youtube.com/embed/znUJW1QAy68" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.
