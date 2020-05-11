@@ -2,6 +2,8 @@
 markdown: kramdown
 liquid:
   error_mode: strict
+sass:
+    style: compressed
 
 # Site Setup
 locale:           "en"
