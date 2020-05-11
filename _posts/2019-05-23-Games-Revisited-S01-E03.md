@@ -1,18 +1,18 @@
 ---
-title: "Games Revisited S01-E01 'Knights of the Old Republic'"
-description: "The inaugural stream for 'Games Revisited': I did a quick overview of what to expect for Season 1, rolled a new character, and started through the first planet."
-date: 2019-05-09 22:30:00 -0500
+title: "Games Revisited S01-E03: Taris Gang Wars and Raging Rakghouls"
+description: "Today we clear out some rakghouls, save a wookie, and further our part of the gang war in the lower parts of Taris. We seem to be getting closer to our original goal of saving the captive Jedi who crashed on the planet with us."
+date: 2019-05-23 22:30:00 -0500
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"
 repost: "" #"dev.to"
 ---
 
-The inaugural stream for "Games Revisited": I did a quick overview of what to expect for Season 1, rolled a new character, and started through the first planet.
+Today we clear out some rakghouls, save a wookie, and further our part of the gang war in the lower parts of Taris. We seem to be getting closer to our original goal of saving the captive Jedi who crashed on the planet with us.
 <!--more-->
 
 
-{% include responsive-embed url="https://youtube.com/embed/yxnRueE3WHk" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include responsive-embed url="https://youtube.com/embed/94_YReajtUw" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

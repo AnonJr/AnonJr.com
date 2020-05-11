@@ -1,18 +1,18 @@
 ---
-title: "Games Revisited S01-E01 'Knights of the Old Republic'"
-description: "The inaugural stream for 'Games Revisited': I did a quick overview of what to expect for Season 1, rolled a new character, and started through the first planet."
-date: 2019-05-09 22:30:00 -0500
+title: "The 47%: Once More Unto the Breach"
+description: "Just another fun bit of stress relief after a long week. This time joined by Fartrock and Arcaidius."
+date: 2019-05-24 23:30:00 -0500
 tags:
-- Games Revisited
-- "Star Wars: Knights of the Old Republic"
+- The 47%
+- World of Tanks
 repost: "" #"dev.to"
 ---
 
-The inaugural stream for "Games Revisited": I did a quick overview of what to expect for Season 1, rolled a new character, and started through the first planet.
+Just another fun bit of stress relief after a long week. This time joined by Fartrock and Arcaidius (well... he's Arcaidius over in CoffeeCraft, JediHealer in World of Tanks).
+
 <!--more-->
 
-
-{% include responsive-embed url="https://youtube.com/embed/yxnRueE3WHk" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include responsive-embed url="https://youtube.com/embed/ZtCizdAUANQ" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

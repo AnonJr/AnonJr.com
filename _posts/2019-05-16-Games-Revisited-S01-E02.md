@@ -1,18 +1,18 @@
 ---
-title: "Games Revisited S01-E01 'Knights of the Old Republic'"
-description: "The inaugural stream for 'Games Revisited': I did a quick overview of what to expect for Season 1, rolled a new character, and started through the first planet."
-date: 2019-05-09 22:30:00 -0500
+title: "Games Revisited S01-E02: Still on Taris"
+description: "Some more exploration of Taris. Somehow we got drafted into a gang war and are now working our way through the sewers helping every poor soul along the way."
+date: 2019-05-16 22:30:00 -0500
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"
 repost: "" #"dev.to"
 ---
 
-The inaugural stream for "Games Revisited": I did a quick overview of what to expect for Season 1, rolled a new character, and started through the first planet.
+We continue revisiting Star Wars: Knights of the Old Republic with some more exploration of Taris. Somehow we got drafted into a gang war and are now working our way through the sewers helping every poor soul along the way.
 <!--more-->
 
 
-{% include responsive-embed url="https://youtube.com/embed/yxnRueE3WHk" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include responsive-embed url="https://youtube.com/embed/XgqEoTGRC-U" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

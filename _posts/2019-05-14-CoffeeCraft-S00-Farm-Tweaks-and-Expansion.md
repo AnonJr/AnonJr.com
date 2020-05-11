@@ -1,18 +1,17 @@
 ---
-title: "Games Revisited S01-E01 'Knights of the Old Republic'"
-description: "The inaugural stream for 'Games Revisited': I did a quick overview of what to expect for Season 1, rolled a new character, and started through the first planet."
-date: 2019-05-09 22:30:00 -0500
+title: "CoffeeCraft S00: Farm Tweaks and Expansion"
+description: "Quick update on the happenings around the server, then we prep a couple farms for the impending update and add in some other bits that have been on the drawing board."
+date: 2019-05-14 20:30:00 -0500
 tags:
-- Games Revisited
-- "Star Wars: Knights of the Old Republic"
+- CoffeeCraft
+- Minecraft
 repost: "" #"dev.to"
 ---
 
-The inaugural stream for "Games Revisited": I did a quick overview of what to expect for Season 1, rolled a new character, and started through the first planet.
+Quick update on the happenings around the server, then we prep a couple farms for the impending update and add in some other bits that have been on the drawing board. Not all the animals cooperated&hellip;
 <!--more-->
 
-
-{% include responsive-embed url="https://youtube.com/embed/yxnRueE3WHk" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include responsive-embed url="https://youtube.com/embed/rs2D8bdgss4" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.
