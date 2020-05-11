@@ -1,0 +1,4 @@
+# https://securitytxt.org/
+Contact: webdev waywardsondevelopers.com
+Contact: https://twitter.com/AnonJr
+Preferred-Languages: en-US

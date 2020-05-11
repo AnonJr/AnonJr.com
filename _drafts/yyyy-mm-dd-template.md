@@ -2,13 +2,10 @@
 title: "Post Title"
 description: "Post Summary"
 date: 2018-11-07 22:30:00 -0500
-author: AnonJr
-layout: post
-comments: true
-repost: "" #"dev.to"
 tags:
 - meta
 - NaNoWriMo
+repost: "" #"dev.to"
 ---
 
 Text beginning and intro stuff.

@@ -2,9 +2,6 @@
 title: "Update on Projects Projects Projects"
 description: "Brief status update on the various projects I mentioned last year, and why my last post was back in November."
 date: 2019-03-23 22:30:00 -0500
-author: AnonJr
-layout: post
-comments: true
 tags:
 - programming
 - projects
@@ -31,10 +28,7 @@ Part of the problem is I don't have a clear vision for what I want. Yet. In the 
 
 I've also put a new header/banner up on my new [Twitch](https://www.twitch.tv/anonjr_live), [Mixer](https://mixer.com/AnonJr_Live?vod=91997262), [YouTube](https://www.youtube.com/channel/UCXafqhKHbkSUIrq0LAuu0tw), and other accounts. The references in the by-line will be explained in the next two bits.
 
-![New banner for some of my profiles](/img/2019-03-22-Projects-Projects-Projects-Updates.png 'New banner for some of my profiles'){class="pure-img"}
-{% comment %}
 {% include figure class="pure-img" image_path="/img/2019-03-22-Projects-Projects-Projects-Updates.png" alt="New banner for some of my profiles" caption="New banner for some of my profiles" %}
-{% endcomment %}
 
 As much as I love the current background, I'll probably switch it out for a photo I took on a trip to Arizona not too far back. I still need to switch this over from Pretzel to Jekyll, and work out a smoother deploy. I did get that [special feed]({% post_url 2018-11-04-Special-Feed-for-Dev.to %}) built though.
 

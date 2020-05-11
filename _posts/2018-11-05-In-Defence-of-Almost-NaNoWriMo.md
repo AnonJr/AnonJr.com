@@ -2,27 +2,18 @@
 title: "In Defence of Almost NaNoWriMo"
 description: "Reflecting on some comments, and defending the core concept of daily writting."
 date: 2018-11-05 22:30:00 -0500
-author: AnonJr
-layout: post
-comments: true
-repost: "dev.to"
 tags:
 - meta
 - programming
 - NaNoWriMo
+repost: "dev.to"
 ---
 
 Not 1/6<sup>th</sup> of the way in to [Almost NaNoWriMo]({% post_url 2018-11-01-Almost-NaNoWriMo %}), and I'll admit to feeling a little defensive. I was originally thinking of this article this morning in terms of being a spot-check or reflection on the exercise so far, but if I'm being brutally honest, it was a couple of comments that have been on a slow burn in the back of my mind since last night:
-
-![Unhelpful Advice](/img/2018-11-05-UnhelpfulAdvice-01.png 'Unhelpful Advice'){class="pure-img"}
-{% comment %}
+<!--more-->
 {% include figure class="pure-img" image_path="/img/2018-11-05-UnhelpfulAdvice-01.png" alt="Unhelpful Advice" caption="" %}
-{% endcomment %}
 
-![Unhelpful Advice](/img/2018-11-05-UnhelpfulAdvice-02.png 'Unhelpful Advice'){class="pure-img"}
-{% comment %}
 {% include figure class="pure-img" image_path="/img/2018-11-05-UnhelpfulAdvice-02.png" alt="Unhelpful Advice" caption="" %}
-{% endcomment %}
 
 Now please don't hear what I'm not saying: I'm not judging the *intent* of the commenter, just the *approach* and the *potential results*. On the latter part, I won't pretend to speak for anyone else - I lost a bit of the fire and enthusiasm gained from starting the endevour, finding some [kindred](https://dev.to/mark_nicol/an-article-a-day-for-november-41f5) [spirits](https://dev.to/lvrbrtsn/article-a-day-375h), and seeing the encouraging comments.
 
@@ -57,10 +48,7 @@ We also recognize this in the programming space, where we understand that growth
 
 Which brings us back to the writing - you don't get to *better* articles without writing *more* articles; or at least more articles with a particular mindset and approach. We can see this in some of the more helpful comments.
 
-![Semi-helpful Advice](/img/2018-11-05-SemihelpfulAdvice-01.png 'Semi-helpful Advice'){class="pure-img"}
-{% comment %}
 {% include figure class="pure-img" image_path="/img/2018-11-05-SemihelpfulAdvice-01.png" alt="Semi-helpful Advice" caption="" %}
-{% endcomment %}
 
 It's going to take deliberate, focused steps to get the quality where it needs to be. For me, the first few have been a matter of showing up. It's hard to improve if you're not showing up. This is something that [others](https://dev.to/lvrbrtsn/on-staying-motivated--4861) doing the "November Daily" thing have pointed to.
 
@@ -70,7 +58,4 @@ Having done [Projects Projects Projects]({% post_url 2018-11-02-Projects-Project
 
 Oh, and for those wondering, here's the statistics for this post.
 
-![Ghostwriter's Document Statistics](/img/2018-11-05-WritingStats-01.png 'Ghostwriter\'s Document Statistics'){class="pure-img"}
-{% comment %}
 {% include figure class="pure-img" image_path="/img/2018-11-05-WritingStats-01.png" alt="Ghostwriter's Document Statistics" caption="Ghostwriter's Document Statistics" %}
-{% endcomment %}

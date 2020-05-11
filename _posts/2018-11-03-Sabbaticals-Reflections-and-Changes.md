@@ -2,13 +2,10 @@
 title: "Sabbaticals, Reflections, and Changes"
 description: "The one where I speak honestly about my burnout."
 date: 2018-11-03 22:30:00 -0500
-author: AnonJr
-layout: post
-comments: true
-repost: "dev.to"
 tags:
 - burnout
 - meta
+repost: "dev.to"
 ---
 
 I've had a few versions of this post floating around for longer than I care to think about. What follows is something closer to what I'd started around the same time I was working on the "13 Years in the Valley" retrospectives. For some reason I thought I'd more directly stated just how bad the burnout was, but after looking back I apparently only had the conversation as fully and expressedly in my head.
@@ -19,10 +16,7 @@ Burnout is one of those things that's been written about a lot lately, particula
 
 If I'm being completely honest, the warning signs were there in 2014. I may even get to some of that in a resumed rendition of retrospectives. In January 2016 I reached a point where I was at least willing to admit something was deeply wrong and find out just where I was at. So I took the [Maslach Burnout Inventory][6] and found the following results looking back at me:
 
-![&hellip;ouch.](/img/2018-11-03-MBIResults.png '&hellip;ouch.'){class="pure-img"}
-{% comment %}
 {% include figure class="pure-img" image_path="/img/2018-11-03-MBIResults.png" alt="&hellip;ouch." caption="&hellip;ouch." %}
-{% endcomment %}
 
 I tried to work within the system, I tried counseling, and in the end it just wasn't getting better. In an ideal world I would have taken more regular time off, and I would have advocated for a more balanced life for myself, and recognized when the work environment was no longer healthy.
 
@@ -36,10 +30,7 @@ To get ready for the sabbatical, in September 2017 I started working part-time a
 
 Knowing that given my energy levels were what they were, I kept the job to make sure I'd get out of the house and actually engage in the time honored tradition of verbal communication with actual humans.
 
-![Jabba, illustrating my energy levels](/img/2018-11-03_JabbaRelaxing.jpg 'Jabba, illustrating my energy levels'){class="pure-img"}
-{% comment %}
 {% include figure class="pure-img" image_path="/img/2018-11-03_JabbaRelaxing.jpg" alt="Jabba, illustrating my energy levels" caption="Jabba, illustrating my energy levels" %}
-{% endcomment %}
 
 This is where the *changes* part was supposed to go, but I've run out of steam. Definitely to be finished before the month is up.
 

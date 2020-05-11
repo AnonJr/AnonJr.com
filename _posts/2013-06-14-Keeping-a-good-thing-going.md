@@ -2,9 +2,6 @@
 title: Keeping a good thing going
 description: "Taking over a new (for me) project."
 date: 2013-06-14 20:53:00 -0500
-author: AnonJr
-layout: post
-comments: true
 tags:
 - programming
 - asp-ajaxed

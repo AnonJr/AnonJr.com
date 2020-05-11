@@ -2,13 +2,10 @@
 title: "Almost NaNoWriMo"
 description: "Blogging has been another writing activity that I've long intended to do, but never seem to actually make happen. For the month of November my goal is to get at least one post out a day."
 date: 2018-11-01 22:30:00 -0500
-author: AnonJr
-layout: post
-comments: true
-repost: "dev.to"
 tags:
 - meta
 - NaNoWriMo
+repost: "dev.to"
 ---
 
 It seems a little ridiculous to tag this "NaNoWriMo", but I'm not really sure what to call it. I've had a few posts in draft for longer than I care to mention, and while the desire has been there the energy has been lacking&hellip; most likely to be the subject of some upcoming posts.

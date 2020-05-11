@@ -1,8 +1,9 @@
 <h2>Tags</h2>
 <ul id="tagcloud">
-{% for tag in site.tags %}
-    <li style="font-size: {{ tag.posts.size | times: 100 | divided_by: site.tags.size | plus: 70 }}%">
-        <a href="/tag/{{ tag.Name }}/" class="tag">{{ tag.Name }}</a>
+{% assign tags = site.tags | sort %}
+{% for tag in tags %}
+    <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 70 }}%">
+        <a href="/tag/{{ tag | first | slugify }}/" class="tag">{{ tag | first }}</a>
     </li>
 {% endfor %}
 </ul>

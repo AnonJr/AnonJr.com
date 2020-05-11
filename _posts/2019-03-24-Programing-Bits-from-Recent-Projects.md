@@ -2,18 +2,15 @@
 title: "Programming Bits from Recent Projects"
 description: "Reviewing the work on recent projects, and noticing a few things."
 date: 2019-03-24 23:30:00 -0400
-author: AnonJr
-layout: post
-comments: true
-repost: "dev.to"
 tags:
 - meta
 - programming
 - CoffeeCraft
+repost: "dev.to"
 ---
 
-I've got the first live stream for [CoffeeCraft](https://www.coffeecraft.us/) coming up this Monday at 7pm EDT (-4 UTC? I think? I hate Daylight Saving). I did a [test stream](https://www.coffeecraft.us/2019/03/Test-Stream.html) a while back, and [downloaded some music](https://www.coffeecraft.us/2019/03/AnonJr-Live-Playlist-v1.html) to run in the background. I've got a plan and now I need to burn off some nervous energy. There's probably a whole other post in there but I spent too much time today finding stuff to do instead of writing the stuff that was on my mind. With a little more work I'll get the nervous slacking to actual writing ratio tipped in the other direction. :)
-
+I've got the first live stream for [CoffeeCraft](https://www.coffeecraft.us/) coming up this Monday at 7pm EDT (-4 UTC? I think? I hate Daylight Saving). I did a [test stream](https://www.coffeecraft.us/2019/03/Test-Stream.html) a while back, and [downloaded some music](https://www.coffeecraft.us/2019/03/AnonJr-Live-Playlist-v1.html) to run in the background. I've got a plan and now I need to burn off some nervous energy. There's probably a whole other post in there but I spent too much time today finding stuff to do instead of writing the stuff that was on my mind. With a little more work I'll get the nervous slacking to actual writing ratio tipped in the other direction. :smiley:
+<!--more-->
 >Side note: before I get too far away from the impending live stream, since this is the beginning of the channel I don't really expect much in the way of attendance - so, if you'd like to hop in chat and ask some programming or career questions I'd be more than happy to answer. I'm no tech luminary like Scott Hanselman or Troy Hunt, but I've got 14 years of doing actual work managing systems for a mid-sized health system. I might have a nugget or two worth sharing.
 
 So, if that's not this post, what is? This post is a sort of follow up from my [Projects Update]({% post_url 2019-03-22-Projects-Projects-Projects-Updates %}) post. And a chance to burn off some nervous energy&hellip; starting something is, well, something.
@@ -26,7 +23,7 @@ First commit after things started settling down was to add the [Dev.to](https://
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Reminder to put the DEV badge on your personal site alongside Twitter and your other social links. You can either use the SVG or Font Awesome.<a href="https://t.co/itCHG96NX8">https://t.co/itCHG96NX8</a><br><br>Happy coding ❤️</p>&mdash; Ben Halpern 🤗 (@bendhalpern) <a href="https://twitter.com/bendhalpern/status/1099410983695478784?ref_src=twsrc%5Etfw">February 23, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Fun thing when doing projects like this - you find out what other libraries are out of date. :/
+Fun thing when doing projects like this - you find out what other libraries are out of date. :confused:
 
 After a bit of "did I do that right?" style double-checking source, output, references, and such it turned out I hadn't updated [Font Awesome](https://fontawesome.com/) in a while. Also turns out they've got an easier way to use the library, but I'll get to that one next. For AnonJr.com I continued using the [self-hosting method](https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself). For new projects I wouldn't recommend doing this unless you had a clearly articulatable reason why you *needed* to host those files yourself - e.g. "the project is running internally on the company LAN, and staff won't have access to external resources". That's what I had to do when working at Cape Fear Valley, as some staff had no access to resources external to the corporate network. As for here I wasn't up to ripping everything up and re-working that bit of styling for two icons. I'll save that for the move from Pretzel to Git.
 

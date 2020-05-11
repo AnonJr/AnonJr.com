@@ -1,3 +1,0 @@
-@echo off
-echo Running Pretzel...
-_pretzel\pretzel.exe bake --cleantarget --destination=.\docs

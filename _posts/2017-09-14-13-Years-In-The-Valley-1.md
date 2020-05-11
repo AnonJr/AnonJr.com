@@ -2,9 +2,6 @@
 title: "Retrospective: 13 Years in the Valley, Part 1"
 description: "A lot of life has been happening, and it seems maybe I need a little perspective - and so this 'retrospective'."
 date: 2017-09-14 12:45:00 -0500
-author: AnonJr
-layout: post
-comments: true
 tags:
 - meta
 - programming
@@ -16,10 +13,7 @@ A lot of life has been happening, and it seems maybe I need a little perspective
 
 Well, I haven't quite gotten into the habit of regular blogging yet, so whatever is done by the time my lunch break is over is what's getting posted. I'd say lunch hour, but some of that time was taken getting some essentials:
 <!--more-->
-![Essential Asset](/img/2017-09-14_EssentialAsset.png 'Essential Asset'){:class="pure-img"}
-{% comment %}
 {% include figure class="pure-img" image_path="/img/2017-09-14_EssentialAsset.png" alt="Essential Asset" caption="Essential Asset" %}
-{% endcomment %}
 
 ## 13 Years? In the Valley?
 
