@@ -11,11 +11,11 @@ repost: "" #"dev.to"
 We finally upgraded to 1.14.2! Mostly today's a rambly day, with some actual outlines for future plans.
 
 You can download the relevant files from the Vanilla Tweaks site if you want to use the textures, datapacks, and crafting recipes we're using:
- - Server textures: https://vanillatweaks.net/share#eTitrj
- - Datapacks: https://vanillatweaks.net/share#pdHb1E
- - Crafting extras: https://vanillatweaks.net/share#6j5spi
+ - [Server textures](https://vanillatweaks.net/share#eTitrj)
+ - [Datapacks](https://vanillatweaks.net/share#pdHb1E)
+ - [Crafting Extras](https://vanillatweaks.net/share#6j5spi)
 
-I'm also using these additional textures: https://vanillatweaks.net/share#Kobo6m
+I'm also using these [additional textures](https://vanillatweaks.net/share#Kobo6m).
 <!--more-->
 
 {% include responsive-embed url="https://youtube.com/embed/UQWr-d83ey8" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
