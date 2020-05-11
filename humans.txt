@@ -10,9 +10,5 @@
 # SITE
 	Language   : English
 	Standards  : HTML5, CSS3
-	Components : HTML5Shiv, YUI3 CSS Reset
-	Dev Tools  : Visual Studio Code, Pretzel, Paint.NET
-
-# SPECIAL THANKS
-	https://browsershots.org/
-    https://github.com/Code52/pretzel/
+	Components : HTML5Shiv, PureCSS.io, and other likely dated libraries
+	Dev Tools  : Visual Studio Code, Paint.NET, Jekyll
