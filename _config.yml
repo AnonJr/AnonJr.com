@@ -83,6 +83,7 @@ permalink: /:year/:month/:title.html
 # Search
 search_full_content: false # can have performance implications for large sites
 
+tag_archive_path: "/tag/:name"
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
   enabled:
