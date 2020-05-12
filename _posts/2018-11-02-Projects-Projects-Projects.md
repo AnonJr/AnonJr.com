@@ -50,7 +50,7 @@ I'd like to get at least one or two more game streams going, just because I'd li
 
 I've considered doing a World of Tanks stream on Saturdays, and calling it "The 48%" (inside joke for the stat obsessed), though I worry that the game is falling and might not be around in any big way in the near future - and more important than that, I just haven't been having as much fun with the game lately.
 
-I've also considered doing Fallout or something like it just because I'm a bit of an antisocial gamer. :)
+I've also considered doing Fallout or something like it just because I'm a bit of an antisocial gamer. :smiley:
 
 ## Wrapping it up
 I really feel like I've forgotten something, but at this hour that's not surprising. Tomorrow I'll pick one and do a bit of a deeper look at where it's at and what needs to happen. From there the goal is to start making actual progress and to focus the posts on status updates and/or do some thinking out loud type stuff.

@@ -8,7 +8,7 @@ tags:
 repost: "" #"dev.to"
 ---
 
-Today we finish the quests related to the Sand People - including learning some important history, free the Jawas (and Griff...), and conduct a slightly less than Kosher "hunt" with some Banthas and mines. For the greater good. Or something. :)
+Today we finish the quests related to the Sand People - including learning some important history, free the Jawas (and Griff&hellip;), and conduct a slightly less than Kosher "hunt" with some Banthas and mines. For the greater good. Or something. :smiley:
 
 We also picked up and completed a side quest we weren't expecting involving Bastila's family! I'm going to work on a few things between this episode and the next. Hope to see you there.
 <!--more-->

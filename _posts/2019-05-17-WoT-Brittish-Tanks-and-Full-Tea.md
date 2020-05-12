@@ -10,7 +10,7 @@ repost: "" #"dev.to"
 
 We got a surprise raid early in the stream!
 
-We start off with a bit of a British theme on the tanks, and get joined later by Hordesoflocusts and Fartrock. Unfortunately we couldn't get Discord working, so more me chatting to myself than us chatting together. :)
+We start off with a bit of a British theme on the tanks, and get joined later by Hordesoflocusts and Fartrock. Unfortunately we couldn't get Discord working, so more me chatting to myself than us chatting together. :smiley:
 
 And to finish it off we paid it forward, raiding a fellow streamer playing some WoT himself. A fun evening all in all.
 

@@ -1,6 +1,6 @@
 ---
 title: "Almost Didn't Post This"
-description: "I admit... it's another low-energy day. :("
+description: "I admit&hellip; it's another low-energy day. :("
 date: 2018-11-07 22:30:00 -0500
 tags:
 - meta

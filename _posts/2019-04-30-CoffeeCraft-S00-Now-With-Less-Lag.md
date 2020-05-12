@@ -1,6 +1,6 @@
 ---
 title: "CoffeeCraft S00: Live Again, Now With Less Lag"
-description: "After remembering the mute button there's a little redstone work and a little more ... unfocused work here and there. Rayeste was on and we had some fun chats."
+description: "After remembering the mute button there's a little redstone work and a little more &hellip; unfocused work here and there. Rayeste was on and we had some fun chats."
 date: 2019-04-30 20:30:00 -0500
 tags:
 - CoffeeCraft
@@ -8,7 +8,7 @@ tags:
 repost: "" #"dev.to"
 ---
 
-After remembering the mute button there's a little redstone work and a little more ... unfocused work here and there. Rayeste was on and we had some fun chats.
+After remembering the mute button there's a little redstone work and a little more &hellip; unfocused work here and there. Rayeste was on and we had some fun chats.
 <!--more-->
 
 {% include responsive-embed url="https://youtube.com/embed/voWg5_srsYQ" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}

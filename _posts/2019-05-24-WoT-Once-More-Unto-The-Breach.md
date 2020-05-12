@@ -8,7 +8,7 @@ tags:
 repost: "" #"dev.to"
 ---
 
-Just another fun bit of stress relief after a long week. This time joined by Fartrock and Arcaidius (well... he's Arcaidius over in CoffeeCraft, JediHealer in World of Tanks).
+Just another fun bit of stress relief after a long week. This time joined by Fartrock and Arcaidius (well&hellip; he's Arcaidius over in CoffeeCraft, JediHealer in World of Tanks).
 
 <!--more-->
 

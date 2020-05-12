@@ -1,6 +1,6 @@
 ---
 title: "Deep Thoughts Coming Soon"
-description: "...it's a low-energy day. But I still posted something."
+description: "&hellip;it's a low-energy day. But I still posted something."
 date: 2018-11-06 22:30:00 -0500
 tags:
 - meta

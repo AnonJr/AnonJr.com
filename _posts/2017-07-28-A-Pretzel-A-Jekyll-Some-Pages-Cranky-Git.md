@@ -25,7 +25,7 @@ So what now? I’m trying to get a few projects lined up:
 * I’m almost done rebuilding a few of my websites – this being one of them.
 * I’m developing a podcast, one I hope to be able to eventually turn into a small income stream.
 * I’m restarting work on a campaign setting I was building with my sister and her husband.
-* I’m (re)starting work on two novels rooted in the above campaign setting. I’d love for both the game and the books to become something awesome and synergistic – I’ll gladly settle for one or the other taking root. I like the world we’re building and I just want to play in it. :)
+* I’m (re)starting work on two novels rooted in the above campaign setting. I’d love for both the game and the books to become something awesome and synergistic – I’ll gladly settle for one or the other taking root. I like the world we’re building and I just want to play in it. :smiley:
 
 My goal is to get one or more of these up to enough of an income to cover the bills, and do something different for a while. The various issues creating drag in my life certainly don't help, but rather than dwell on that let's look at the actual focus of the title.
 

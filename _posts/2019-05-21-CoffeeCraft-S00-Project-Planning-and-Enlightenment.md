@@ -10,7 +10,7 @@ repost: "" #"dev.to"
 
 We've got the whole gang together again!
 
-After a quick look at some of the changes made between streams, Arcaidius, Rayeste, and I start putting the plans together for our rail system. Once done with that and some related building, we start lighting up more of the area around our bases and community centre so we're not attacked as frequently...
+After a quick look at some of the changes made between streams, Arcaidius, Rayeste, and I start putting the plans together for our rail system. Once done with that and some related building, we start lighting up more of the area around our bases and community centre so we're not attacked as frequently&hellip;
 <!--more-->
 
 {% include responsive-embed url="https://youtube.com/embed/BBc69yiJFNY" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}

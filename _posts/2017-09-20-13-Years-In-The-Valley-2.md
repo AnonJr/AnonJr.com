@@ -23,7 +23,7 @@ It was made abundantly clear that teaching BLS is one of the things that *everyo
 
 My primary job was to maintain the internal online education website &ndash; a collection of fliers/class info for our live training (ILT if you want the more formal industry jargon), some online presentations and tests for our online training (eLearning is technically the right term, but at this stage calling what we were doing "eLearning" was a bit of a stretch), and other department-related stuff.
 
-Side note: I'd taken the Advanced Web Programming class on a whim to fill one of the credit requirements. It covered HTML, some very basic JavaScript, and PERL/CGI scripting. When I took it I never thought that that's the job I'd end up with. Then again, I'd already previously stated that I'd never work in healthcare, I'd never work in education, and I'd never do programming. And there I was programming for the Education department in a health system. Lesson learned: never say never. :)
+Side note: I'd taken the Advanced Web Programming class on a whim to fill one of the credit requirements. It covered HTML, some very basic JavaScript, and PERL/CGI scripting. When I took it I never thought that that's the job I'd end up with. Then again, I'd already previously stated that I'd never work in healthcare, I'd never work in education, and I'd never do programming. And there I was programming for the Education department in a health system. Lesson learned: never say never. :smiley:
 
 The site was a hacked together mess of static HTML pages and some PERL scripts (more on that in a minute) running on an NT4 server. I think I still have a zipped copy floating around somewhere&hellip; I might have to dig it up and post some screencaps.
 

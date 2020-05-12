@@ -8,7 +8,7 @@ tags:
 repost: "" #"dev.to"
 ---
 
-Today we worked on some missions, talked a little about Care Package Echo and a few other bits, and then were joined by Hordesoflocusts and Fartrock. Kept playing just a little longer than we probably should have, and probably should have cut the last bit of the stream&hellip; but it was all fun. :)
+Today we worked on some missions, talked a little about Care Package Echo and a few other bits, and then were joined by Hordesoflocusts and Fartrock. Kept playing just a little longer than we probably should have, and probably should have cut the last bit of the stream&hellip; but it was all fun. :smiley:
 
 <!--more-->
 

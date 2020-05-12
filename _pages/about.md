@@ -5,7 +5,7 @@ title: About
 
 # Who am I?
 
-That's a question I ask myself every day...
+That's a question I ask myself every day&hellip;
 
 Most would want to peg me as an IT "Jack of all Trades" given my experience, capacity, and capability in graphics design, web programming, and server administration. I've even done some photography and acquired a wide assortment of other skills. Above all, I love learning - in just about every job I've had, I've always learned and grown beyond the original job role.
 

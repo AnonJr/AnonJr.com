@@ -1,6 +1,6 @@
 ---
 title: "The 47%: The Scrub in the Shrub"
-description: "It was supposed to be a day of playing scouts... but we had fun despite a rough start."
+description: "It was supposed to be a day of playing scouts&hellip; but we had fun despite a rough start."
 date: 2019-04-26 23:30:00 -0500
 tags:
 - The 47%
@@ -8,7 +8,7 @@ tags:
 repost: "" #"dev.to"
 ---
 
-It was supposed to be a day of playing scouts... but we had fun despite a rough start.
+It was supposed to be a day of playing scouts&hellip; but we had fun despite a rough start.
 
 <!--more-->
 

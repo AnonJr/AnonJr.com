@@ -8,7 +8,7 @@ tags:
 repost: "" #"dev.to"
 ---
 
-We start the episode where we last logged out this weekend - over at a new mob spawner by the Guardian farm Arcaidius is running. He's trying to set up a space to get everything he needs to craft his own rocket supply. We were trying to work out a sugar cane farm under the bottom spawning platform, and made one that mostly worked... probably going to have to do something different though.
+We start the episode where we last logged out this weekend - over at a new mob spawner by the Guardian farm Arcaidius is running. He's trying to set up a space to get everything he needs to craft his own rocket supply. We were trying to work out a sugar cane farm under the bottom spawning platform, and made one that mostly worked&hellip; probably going to have to do something different though.
 
 Afterward we went on a bit of a Nether hunt for Quartz, which Rayeste has been using rather generously in the rail hub. She was originally going to join to discuss a pillar re-design, but was unable to join.
 <!--more-->

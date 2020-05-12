@@ -16,7 +16,7 @@ In case that's too small to read:
 
 [From the mostly trusty Wikipedia](https://en.wikipedia.org/wiki/Agnosticism):
 <blockquote class="tr_bq">Agnosticism is the view that the truth values of certain claims—especially claims about the existence or non-existence of any deity, as well as other religious and metaphysical claims—are (currently) unknown. Agnosticism can be defined in various ways, and is sometimes used to indicate doubt or a skeptical approach to questions. In some senses, agnosticism is a stance about the difference between belief and knowledge, rather than about any specific claim or belief.</blockquote>&nbsp;And in the next sentence we come to what I'd always attributed to the term:
-<blockquote class="tr_bq">In the popular sense, an agnostic is someone who neither believes nor disbelieves in the existence of a deity or deities, whereas a theist and an atheist believe and disbelieve, respectively.</blockquote>There's a lot more to the term, which would be why this took far longer to write than it should have... and I'm not even at the thought I'd planned on writing down.
+<blockquote class="tr_bq">In the popular sense, an agnostic is someone who neither believes nor disbelieves in the existence of a deity or deities, whereas a theist and an atheist believe and disbelieve, respectively.</blockquote>There's a lot more to the term, which would be why this took far longer to write than it should have&hellip; and I'm not even at the thought I'd planned on writing down.
 
 What it got me thinking about was the large number of atheists who really ought to be self-described agnostics if they were to truly live by the standards they claim.
 

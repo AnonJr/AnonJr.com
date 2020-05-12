@@ -8,7 +8,7 @@ tags:
 repost: "" #"dev.to"
 ---
 
-After some audio issues in the last few streams, I made some changes to my settings and setup. Here's where I tested it out and had a little fun in artillery. :)
+After some audio issues in the last few streams, I made some changes to my settings and setup. Here's where I tested it out and had a little fun in artillery. :smiley:
 
 <!--more-->
 

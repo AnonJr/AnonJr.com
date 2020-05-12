@@ -8,9 +8,9 @@ tags:
 repost: "" #"dev.to"
 ---
 
-Today was an opportunity to work with some Medium Tanks for the bulk of the stream. And have some fun with Fartrock. :)
+Today was an opportunity to work with some Medium Tanks for the bulk of the stream. And have some fun with Fartrock. :smiley:
 
-Unfortunately it looks like the recording got cut a little early...
+Unfortunately it looks like the recording got cut a little early&hellip;
 
 <!--more-->
 

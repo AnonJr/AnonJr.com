@@ -54,7 +54,7 @@ It's going to take deliberate, focused steps to get the quality where it needs t
 
 This post and the next few are going to be posts that I've spent a little more time setting up and figuring out what I want to articulate. I'm also going to keep an eye on the reading ease and other statistics [Ghostwriter](https://wereturtle.github.io/ghostwriter/) provides. For the moment I'm not going to do much with them, just look at what I'm actually doing, so I'll know where I need to go from there. My target will be a 10<sup>th</sup> grade reading level. It's a little higher than the usual recommendation, but is a step better than what I've managed with this post. (I'll put a screenshot at the end)
 
-Having done [Projects Projects Projects]({% post_url 2018-11-02-Projects-Projects-Projects %}), I've got a good idea of what I really want to do something with (or at least what in the near future I want to focus on), and from there I can build a more structured schedule. Probably won't happen by the next post or two, but it should be in place before the end of the week. I've got to put the car in the shop which should leave me plenty of time to walk over to the coffee shop and think. :)
+Having done [Projects Projects Projects]({% post_url 2018-11-02-Projects-Projects-Projects %}), I've got a good idea of what I really want to do something with (or at least what in the near future I want to focus on), and from there I can build a more structured schedule. Probably won't happen by the next post or two, but it should be in place before the end of the week. I've got to put the car in the shop which should leave me plenty of time to walk over to the coffee shop and think. :smiley:
 
 Oh, and for those wondering, here's the statistics for this post.
 

@@ -11,13 +11,13 @@ tags:
 
 I outlined some projects I've had on the back burner in [Projects Projects Projects]({% post_url 2018-11-02-Projects-Projects-Projects %}), now it's time to start digging into each and getting a sense of where they are and what needs to be done.
 
-Even though the podcast itself may not necessary be a fit for the Dev.to community, I'm going to cross-post this there as an example of a project assessment, and as part of a larger series on the tech/project management aspects of building a podcast. 
+Even though the podcast itself may not necessary be a fit for the Dev.to community, I'm going to cross-post this there as an example of a project assessment, and as part of a larger series on the tech/project management aspects of building a podcast.
 
 I'm going to be as clear as I can which aspects would be good for any show, and which are things that I personally think should be done. I'll do the same for Bible By Example, which should provide some interesting comparisons for two similar projects.
 
 The newest of the projects I've got on my list is CoffeeCraft.us, a [HermitCraft](http://hermitcraft.com/)-like Minecraft podcast built with my sister and her husband. The three of us plan on posting weekly videos independently, a few live streams, and a few collaborative projects.
 
-First bit, and one I've been stalling on, is getting an email, YouTube, and Twitter accounts set up for the show. You're going to see this at the top of a few of these projects&hellip; 
+First bit, and one I've been stalling on, is getting an email, YouTube, and Twitter accounts set up for the show. You're going to see this at the top of a few of these projects&hellip;
 
 The Twitter part is easy to understand, ditto for the YouTube account. I'm not going to set them up though until I get a project email going. I could technically attach it to my main account or at least set it up under one of my existing email addresses. Having said that, and what follows is a personal thing, I don't want my projects tied to my private email address. I don't want someone causing problems with the project causing problems with my personal communications.
 
@@ -29,7 +29,7 @@ Side note for those who have never bought a .us domain, apparently you can't do 
 
 I downloaded one of the Jekyll templates from [Michael Rose/Made Mistakes](https://github.com/mmistakes). I've been very happy with the assortment of his templates and you're going to see a couple different ones employed in my more recent projects.
 
-Fortunately, if you want to see the customizations I've made, the [CoffeeCraft.us site is in a public repo on GitHub](https://github.com/AnonJr/CoffeeCraft.us). *Un*fortunately, I've not accomplished much more than downloading the stock template and starting to get the logo where I want it. 
+Fortunately, if you want to see the customizations I've made, the [CoffeeCraft.us site is in a public repo on GitHub](https://github.com/AnonJr/CoffeeCraft.us). *Un*fortunately, I've not accomplished much more than downloading the stock template and starting to get the logo where I want it.
 
 My plan is to use some of the textures from the game itself for the major design elements. I need to email Xisumavoid, the website administrator for Hermitcraft, about some of the things he's done with their site.
 
@@ -37,6 +37,6 @@ When it comes to the actual broadcasting, I'm going to use XSplit to manage the 
 
 As for the game itself, we've got a server up locally that's good enough for the three of us. My old Alienware MX17 laptop is now doing double-duty as the media center and Minecraft server. We ran our previous server for a while with little trouble, and we've been running a "Season 00" map since 1.13 was released and for the most part it's been running great.
 
-Of course, all the prep and work is nothing without actually recording and broadcasting. :)
+Of course, all the prep and work is nothing without actually recording and broadcasting. :smiley:
 
 Once I get the email and YouTube set up, I'll start doing some test recording/editing/posting.
