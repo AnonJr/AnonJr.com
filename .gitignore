@@ -4,6 +4,7 @@ _site
 .DS_Store
 .jekyll-metadata
 .jekyll-cache
+.jekyll-cache/*
 .sass-cache
 *.gem
 codekit-config.json
