@@ -10,9 +10,6 @@ We're currently in what we're calling "Season 00", a private session where we ge
 
 You can get everything over at [CoffeeCraft.us](https://www.coffeecraft.us/).
 
-## <i class="fab fa-youtube"></i> Season 00 Live Streams Playlist
-{% include responsive-embed url="https://www.youtube.com/embed/videoseries?list=PLRYHZptiLlalzpDIvSrkgL1vAyaf0fOum" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
-{% comment %}
-<!-- https://www.youtube.com/playlist?list=PLRYHZptiLlalzpDIvSrkgL1vAyaf0fOum  - Season 00-->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLRYHZptiLlalzpDIvSrkgL1vAyaf0fOum" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-{% endcomment %}
+## CoffeeCraft Posts
+{% for post in site.tags["CoffeeCraft"] %}
+ * [{{ post.title }}]({{ post.url }}) {% endfor %}
