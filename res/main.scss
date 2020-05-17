@@ -8,7 +8,8 @@
 $highlight-color: #ff9900;
 $container-bg: rgba(0,0,0, .55); /* url(black50.png); */
 $headerFont: 'Alfa Slab One', Georgia, 'Times New Roman', Times, serif;
-$bodyFont: 'Acme', FreeSans, Arimo, "Droid Sans", Helvetica, Arial, sans-serif;
+$bodyFont: 'Acme', FreeSans, Arimo, 'Droid Sans', Helvetica, Arial, sans-serif;
+$monoFont: Consolas, Monaco, 'Courier New', monospaced;
 
 /* Linked Google Fonts
 font-family: 'Acme', sans-serif;
@@ -17,16 +18,16 @@ font-family: 'Alfa Slab One', cursive;
 
 body
 {
-    background-color: #000000; /*  url(background.jpg) repeat-x fixed top center - pulling 'till I can get it to scale right */
-    background-image: url(background.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    color: #cccccc;
-    font-family: $bodyFont;
-    margin-left:auto;
-	margin-right: auto;
-	width:1100px;
+  background-color: #000000; /*  url(background.jpg) repeat-x fixed top center - pulling 'till I can get it to scale right */
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #cccccc;
+  font-family: $bodyFont;
+  margin-left:auto;
+  margin-right: auto;
+  width:1100px;
 }
 
 h1,
@@ -36,11 +37,11 @@ h4,
 h5,
 h6
 {
-    color: #ffffff;
-    font-family: $headerFont;
-    font-weight: normal;
-    margin: 15px 0 5px;
-    padding: 2px 0;
+  color: #ffffff;
+  font-family: $headerFont;
+  font-weight: normal;
+  margin: 15px 0 5px;
+  padding: 2px 0;
 }
 
 a
@@ -128,14 +129,20 @@ a.tag {
 {
     float: left;
     text-align: left;
-    width: 50%;
+    width: 45%;
 }
 
 .next
 {
     float: right;
     text-align: right;
-    width: 50%;
+    width: 45%;
+}
+
+.olderpostdate
+{
+  font-family: $monoFont;
+  font-weight: bold;
 }
 
 #footer
@@ -157,6 +164,114 @@ a.tag {
 .right
 {
     float: right;
+}
+
+/* ==========================================================================
+  Tooltips from https://stackoverflow.com/a/25836471/25163
+========================================================================== */
+
+[data-tooltip] {
+  display: inline-block;
+  position: relative;
+  cursor: help;
+  padding: 4px;
+}
+/* Tooltip styling */
+[data-tooltip]:before {
+  content: attr(data-tooltip);
+  display: none;
+  position: absolute;
+  background: #fff;
+  color: #000;
+  padding: 4px 8px;
+  font-size: 14px;
+  line-height: 1.4;
+  min-width: 100px;
+  text-align: center;
+  border-radius: 4px;
+}
+/* Dynamic horizontal centering */
+[data-tooltip-position="top"]:before,
+[data-tooltip-position="bottom"]:before {
+  left: 50%;
+  -ms-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+/* Dynamic vertical centering */
+[data-tooltip-position="right"]:before,
+[data-tooltip-position="left"]:before {
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+[data-tooltip-position="top"]:before {
+  bottom: 100%;
+  margin-bottom: 6px;
+}
+[data-tooltip-position="right"]:before {
+  left: 100%;
+  margin-left: 6px;
+}
+[data-tooltip-position="bottom"]:before {
+  top: 100%;
+  margin-top: 6px;
+}
+[data-tooltip-position="left"]:before {
+  right: 100%;
+  margin-right: 6px;
+}
+
+/* Tooltip arrow styling/placement */
+[data-tooltip]:after {
+  content: '';
+  display: none;
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+}
+/* Dynamic horizontal centering for the tooltip */
+[data-tooltip-position="top"]:after,
+[data-tooltip-position="bottom"]:after {
+  left: 50%;
+  margin-left: -6px;
+}
+/* Dynamic vertical centering for the tooltip */
+[data-tooltip-position="right"]:after,
+[data-tooltip-position="left"]:after {
+  top: 50%;
+  margin-top: -6px;
+}
+[data-tooltip-position="top"]:after {
+  bottom: 100%;
+  border-width: 6px 6px 0;
+  border-top-color: #fff;
+}
+[data-tooltip-position="right"]:after {
+  left: 100%;
+  border-width: 6px 6px 6px 0;
+  border-right-color: #fff;
+}
+[data-tooltip-position="bottom"]:after {
+  top: 100%;
+  border-width: 0 6px 6px;
+  border-bottom-color: #fff;
+}
+[data-tooltip-position="left"]:after {
+  right: 100%;
+  border-width: 6px 0 6px 6px;
+  border-left-color: #fff;
+}
+/* Show the tooltip when hovering */
+[data-tooltip]:hover:before,
+[data-tooltip]:hover:after {
+  display: block;
+  z-index: 50;
 }
 
 /* ==========================================================================
