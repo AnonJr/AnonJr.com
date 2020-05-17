@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited Interludes (SNES Edition): Ultima VI"
 description: "Today we go through the intro and beginning of Ultima VI."
-date: 2019-12-22 22:30:00 -0500
+date: 2019-12-22 04:00:00 -0500
 tags:
 - Games Revisited
 - Interludes

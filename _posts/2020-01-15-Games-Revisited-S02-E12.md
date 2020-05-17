@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E12: The Great Race and A New Friend"
 description: "We're continuing our play-through of Chrono Trigger, and today we race for our passage rights and find a new friend."
-date: 2020-01-15 22:30:00 -0500
+date: 2020-01-15 04:00:00 -0500
 tags:
 - Games Revisited
 - Chrono Trigger

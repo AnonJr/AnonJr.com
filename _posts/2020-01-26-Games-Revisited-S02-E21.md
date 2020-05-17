@@ -1,19 +1,19 @@
 ---
-title: "Games Revisited S02: Chrono Trigger / E14: Through the Factory"
-description: "We're continuing our play-through of Chrono Trigger, and today we make our way through the factory and power up the generator&hellip; and then deal with what happens after."
-date: 2020-01-18 04:00:00 -0500
+title: "Games Revisited S02: Chrono Trigger / E21: Collecting the Masamune Parts"
+description: "We're continuing our play-through of Chrono Trigger, and today we fight Masa and Mune, then Masamune, collect up the parts for the great sword and find out what we need to re-forge it."
+date: 2020-01-26 04:00:00 -0500
 tags:
 - Games Revisited
 - Chrono Trigger
 repost: "" #"dev.to"
 ---
 
-We're continuing our play-through of Chrono Trigger, and today we make our way through the factory and power up the generator&hellip; and then deal with what happens after.
+We're continuing our play-through of Chrono Trigger, and today we fight Masa and Mune, then Masamune, collect up the parts for the great sword and find out what we need to re-forge it.
 
 Watch live if you want to see the next 6-episode run as it's recorded. :smiley:
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/qtTrThW0h-A" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include responsive-embed url="https://youtube.com/embed/8n8wdF1OmBY" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

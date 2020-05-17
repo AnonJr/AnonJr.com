@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E04: More Millennial Fair, and What Happened There"
 description: "We're continuing our play-through of Chrono Trigger, and today we play around in the Fair some more, right up until&hellip;"
-date: 2020-01-06 22:30:00 -0500
+date: 2020-01-06 04:00:00 -0500
 tags:
 - Games Revisited
 - Chrono Trigger

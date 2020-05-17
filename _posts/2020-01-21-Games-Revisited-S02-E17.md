@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E17: Back to the Past!"
 description: "We're continuing our play-through of Chrono Trigger, and today we head back to 600 AD to try and stop Lavos from being summoned in the first place."
-date: 2020-01-21 22:30:00 -0500
+date: 2020-01-21 04:00:00 -0500
 tags:
 - Games Revisited
 - Chrono Trigger

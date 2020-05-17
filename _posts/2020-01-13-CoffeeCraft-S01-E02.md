@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01 E02: Community Iron Farm"
 description: "For today's episode we're going to build the Community Iron Farm."
-date: 2020-01-13 20:30:00 -0500
+date: 2020-01-13 04:00:00 -0500
 tags:
 - CoffeeCraft
 - Minecraft

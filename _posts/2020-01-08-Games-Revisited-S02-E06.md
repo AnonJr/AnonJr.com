@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E06: Exploring the Castle and What Happened Next"
 description: "We're continuing our play-through of Chrono Trigger, and today we pick up where we left off in the castle, and find out just what is going on here."
-date: 2020-01-08 22:30:00 -0500
+date: 2020-01-08 04:00:00 -0500
 tags:
 - Games Revisited
 - Chrono Trigger

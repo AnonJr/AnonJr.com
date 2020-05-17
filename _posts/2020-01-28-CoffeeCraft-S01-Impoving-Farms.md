@@ -1,18 +1,17 @@
 ---
-title: "Games Revisited Interludes: Crystalis and Faxanadu"
-description: "A look at some of the games of my youth. We continue with Crystalis and Faxanadu."
-date: 2019-12-17 04:00:00 -0500
+title: "CoffeeCraft S01: Improving Farms"
+description: "We patch up a small, random issue with the Iron Farm, and then head on out to the Witch Farm to start work on a bigger, sorted storage system."
+date: 2020-01-28 20:30:00 -0500
 tags:
-- Games Revisited
-- Interludes
+- CoffeeCraft
+- Minecraft
 repost: "" #"dev.to"
 ---
 
-A look at some of the games of my youth during the break between Season 1 and Season 2 of Games Revisited. We continue with some other adventure games I spent a lot of time with - Crystalis and Faxanadu.
+We patch up a small, random issue with the Iron Farm, and then head on out to the Witch Farm to start work on a bigger, sorted storage system.
 <!--more-->
 
-
-{% include responsive-embed url="https://youtube.com/embed/XSuGDJj1ewc" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include responsive-embed url="https://youtube.com/embed/TqE6dNDazIQ" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

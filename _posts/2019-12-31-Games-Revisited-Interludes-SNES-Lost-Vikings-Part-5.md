@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited Interludes: The Lost Vikings Part 5"
 description: "We're doing the last week of our inter-season interlude, and it's going to be a casual play-through (well&hellip; struggle-through) of the early levels of The Lost Vikings. We'll go as far as we can and where we end is where we end."
-date: 2019-12-31 22:30:00 -0500
+date: 2019-12-31 04:00:00 -0500
 tags:
 - Games Revisited
 - Interludes

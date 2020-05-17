@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E07: Investigating the Cathedral"
 description: "We're continuing our play-through of Chrono Trigger, and today we start our investigation of the Cathedral and see what lies inside&hellip;"
-date: 2020-01-10 22:30:00 -0500
+date: 2020-01-10 04:00:00 -0500
 tags:
 - Games Revisited
 - Chrono Trigger

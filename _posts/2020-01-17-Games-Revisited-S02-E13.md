@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E13: Quick Sewer Detour"
 description: "We're continuing our play-through of Chrono Trigger, and today we take a short detour to go back to the sewer. I have it on good authority that it's worth the extra effort. (Thank you Vegesther!)"
-date: 2020-01-17 22:30:00 -0500
+date: 2020-01-17 04:00:00 -0500
 tags:
 - Games Revisited
 - Chrono Trigger
