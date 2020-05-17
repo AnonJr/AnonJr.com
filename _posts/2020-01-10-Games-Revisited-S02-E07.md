@@ -1,18 +1,19 @@
 ---
-title: "Games Revisited Interludes: NES Mario Trilogy"
-description: "A look at some of the games of my youth. We start with the trilogy of Super Mario Bros. for the classic Nintendo Entertainment System (NES)."
-date: 2019-12-13 22:30:00 -0500
+title: "Games Revisited S02: Chrono Trigger / E07: Investigating the Cathedral"
+description: "We're continuing our play-through of Chrono Trigger, and today we start our investigation of the Cathedral and see what lies inside&hellip;"
+date: 2020-01-10 22:30:00 -0500
 tags:
 - Games Revisited
-- Interludes
+- Chrono Trigger
 repost: "" #"dev.to"
 ---
 
-A look at some of the games of my youth during the break between Season 1 and Season 2 of Games Revisited. We start with the trilogy of Super Mario Bros. for the classic Nintendo Entertainment System (NES).
+We're continuing our play-through of Chrono Trigger, and today we start our investigation of the Cathedral and see what lies inside&hellip;
+
+Watch live if you want to see the next 6-episode run as it's recorded. :smiley:
 <!--more-->
 
-
-{% include responsive-embed url="https://youtube.com/embed/aMZ2rnmHb58" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include responsive-embed url="https://youtube.com/embed/guCWpzcQteY" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.
