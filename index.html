@@ -4,7 +4,7 @@ title : AnonJr.com
 ---
 
 <div class="posts">
-{% for post in site.posts  limit:5 %}
+{% for post in paginator.posts %}
     <div class="entry-container">
         <h2 class="post-title"><a class="postlink" href="{{ post.url }}">{{ post.title }}</a></h2>
         <div class="metainfo"><span class="postdate"><span class="fa fa-calendar" aria-hidden="true"></span> {{ post.date | date: "%e %b %Y"  }}</span>&nbsp;&nbsp;{% include tags.html %}</div>
@@ -20,13 +20,36 @@ title : AnonJr.com
     </div>
 {% endfor %}
 </div>
-{% if site.posts.size > 5 %}
-<h3>Older</h3>
-<ul class="postArchive">
-{% for post in site.posts offset:5 %}
-    <li><span data-tooltip="{{ post.date | date: '%d %b %Y' }}" data-tooltip-position="left"><span class="fa fa-calendar" aria-hidden="true"></span><span class="olderpostdate"> {{ post.date | date: "%b %d" }} </span> <a href="{{ post.url }}">{{ post.title }}</a></span></li>
-{% endfor %}
-</ul>
+{% if paginator.total_pages > 1 %}
+<div class="page-navigation">
+    <div class="previous">
+        {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path | relative_url }}" title="Older Posts"><span class="fas fa-arrow-circle-left fa-2x fa-pull-left"></span> Older Posts</a>
+        {% else %}
+            <span class="fas fa-arrow-circle-left fa-2x fa-pull-left"></span> Older Posts
+        {% endif %}
+    </div>
+
+    <div class="next">
+        {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path | relative_url }}" title="Newer Posts">Newer Posts <span class="fas fa-arrow-circle-right fa-2x fa-pull-right"></span></a>
+        {% else %}
+            Newer Posts <span class="fas fa-arrow-circle-right fa-2x fa-pull-right"></span>
+        {% endif %}
+    </div>
+
+    <div class="clear pagination">
+        {% for page in (1..paginator.total_pages) %}
+            {% if page == paginator.page %}
+                <em>{{ page }}</em>
+            {% elsif page == 1 %}
+                <a href="{{ site.url }}">{{ page }}</a>
+            {% else %}
+                <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
 {% endif %}
 {% if post.comments == true and site.disqus_enable == true %}
 <script type="text/javascript">
