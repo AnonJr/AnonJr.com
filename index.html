@@ -43,7 +43,7 @@ title : AnonJr.com
             {% if page == paginator.page %}
                 <em>{{ page }}</em>
             {% elsif page == 1 %}
-                <a href="/index.html">{{ page }}</a>
+                <a href="/">{{ page }}</a>
             {% else %}
                 <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
             {% endif %}
