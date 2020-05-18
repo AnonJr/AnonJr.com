@@ -19,7 +19,8 @@ author:
   url:            https://twitter.com/anonjr
 
 # Site Config
-show_drafts:      false
+show_drafts: false
+future: false
 excerpt_separator: <!--more-->
 
 # Collections
