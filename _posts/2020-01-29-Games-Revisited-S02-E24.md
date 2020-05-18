@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E24: Hunting The Elusive Higher Levels"
 description: "We're continuing our play-through of Chrono Trigger, and today we go to the Hunting Grounds to level up a little and chat. I try not to do the grindy stuff on camera, but we really need some higher tech/magic and with whatever sinus thing is trying to settle in I'm feeling a little too run down to press ahead without some more levels."
-date: 2020-01-29 04:00:00 -0500
+date: 2020-01-29 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

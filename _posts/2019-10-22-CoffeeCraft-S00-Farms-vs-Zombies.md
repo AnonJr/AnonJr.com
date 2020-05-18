@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Farms vs Zombies, Then Back to the Wall"
 description: "Today we're still out at the village we're rehabbing, just doing a 'quick' side project - turning the zombie spawner we found in to an XP farm."
-date: 2019-10-22 20:30:00 -0500
+date: 2019-10-22 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

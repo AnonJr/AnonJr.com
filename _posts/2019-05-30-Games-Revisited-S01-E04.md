@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E04: Taris Gang Wars and Speeding Swoop Bikes"
 description: "Today we clear out the rest of the Vulkar base, recover the bike component, save the Jedi, and some other bits. Oh, and we fail repeatedly to finish that last arena fight&hellip; Next time?"
-date: 2019-05-30 22:30:00 -0500
+date: 2019-05-30 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

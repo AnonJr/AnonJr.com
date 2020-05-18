@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited Interludes (SNES Edition): The Legend of Zelda - A Link to the Past"
 description: "Today we go through The Legend of Zelda - A Link to the Past. Definitely a lot of memories and fun with this game."
-date: 2019-12-23 04:00:00 -0500
+date: 2019-12-23 04:00:00
 tags:
 - Games Revisited
 - Interludes

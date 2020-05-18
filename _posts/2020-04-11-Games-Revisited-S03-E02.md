@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 02: Chambers 05 - 09"
 description: "It's time for Episode 02 of Games Revisited Season 03. We're continuing our play-through of Portal, and today we tackle chambers 05 through 09 &hellip; and miss our chance at one of the Steam achievements we were looking to get. Maybe next time."
-date: 2020-04-11 04:00:00 -0500
+date: 2020-04-11 04:00:00
 tags:
 - Games Revisited
 - Portal

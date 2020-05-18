@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E18: A Short(ish) Detour"
 description: "Today we intended to leave Manaan for Yavin, and then go for the Leviathan&hellip; but it looks like the Leviathan found us first."
-date: 2019-09-26 22:30:00 -0500
+date: 2019-09-26 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

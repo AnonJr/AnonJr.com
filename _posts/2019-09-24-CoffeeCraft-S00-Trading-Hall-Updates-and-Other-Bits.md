@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Trading Hall Update and Other Bits"
 description: "Today we go over the progress that's been made on the Villager Trading Hall, look at the completed rail station behind my castle, and some landscaping that's been done while I've been home sick."
-date: 2019-09-24 20:30:00 -0500
+date: 2019-09-24 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

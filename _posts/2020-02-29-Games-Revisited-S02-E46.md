@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E46: Continuing Through the Ocean Palace"
 description: "We're continuing our play-through of Chrono Trigger, and today we continue our trek through the Ocean Palace. Hopefully we won't arrive too late&hellip;"
-date: 2020-02-29 04:00:00 -0500
+date: 2020-02-29 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: Let There Be Lighting"
 description: "We've got the full server today! After a quick review of what we completed over the weekend, we head to the caves to light up the area and hopefully improve the creeper farm performance. There might have been some deaths&hellip;"
-date: 2020-04-14 20:30:00 -0500
+date: 2020-04-14 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

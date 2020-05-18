@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E01: Getting Started With Chrono Trigger"
 description: "Today we start Season 02! We're going to play the PC port of Chrono Trigger, a much beloved game from my SNES days back in the mid 1990's. Here's a quick run-down of the game and how Season 02 is planned to go."
-date: 2020-01-03 04:00:00 -0500
+date: 2020-01-03 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

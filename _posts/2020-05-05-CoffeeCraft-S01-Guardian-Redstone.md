@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: Guardian Farm Redstone"
 description: "Today we work on the redstone for the Guardian Farm. It's going to be set up so that you can set it in passive mode, and the guardians die from fall damage; and you can set it in active mode and they'll fall onto honey blocks and be ready for you to quickly finish them off."
-date: 2020-05-05 20:30:00 -0500
+date: 2020-05-05 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: Planning Community Storage"
 description: "Today I help Medic_FRCG troubleshoot the honey farm, laugh at Arcaidius as he attempts to get some Iron Golem heads, and Rayeste and I start planning out the Community Storage Project. It's going to be our next long-term project."
-date: 2020-03-10 20:30:00 -0500
+date: 2020-03-10 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

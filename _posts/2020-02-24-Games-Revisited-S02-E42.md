@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E42: Climbing Mt. Woe"
 description: "We're continuing our play-through of Chrono Trigger, and today we get back to 12,000 BC and begin our ascent of Mt. Woe to save the Guru of Life."
-date: 2020-02-24 04:00:00 -0500
+date: 2020-02-24 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

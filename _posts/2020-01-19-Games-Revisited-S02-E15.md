@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E15: The End of Time"
 description: "We're continuing our play-through of Chrono Trigger, and today we reach the End of Time, learn some Magic, and handle a few other small things."
-date: 2020-01-19 04:00:00 -0500
+date: 2020-01-19 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

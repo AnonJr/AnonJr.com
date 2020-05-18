@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 07: Chamber 19"
 description: "It's time for Episode 07 of Games Revisited Season 03. We're continuing our play-through of Portal, and today we try our hand at the final chamber &hellip; or is it?"
-date: 2020-04-17 04:00:00 -0500
+date: 2020-04-17 04:00:00
 tags:
 - Games Revisited
 - Portal

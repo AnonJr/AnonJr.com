@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Good Walls Make Good Villages"
 description: "It's a little more low-key today - we chat with Rayeste and Arcaidius while working on the wall around our village rehab project."
-date: 2019-11-05 20:30:00 -0500
+date: 2019-11-05 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

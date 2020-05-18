@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 23: The Fall"
 description: "It's time for Episode 23 of Games Revisited Season 03. We're continuing our play-through of Portal 2, and today we explore some of the old facilities from the 1950s/1960s, and get a sense of the founder."
-date: 2020-05-12 04:00:00 -0500
+date: 2020-05-12 04:00:00
 tags:
 - Games Revisited
 - Portal

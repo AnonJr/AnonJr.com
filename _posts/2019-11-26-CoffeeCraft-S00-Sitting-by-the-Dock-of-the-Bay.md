@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft  S00: Sitting by the Dock of the Bay"
 description: "Today Rayeste, Arcaidius, and I show off the work that was done over the weekend, and add a dock and a few more buildings to our ever expanding village rehab project."
-date: 2019-11-26 20:30:00 -0500
+date: 2019-11-26 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E22: To the Stone Age for the Dream Stone"
 description: "We're continuing our play-through of Chrono Trigger, and today we head back to 65M BC in search of the Dream Stone to fix the Masamune. It takes &hellip; something &hellip; but we get the stone. And a little more than we bargained for."
-date: 2020-01-27 04:00:00 -0500
+date: 2020-01-27 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

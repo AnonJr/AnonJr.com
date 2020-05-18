@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E33: Assaulting Tyrano Lair"
 description: "We're continuing our play-through of Chrono Trigger, and today we begin our assault of the Tyrano Lair, and pick up some neat gear along the way."
-date: 2020-02-14 04:00:00 -0500
+date: 2020-02-14 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

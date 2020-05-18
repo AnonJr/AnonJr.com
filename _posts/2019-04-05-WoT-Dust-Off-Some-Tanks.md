@@ -1,7 +1,7 @@
 ---
 title: "The 47%: Let's Dust Off Some Tanks"
 description: "First stream for The 47% - where I show how I clearly make the top half possible"
-date: 2019-04-05 23:30:00 -0500
+date: 2019-04-05 23:30:00
 tags:
 - The 47%
 - World of Tanks

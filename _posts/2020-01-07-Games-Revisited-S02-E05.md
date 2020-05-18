@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E05: A Portal to the Past"
 description: "We're continuing our play-through of Chrono Trigger, and today we pick up where we left off in the field with the Imps. Looks like we were sent to the past?"
-date: 2020-01-07 04:00:00 -0500
+date: 2020-01-07 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

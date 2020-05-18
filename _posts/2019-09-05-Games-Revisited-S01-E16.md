@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E16: Trials and Trials"
 description: "Today I go through the trial we tried to do two weeks ago when the game crashed mid-game&hellip; and after the trial we head out to the Sith base on our mission for the Republic, recover some equipment, and find some missing children."
-date: 2019-09-05 22:30:00 -0500
+date: 2019-09-05 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

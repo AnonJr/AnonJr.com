@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Updates and Renovation"
 description: "Quick update on the Iron Farm we built last week, and a look at the final redstone for the lighthouse from the week before. After that we do some renovating in my hut."
-date: 2019-08-20 20:30:00 -0500
+date: 2019-08-20 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: It's Dangerous to Go Alone"
 description: "Today we try a different bit of redstone for the gate &hellip; and fail. So we go caving instead and have a leisurely chat."
-date: 2019-11-19 20:30:00 -0500
+date: 2019-11-19 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

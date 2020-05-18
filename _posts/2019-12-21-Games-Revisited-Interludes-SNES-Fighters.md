@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited Interludes (SNES Edition): Fighters"
 description: "Today we go through some fighters and early shooters, starting with the arcade and party classic Mortal Kombat, then the equally fun and popular Street Fighter II."
-date: 2019-12-21 04:00:00 -0500
+date: 2019-12-21 04:00:00
 tags:
 - Games Revisited
 - Interludes

@@ -1,7 +1,7 @@
 ---
 title: "The 47%: British Tanks and Full Tea"
 description: "We start off with a bit of a British theme on the tanks, and get joined later by Hordesoflocusts and Fartrock."
-date: 2019-05-17 23:30:00 -0500
+date: 2019-05-17 23:30:00
 tags:
 - The 47%
 - World of Tanks

@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E21: Though I go through the Valley of the Dark Lords"
 description: "Today we go through the Valley of the Dark Lords and complete all the 'prestige' quests."
-date: 2019-10-17 22:30:00 -0500
+date: 2019-10-17 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E80: Season Wrap Up"
 description: "We finished our play-through of Chrono Trigger! So today we do a quick wrap up of the season and outline our plans for the next run."
-date: 2020-04-08 04:00:00 -0500
+date: 2020-04-08 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

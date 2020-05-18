@@ -1,7 +1,7 @@
 ---
 title: "Coffee Craft S00: Art and Endbusting"
 description: "Arcaidius, Rayeste, and I finally build the CoffeeCraft statue in the common area. After that Arcaidius and I go End busting, and talk about server upgrades."
-date: 2019-04-22 20:30:00 -0500
+date: 2019-04-22 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

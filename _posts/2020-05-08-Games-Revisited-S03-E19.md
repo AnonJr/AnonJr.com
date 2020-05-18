@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 19: The Surprise"
 description: "It's time for Episode 19 of Games Revisited Season 03. We're continuing our play-through of Portal 2, and today we find out what surprise GLaDOS had in mind for us among some other fun."
-date: 2020-05-08 04:00:00 -0500
+date: 2020-05-08 04:00:00
 tags:
 - Games Revisited
 - Portal

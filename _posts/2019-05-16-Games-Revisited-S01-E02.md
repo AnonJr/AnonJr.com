@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E02: Still on Taris"
 description: "Some more exploration of Taris. Somehow we got drafted into a gang war and are now working our way through the sewers helping every poor soul along the way."
-date: 2019-05-16 22:30:00 -0500
+date: 2019-05-16 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

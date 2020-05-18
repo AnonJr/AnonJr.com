@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E11: A Day at the Races, A Night at the Store"
 description: "Level some minions, do some shopping, try some racing&hellip; and it might be better to move on to the next quest."
-date: 2019-07-25 22:30:00 -0500
+date: 2019-07-25 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

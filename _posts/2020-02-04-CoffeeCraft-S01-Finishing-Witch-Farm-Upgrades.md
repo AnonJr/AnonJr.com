@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: Finishing Witch Farm Upgrades"
 description: "Took a little bit, but we finally got the auto-sorting storage system installed at the witch farm."
-date: 2020-02-04 20:30:00 -0500
+date: 2020-02-04 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

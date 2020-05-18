@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited Interludes (SNES Edition): Secret Of Mana"
 description: "Today we go through Secret of Mana. Like the other RPGs in the Interludes series, it's a contender for a full play through as a part of future seasons."
-date: 2019-12-24 04:00:00 -0500
+date: 2019-12-24 04:00:00
 tags:
 - Games Revisited
 - Interludes

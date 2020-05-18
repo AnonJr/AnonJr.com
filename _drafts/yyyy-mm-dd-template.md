@@ -1,7 +1,7 @@
 ---
 title: "Post Title"
 description: "Post Summary"
-date: 2018-11-07 22:30:00 -0500
+date: 2018-11-07 22:30:00
 tags:
 - meta
 - NaNoWriMo

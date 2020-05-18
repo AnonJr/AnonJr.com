@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E02: Tutorials and How Things Work"
 description: "We're continuing our play-through of Chrono Trigger, and today we go through the tutorial building and get (re)acquainted with various bits of how the game works."
-date: 2020-01-04 04:00:00 -0500
+date: 2020-01-04 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

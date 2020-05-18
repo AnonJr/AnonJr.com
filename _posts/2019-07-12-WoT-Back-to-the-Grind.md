@@ -1,7 +1,7 @@
 ---
 title: "The 47%: Back to the Grind"
 description: "Just some friendly chatting, this time we're joined by Arcaidius in the beginning. Hordesoflocusts was able to platoon with us later in the evening."
-date: 2019-07-12 23:30:00 -0500
+date: 2019-07-12 23:30:00
 tags:
 - The 47%
 - World of Tanks

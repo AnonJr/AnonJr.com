@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Live Again, Now With Less Lag"
 description: "After remembering the mute button there's a little redstone work and a little more &hellip; unfocused work here and there. Rayeste was on and we had some fun chats."
-date: 2019-04-30 20:30:00 -0500
+date: 2019-04-30 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

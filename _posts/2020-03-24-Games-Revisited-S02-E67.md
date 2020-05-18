@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E67: Finding the Prismastone"
 description: "We're continuing our play-through of Chrono Trigger, and today we go on the hunt for the Prismastone."
-date: 2020-03-24 04:00:00 -0500
+date: 2020-03-24 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

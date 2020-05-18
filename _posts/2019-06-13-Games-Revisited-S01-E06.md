@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E06: Jedi Training (finally)"
 description: "Today we spend a fair amount of time in conversation with the various council members and residents, do a bit of adventuring, and finally complete our training to become a Padawan."
-date: 2019-06-13 22:30:00 -0500
+date: 2019-06-13 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: Landscaping and Planning"
 description: "Today we had a causal chat with the rest of the server while I did a little landscaping and planning out some upcoming builds."
-date: 2020-02-18 20:30:00 -0500
+date: 2020-02-18 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

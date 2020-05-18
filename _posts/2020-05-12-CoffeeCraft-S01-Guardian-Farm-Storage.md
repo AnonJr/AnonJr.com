@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: Guardian Farm Storage"
 description: "Today I work on the storage system for the Guardian Farm. It's a little slow paced, as I'm making it up as I go&hellip; we did take a peak at what Medic was working on when he joined in."
-date: 2020-05-12 20:30:00 -0500
+date: 2020-05-12 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

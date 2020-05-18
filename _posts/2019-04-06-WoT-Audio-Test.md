@@ -1,7 +1,7 @@
 ---
 title: "The 47%: Audio Test 87546"
 description: "After some audio issues in the last few streams, I made some changes to my settings and setup. Here's where I tested it out and had a little fun in artillery."
-date: 2019-04-06 23:30:00 -0500
+date: 2019-04-06 23:30:00
 tags:
 - The 47%
 - World of Tanks

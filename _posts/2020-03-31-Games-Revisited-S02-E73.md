@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E73: Tower of Idols Part 1"
 description: "We're continuing our play-through of Chrono Trigger, and today we find the bridge finished &hellip; and find a ghost infested tower on the other side."
-date: 2020-03-31 04:00:00 -0500
+date: 2020-03-31 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

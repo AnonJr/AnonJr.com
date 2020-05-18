@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: Minor Melon Farm"
 description: "Today we spend a little time making a modest melon farm, and then work on getting the landscape by my base ready to start building. Medic_FRCG is on and we have a good chat about various things when his dog isn't forcing him to mute the mic&hellip; :smiley:"
-date: 2020-01-21 20:30:00 -0500
+date: 2020-01-21 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: Community Storage Stage 3"
 description: "Today we finish up the overflow storage, though we may have lost a few items on the way&hellip; All that's left is to build out our organized, manual storage for non-stackable things."
-date: 2020-03-31 20:30:00 -0500
+date: 2020-03-31 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

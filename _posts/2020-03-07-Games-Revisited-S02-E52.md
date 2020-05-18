@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E52: Death Peak Summit"
 description: "We're continuing our play-through of Chrono Trigger, and today we reach the summit of Death Peak, save Chrono, and get started on the side-quests that will equip us for the final battle with Lavos."
-date: 2020-03-07 04:00:00 -0500
+date: 2020-03-07 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

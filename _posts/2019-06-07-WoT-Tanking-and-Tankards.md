@@ -1,7 +1,7 @@
 ---
 title: "The 47%: Tanking and Tankards"
 description: "Today's stream is a little shorter, and a lot less structured. It's just the usual crew relaxing and running some tanks."
-date: 2019-06-07 23:30:00 -0500
+date: 2019-06-07 23:30:00
 tags:
 - The 47%
 - World of Tanks

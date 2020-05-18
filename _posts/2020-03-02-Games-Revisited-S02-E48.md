@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E48: Captured, and Imprisoned on the Blackbird"
 description: "We're continuing our play-through of Chrono Trigger, and today we go looking through the aftermath of the fall of the Magic Kingdom. Apparently Dalton survived well enough to capture us and imprison us on his ship&hellip;"
-date: 2020-03-02 04:00:00 -0500
+date: 2020-03-02 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

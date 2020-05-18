@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 28: The Reunion Part 4"
 description: "It's time for Episode 28 of Games Revisited Season 03. We're continuing our play-through of Portal 2, and today we get some interesting revelations story-wise (and maybe some hints for the upcoming reveal). We made it to a hatch that looks like it will take us back to the main testing area."
-date: 2020-05-18 04:00:00 -0500
+date: 2020-05-18 04:00:00
 tags:
 - Games Revisited
 - Portal

@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Redstone Rescue and Back to the Rail"
 description: "Little bit of redstone work, then we go on a quartz hunt for the pillars in our rail system."
-date: 2019-06-25 20:30:00 -0500
+date: 2019-06-25 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

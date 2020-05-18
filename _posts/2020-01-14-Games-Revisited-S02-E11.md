@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E11: Finding the Food at Arris Dome"
 description: "We're continuing our play-through of Chrono Trigger, and today we go looking for the food that's supposed to be at Arris Dome."
-date: 2020-01-14 04:00:00 -0500
+date: 2020-01-14 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

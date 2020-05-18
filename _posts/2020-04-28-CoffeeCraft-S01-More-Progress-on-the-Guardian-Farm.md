@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: More Progress on the Guardian Farm"
 description: "Today we take our time and suss out a little more with the guardian farm. It's not done, but it's closer. :smiley:"
-date: 2020-04-28 20:30:00 -0500
+date: 2020-04-28 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Moderately Competent Redstone Work"
 description: "We take a look at the mountain project, the upgrades to the main rail hub, and the changes to the nether tunnel that heads out to the guardian farm."
-date: 2019-07-09 20:30:00 -0500
+date: 2019-07-09 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

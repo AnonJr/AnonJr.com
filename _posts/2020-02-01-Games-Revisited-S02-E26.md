@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E26: Nizbel and Azala"
 description: "We're continuing our play-through of Chrono Trigger, and today we confront Azala &hellip; who promptly sends Nizbel after us. We manage a few other little bits before heading to Melchior's place."
-date: 2020-02-01 04:00:00 -0500
+date: 2020-02-01 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

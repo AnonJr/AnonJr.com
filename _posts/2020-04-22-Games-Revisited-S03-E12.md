@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 12: Bonus Advanced Chambers 15 and 16(ish)"
 description: "It's time for Episode 12 of Games Revisited Season 03. We're continuing our play-through of Portal, and today we tackle the advanced versions of Chambers 15 and 16 &hellip; well &hellip; sort of on 16. Maybe next week?"
-date: 2020-04-22 04:00:00 -0500
+date: 2020-04-22 04:00:00
 tags:
 - Games Revisited
 - Portal

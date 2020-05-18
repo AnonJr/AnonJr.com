@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E61: Black Omen III"
 description: "We're continuing our play-through of Chrono Trigger, and today we begin to think this grind was longer than we remember&hellip;"
-date: 2020-03-17 04:00:00 -0500
+date: 2020-03-17 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

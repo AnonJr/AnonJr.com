@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E20: Well isn't that some Sith"
 description: "Today we start working our way to the Star Map on Korriban."
-date: 2019-10-10 22:30:00 -0500
+date: 2019-10-10 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E30: Obliterating Ozzie"
 description: "We're continuing our play-through of Chrono Trigger, and today we go after Magus' top lieutenant: Ozzie."
-date: 2020-02-05 04:00:00 -0500
+date: 2020-02-05 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

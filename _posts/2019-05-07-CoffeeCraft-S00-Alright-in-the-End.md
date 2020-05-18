@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Looks Like it will be Alright in the End"
 description: "Now that we're on a better server, time to try our luck in the End again. Arcaidius was originally going to join, but wasn't able to."
-date: 2019-05-07 20:30:00 -0500
+date: 2019-05-07 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

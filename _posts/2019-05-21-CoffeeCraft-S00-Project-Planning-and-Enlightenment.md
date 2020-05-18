@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Project Planning and Enlightenment"
 description: "After a quick look at some of the changes made between streams, Arcaidius, Rayeste, and I start putting the plans together for our rail system. Once done with that and some related building, we start lighting up more of the area around our bases and community centre."
-date: 2019-05-21 20:30:00 -0500
+date: 2019-05-21 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

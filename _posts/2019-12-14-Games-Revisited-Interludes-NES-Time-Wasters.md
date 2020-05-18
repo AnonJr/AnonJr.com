@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited Interludes: NES Time Wasters"
 description: "A look at some of the games of my youth. We continue with some 'Time Wasters', playing Tetris, Dr. Mario, and Kid Icarus."
-date: 2019-12-14 04:00:00 -0500
+date: 2019-12-14 04:00:00
 tags:
 - Games Revisited
 - Interludes

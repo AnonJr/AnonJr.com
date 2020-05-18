@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 30: The Itch Part 2"
 description: "It's time for Episode 30 of Games Revisited Season 03. We're continuing our play-through of Portal 2, and today we try that last one again&hellip; and manage a couple more before the tired kicks in."
-date: 2020-05-20 04:00:00 -0500
+date: 2020-05-20 04:00:00
 tags:
 - Games Revisited
 - Portal

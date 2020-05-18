@@ -1,7 +1,7 @@
 ---
 title: "The 47%: I'll Take Mine Medium"
 description: "Today was an opportunity to work with some Medium Tanks for the bulk of the stream. And have some fun with Fartrock."
-date: 2019-04-12 23:30:00 -0500
+date: 2019-04-12 23:30:00
 tags:
 - The 47%
 - World of Tanks

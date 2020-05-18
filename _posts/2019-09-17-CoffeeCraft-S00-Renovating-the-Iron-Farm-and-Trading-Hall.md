@@ -1,7 +1,7 @@
 ---
 title: "Coffee Craft S00: Renovating the Iron Farm and Trading Hall"
 description: "Arcaidius, Rayeste, and I strip down most of the old Iron Farm collection system and Trading Hall. We build a new collection system and start work on the new Trading Hall."
-date: 2019-09-17 20:30:00 -0500
+date: 2019-09-17 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

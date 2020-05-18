@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 09: The Great Escape Part 2"
 description: "It's time for Episode 09 of Games Revisited Season 03. We're continuing our play-through of Portal, and today we are still making our way through the labyrinth of hallways and improbable rooms that make up the back of Aperture Science."
-date: 2020-04-19 04:00:00 -0500
+date: 2020-04-19 04:00:00
 tags:
 - Games Revisited
 - Portal

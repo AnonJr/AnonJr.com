@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01 E01: Early Season Setup"
 description: "For today's episode we're going to pick up relatively close to where we left off from the inaugural stream, and do a little island cleanup."
-date: 2020-01-06 04:00:00 -0500
+date: 2020-01-06 04:00:00
 tags:
 - CoffeeCraft
 - Minecraft

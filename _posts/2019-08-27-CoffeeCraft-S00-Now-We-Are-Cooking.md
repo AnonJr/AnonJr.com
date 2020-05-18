@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Now We're Cooking!"
 description: "Today I build a Community Smelter, with 8 of each smelter in an array."
-date: 2019-08-27 20:30:00 -0500
+date: 2019-08-27 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

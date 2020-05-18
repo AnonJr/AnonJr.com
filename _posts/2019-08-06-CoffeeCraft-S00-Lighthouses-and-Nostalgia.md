@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Lighthouses and Nostalgia"
 description: "Today we take a quick look at some updated redstone for the lighthouse, and then go on a fun trip through a bunch of old worlds and the two servers that preceded Season 00."
-date: 2019-08-06 20:30:00 -0500
+date: 2019-08-06 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

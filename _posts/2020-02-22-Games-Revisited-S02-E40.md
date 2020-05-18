@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E40: Last of the Sealed Chests"
 description: "We're continuing our play-through of Chrono Trigger, and today we finish up the last of the sealed chests (for now), and get ready to get back on the main quest to find the Guru who can help us get back to Zeal in 12,000 BC."
-date: 2020-02-22 04:00:00 -0500
+date: 2020-02-22 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E54: Putting the Ghost to Rest"
 description: "We're continuing our play-through of Chrono Trigger, and today we get the Northern Ruins repaired, and set the ghost of Sir Cyrus to rest."
-date: 2020-03-09 04:00:00 -0500
+date: 2020-03-09 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

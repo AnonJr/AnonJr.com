@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: A More Relaxed Outing"
 description: "Back-to-back streams left this one a little more casual, and less objective directed."
-date: 2019-04-23 20:30:00 -0500
+date: 2019-04-23 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

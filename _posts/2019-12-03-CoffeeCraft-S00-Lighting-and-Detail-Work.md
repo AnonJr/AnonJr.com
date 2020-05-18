@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Lighting and Detail Work"
 description: "We were going to finish up some lighting and detail work on the Village Rehab project, but we've all been doing a little much on it lately&hellip; so I go build a Redstone door on the Temple I'm reclaiming, using a neat video from ThatMumboJumbo."
-date: 2019-12-03 20:30:00 -0500
+date: 2019-12-03 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

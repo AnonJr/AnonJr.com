@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E68: Helping a Lonely Soul"
 description: "We're continuing our play-through of Chrono Trigger, and today we go help a lonely soul we've encountered before."
-date: 2020-03-25 04:00:00 -0500
+date: 2020-03-25 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

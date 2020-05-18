@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: Buidin' and Grindin'"
 description: "Today I go over some small builds and other bits that happened over the weekend, then join the rest of the server at the site of what will be a guardian farm&hellip; soon as we finish converting the temple to a ghost temple. :smiley:"
-date: 2020-03-03 20:30:00 -0500
+date: 2020-03-03 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

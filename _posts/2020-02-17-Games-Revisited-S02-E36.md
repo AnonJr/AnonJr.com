@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E36: Kajar and Zeal"
 description: "We're continuing our play-through of Chrono Trigger, and today we continue exploring 12,000 BC and look at Kajar and Zeal."
-date: 2020-02-17 04:00:00 -0500
+date: 2020-02-17 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

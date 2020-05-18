@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E27: Masamune and Frog"
 description: "We're continuing our play-through of Chrono Trigger, and today we visit Melchior, get the Masamune repaired, and deliver the re-forged sword to Frog. After some prep we make our way to the staging point for the next chapter."
-date: 2020-02-02 04:00:00 -0500
+date: 2020-02-02 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

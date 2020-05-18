@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E12: Free Kashyyyk!"
 description: "Today we pick up on Kashyyyk outside the Wookie village we logged off at last week, and after some chats with the natives we head down into the Shadowland. There we manage some quests, dispatch some Mandalorians, and handle just about everything &hellip; except"
-date: 2019-08-01 22:30:00 -0500
+date: 2019-08-01 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

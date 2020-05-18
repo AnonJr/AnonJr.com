@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E37: Now with More Zeal"
 description: "We're continuing our play-through of Chrono Trigger, and today we continue our exploration of Zeal, and learn about the royal family and where they're getting their power from&hellip;"
-date: 2020-02-18 04:00:00 -0500
+date: 2020-02-18 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

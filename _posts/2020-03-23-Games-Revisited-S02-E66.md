@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E66: Finding the Golden Hammer"
 description: "We're continuing our play-through of Chrono Trigger, and today we go on the hunt for the Golden Hammer."
-date: 2020-03-23 04:00:00 -0500
+date: 2020-03-23 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

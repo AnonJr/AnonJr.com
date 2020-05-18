@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: Community Storage Stage 1"
 description: "After a quick update on what's changed, we get into working on (and finishing!) the bulk storage section of our community storage system."
-date: 2020-03-17 20:30:00 -0500
+date: 2020-03-17 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

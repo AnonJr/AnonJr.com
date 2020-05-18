@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Testing Settings (Part 2)"
 description: "The one where I'm testing XSplit and doing a quick run around the world. First *real* stream should be coming this Friday."
-date: 2019-03-17 20:30:00 -0500
+date: 2019-03-17 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

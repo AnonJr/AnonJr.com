@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E09: Trials and Tribulations"
 description: "We're continuing our play-through of Chrono Trigger, and today we finish finding our way home &hellip; only to be put on trial? and sentenced to death?!? and start out great escape. Funny we run into another Chancellor who's acting all sorts of weird."
-date: 2020-01-12 04:00:00 -0500
+date: 2020-01-12 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

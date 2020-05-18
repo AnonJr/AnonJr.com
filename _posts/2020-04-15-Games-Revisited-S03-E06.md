@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 06: Chamber 18"
 description: "It's time for Episode 06 of Games Revisited Season 03. We're continuing our play-through of Portal, and today we manage to get everything we needed to do in Chamber 18. Just &hellip; took a few tries for some parts."
-date: 2020-04-15 04:00:00 -0500
+date: 2020-04-15 04:00:00
 tags:
 - Games Revisited
 - Portal

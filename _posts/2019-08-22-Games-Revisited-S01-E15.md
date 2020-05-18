@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E15: More Mayhem on Manaan"
 description: "Today we start out exploration of Manaan in earnest. There's some intrigue, a court case, and a cliff-hanger ending - stay tuned for more next week!"
-date: 2019-08-22 22:30:00 -0500
+date: 2019-08-22 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

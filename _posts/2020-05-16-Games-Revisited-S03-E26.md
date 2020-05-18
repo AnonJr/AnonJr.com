@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 26: The Reunion Part 2"
 description: "It's time for Episode 26 of Games Revisited Season 03. We're continuing our play-through of Portal 2, and today we manage to make our way through some 'newer' portions of the facility and have some fun with the new mechanics."
-date: 2020-05-16 04:00:00 -0500
+date: 2020-05-16 04:00:00
 tags:
 - Games Revisited
 - Portal

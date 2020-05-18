@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E23: Follow Those Footsteps!"
 description: "We're continuing our play-through of Chrono Trigger, and today we do a little shopping before heading out to follow the footsteps in the mud and recover the Gate Key."
-date: 2020-01-28 04:00:00 -0500
+date: 2020-01-28 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

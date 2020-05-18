@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E58: Yakra's Revenge"
 description: "We're continuing our play-through of Chrono Trigger, and today we finish up the last side quest, getting a few great items and resolving some family drama."
-date: 2020-03-14 04:00:00 -0500
+date: 2020-03-14 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

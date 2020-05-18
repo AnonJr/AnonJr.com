@@ -1,7 +1,7 @@
 ---
 title: "The 47%: Tanking Out Some Stress"
 description: "Another World of Tanks stream. No major theme this go-round, just some randomly random battles joined by my friend Hordesoflocusts."
-date: 2019-04-06 23:30:00 -0500
+date: 2019-04-06 23:30:00
 tags:
 - The 47%
 - World of Tanks

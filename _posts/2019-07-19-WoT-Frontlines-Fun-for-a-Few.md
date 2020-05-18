@@ -1,7 +1,7 @@
 ---
 title: "The 47%: Frontlines Fun for a Few"
 description: "Today we remembered that Frontlines was going on this week and jumped back in for the first time since the initial run of the game mode &hellip; and it shows. If you want to feel better about your game play this is the one to watch."
-date: 2019-07-19 23:30:00 -0500
+date: 2019-07-19 23:30:00
 tags:
 - The 47%
 - World of Tanks

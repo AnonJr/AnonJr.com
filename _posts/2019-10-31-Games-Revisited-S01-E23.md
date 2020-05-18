@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E23: Starting the Final Journey"
 description: "Today we start the last leg of the journey, and head out for the Star Forge! And then crash on a planet, and get part way through figuring out what's going on."
-date: 2019-10-31 22:30:00 -0500
+date: 2019-10-31 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

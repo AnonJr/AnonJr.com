@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E62: Black Omen IV"
 description: "We're continuing our play-through of Chrono Trigger, and today we finish off the last two mutants and camp outside Zeal's chamber."
-date: 2020-03-18 04:00:00 -0500
+date: 2020-03-18 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

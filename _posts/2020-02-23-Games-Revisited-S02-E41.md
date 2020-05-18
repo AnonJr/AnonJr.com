@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E41: Find of the Epoch"
 description: "We're continuing our play-through of Chrono Trigger, and today we head to 2300 AD to open a few sealed doors and get the Epoch from one of the Gurus."
-date: 2020-02-23 04:00:00 -0500
+date: 2020-02-23 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

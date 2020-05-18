@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E50: The Time Egg"
 description: "We're continuing our play-through of Chrono Trigger, and today we meet with the Guru of Time and get the Time Egg. Then we make the final preparations for Death Peak."
-date: 2020-03-04 04:00:00 -0500
+date: 2020-03-04 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

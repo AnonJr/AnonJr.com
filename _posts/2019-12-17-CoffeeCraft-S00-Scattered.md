@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Scattered"
 description: "Today Rayeste and I get some of the fit and finish done on our Village Rehab project, with the goal that we get it ready to populate by the end of the season."
-date: 2019-12-17 20:30:00 -0500
+date: 2019-12-17 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

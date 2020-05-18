@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E10: Escape to Somewhere and What We Found There"
 description: "We're continuing our play-through of Chrono Trigger, and today we complete our cowardly escape &hellip; er, strategic retreat into another gate that brings us to someplace else. Where? We'll find that out tomorrow."
-date: 2020-01-13 04:00:00 -0500
+date: 2020-01-13 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

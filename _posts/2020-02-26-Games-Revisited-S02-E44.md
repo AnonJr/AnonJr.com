@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E44: Save the Guru"
 description: "We're continuing our play-through of Chrono Trigger, and today we defeat the guardian and save the Guru."
-date: 2020-02-26 04:00:00 -0500
+date: 2020-02-26 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

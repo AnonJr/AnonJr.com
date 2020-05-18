@@ -1,7 +1,7 @@
 ---
 title: "The 47%: De-stressing with HE"
 description: "Some more fun with my usual platoon of Hordesoflocust and Fartrock. This time there's a little more reflection and useful information for the casual player."
-date: 2019-06-21 23:30:00 -0500
+date: 2019-06-21 23:30:00
 tags:
 - The 47%
 - World of Tanks

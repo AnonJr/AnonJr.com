@@ -1,6 +1,6 @@
 ---
 title: "Take Some Time To Reflect"
-date: 2017-11-14 14:00:00 -0500
+date: 2017-11-14 14:00:00
 author: AnonJr
 layout: post
 comments: true
@@ -10,4 +10,4 @@ tags:
 
 ---
 
-Not too far back I'd started a series of reflections on 
+Not too far back I'd started a series of reflections on

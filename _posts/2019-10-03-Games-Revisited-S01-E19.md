@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E19: Escape and Revelations"
 description: "Today we finish our escape from the Leviathan, find the truth of who we really are, and take care of a few other things before heading over to Korriban. We'll pick up from there next week."
-date: 2019-10-03 22:30:00 -0500
+date: 2019-10-03 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

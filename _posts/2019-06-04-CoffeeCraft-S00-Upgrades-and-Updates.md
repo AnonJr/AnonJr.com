@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Upgrades and Updates"
 description: "We finally upgraded to 1.14.2! Mostly today's a rambly day, with some actual outlines for future plans."
-date: 2019-06-04 20:30:00 -0500
+date: 2019-06-04 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

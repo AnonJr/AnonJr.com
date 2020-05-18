@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 08: The Great Escape Part 1"
 description: "It's time for Episode 08 of Games Revisited Season 03. We're continuing our play-through of Portal, and today we continue our escape through the industrial puzzle that is the back hallways."
-date: 2020-04-18 04:00:00 -0500
+date: 2020-04-18 04:00:00
 tags:
 - Games Revisited
 - Portal

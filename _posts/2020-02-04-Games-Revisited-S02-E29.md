@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E29: Finding Flea after Slashing Slash"
 description: "We're continuing our play-through of Chrono Trigger, and today we start our hunt for the next of Magus' lieutenants: Flea."
-date: 2020-02-04 04:00:00 -0500
+date: 2020-02-04 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

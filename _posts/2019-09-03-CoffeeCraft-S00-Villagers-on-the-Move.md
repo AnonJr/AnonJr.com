@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Villagers on the Move"
 description: "After a quick update on the smelter project from last week, and some other server bits, we move a couple villagers from our surplus population over to the Guardian farm and set them up as fishermen."
-date: 2019-09-03 20:30:00 -0500
+date: 2019-09-03 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

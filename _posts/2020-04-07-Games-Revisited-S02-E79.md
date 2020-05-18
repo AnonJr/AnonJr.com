@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E79: Lavos+"
 description: "We're continuing our play-through of Chrono Trigger, and today we take on the rest of Lavos, even if it is just Marle and Me&hellip;"
-date: 2020-04-07 04:00:00 -0500
+date: 2020-04-07 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Temple Town"
 description: "Today we do some work on our Temple Reclamation project, and chat about the season wrap up and what's next."
-date: 2019-12-10 20:30:00 -0500
+date: 2019-12-10 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

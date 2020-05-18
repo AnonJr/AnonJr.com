@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: More Work on the El"
 description: "Quick look at the stations that were built between streams, and Rayeste and I start work on connecting two stations for part of our Elevated Rail."
-date: 2019-06-11 20:30:00 -0500
+date: 2019-06-11 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

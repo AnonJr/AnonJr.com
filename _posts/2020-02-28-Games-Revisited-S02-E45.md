@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E45: To the Ocean Palace"
 description: "We're continuing our play-through of Chrono Trigger, and today we start our slog through the Ocean Palace. There sure is a lot of space in this place&hellip; and loot."
-date: 2020-02-28 04:00:00 -0500
+date: 2020-02-28 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

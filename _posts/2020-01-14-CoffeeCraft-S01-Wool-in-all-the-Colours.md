@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: Wool in all the Colours"
 description: "Today Medic and I got the community wool farm set up. It's a fairly simple automatic wool farm with some storage and an auto-shut off. Later we'll add a rail for re-stocking the shears."
-date: 2020-01-14 20:30:00 -0500
+date: 2020-01-14 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

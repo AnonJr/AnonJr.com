@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 03: Chambers 10 - 12"
 description: "It's time for Episode 03 of Games Revisited Season 03. We're continuing our play-through of Portal, and today we tackle chambers 10 through 12."
-date: 2020-04-12 04:00:00 -0500
+date: 2020-04-12 04:00:00
 tags:
 - Games Revisited
 - Portal

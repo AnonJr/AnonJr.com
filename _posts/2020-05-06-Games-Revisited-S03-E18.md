@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 18: The Return Part 2"
 description: "It's time for Episode 18 of Games Revisited Season 03. We're continuing our play-through of Portal 2, and today we tackle some more complicated light bridge work and turrets. Lots of turrets. And fat jokes apparently."
-date: 2020-05-06 04:00:00 -0500
+date: 2020-05-06 04:00:00
 tags:
 - Games Revisited
 - Portal

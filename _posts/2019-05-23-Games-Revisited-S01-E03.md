@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E03: Taris Gang Wars and Raging Rakghouls"
 description: "Today we clear out some rakghouls, save a wookie, and further our part of the gang war in the lower parts of Taris. We seem to be getting closer to our original goal of saving the captive Jedi who crashed on the planet with us."
-date: 2019-05-23 22:30:00 -0500
+date: 2019-05-23 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

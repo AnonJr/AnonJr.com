@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E10: Sand People, Jawas, and Banthas Oh My!"
 description: "Today we finish the Sand People quests, free the Jawas, and hunt some Banthas. We even pick up an unexpected side-quest."
-date: 2019-07-18 22:30:00 -0500
+date: 2019-07-18 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

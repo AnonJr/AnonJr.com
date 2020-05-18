@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Weekend Projects and Redstone"
 description: "I do a quick run through of the various farms and upgrades that happened over the long weekend, we took a closer look at the combo egg/chicken farm, and then started work on the redstone for Arcaidius' mob farm."
-date: 2019-05-28 20:30:00 -0500
+date: 2019-05-28 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Lighthouses and More Redstone"
 description: "Today we show off our new lighthouse, and wire up the redstone to turn the lights on at night. We then go over some future plans for the Iron Farm and Trading Hall."
-date: 2019-07-30 20:30:00 -0500
+date: 2019-07-30 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

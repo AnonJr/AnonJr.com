@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: Improving Farms"
 description: "We patch up a small, random issue with the Iron Farm, and then head on out to the Witch Farm to start work on a bigger, sorted storage system."
-date: 2020-01-28 20:30:00 -0500
+date: 2020-01-28 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

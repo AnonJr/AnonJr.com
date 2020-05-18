@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Casual Chats and Glass Floors"
 description: "The stream starts with a quick rundown of some of the bigger scale projects, our plans for 1.14.4, and then we fly over to Arcaidius' latest project and help him clear out some space and install a glass floor."
-date: 2019-07-23 20:30:00 -0500
+date: 2019-07-23 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

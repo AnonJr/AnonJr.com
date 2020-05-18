@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E25: Storming the Star Forge"
 description: "Today we storm the Star Forge and finish off Malak (this time with minimal glitches and no crashes :smiley:)."
-date: 2019-11-21 22:30:00 -0500
+date: 2019-11-21 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

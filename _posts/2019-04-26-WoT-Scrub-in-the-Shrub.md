@@ -1,7 +1,7 @@
 ---
 title: "The 47%: The Scrub in the Shrub"
 description: "It was supposed to be a day of playing scouts&hellip; but we had fun despite a rough start."
-date: 2019-04-26 23:30:00 -0500
+date: 2019-04-26 23:30:00
 tags:
 - The 47%
 - World of Tanks

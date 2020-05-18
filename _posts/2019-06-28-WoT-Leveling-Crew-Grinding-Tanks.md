@@ -1,7 +1,7 @@
 ---
 title: "The 47%: Leveling Crew, Grinding Tanks"
 description: "Fartrock and I chill, grind some tanks, and level some crew."
-date: 2019-06-28 23:30:00 -0500
+date: 2019-06-28 23:30:00
 tags:
 - The 47%
 - World of Tanks

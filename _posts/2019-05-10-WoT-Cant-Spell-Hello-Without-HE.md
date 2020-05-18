@@ -1,7 +1,7 @@
 ---
 title: "The 47%: Can't Spell Hello without HE"
 description: "Today Fartrock joins us a little way in, we grab some big caliber HE guns and have some fun."
-date: 2019-05-10 23:30:00 -0500
+date: 2019-05-10 23:30:00
 tags:
 - The 47%
 - World of Tanks

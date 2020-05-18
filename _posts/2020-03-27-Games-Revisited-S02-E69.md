@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E69: Building Bridges Part 1"
 description: "We're continuing our play-through of Chrono Trigger, and today we start building a bridge &hellip; or at least help one of the Reptites do it."
-date: 2020-03-27 04:00:00 -0500
+date: 2020-03-27 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Farms Finished and Fixed"
 description: "Today we do a quick run around some quality-of-life type changes made on the server over the past week, and then we get to work helping Arcaidius finish the ink farm he was working on."
-date: 2019-09-10 20:30:00 -0500
+date: 2019-09-10 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

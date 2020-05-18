@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E76: Lavos Round 3"
 description: "We're continuing our play-through of Chrono Trigger, and today we take on the final stage of Lavos, and complete the first run of the game."
-date: 2020-04-04 04:00:00 -0500
+date: 2020-04-04 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

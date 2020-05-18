@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E60: Black Omen II"
 description: "We're continuing our play-through of Chrono Trigger, and today we continue our grind through the Black Omen looting and pillaging on the way."
-date: 2020-03-16 04:00:00 -0500
+date: 2020-03-16 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

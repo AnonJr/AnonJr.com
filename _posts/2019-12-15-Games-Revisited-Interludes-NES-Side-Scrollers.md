@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited Interludes: NES Side-Scrollers"
 description: "A look at some of the games of my youth. We continue with some side-scrollers, playing Mega Man, Yo! Noid, and Castlevainia."
-date: 2019-12-15 04:00:00 -0500
+date: 2019-12-15 04:00:00
 tags:
 - Games Revisited
 - Interludes

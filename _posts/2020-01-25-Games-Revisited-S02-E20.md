@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E20: Scaling the Denadoro Mountains"
 description: "We're continuing our play-through of Chrono Trigger, and today we start scaling the Denadoro Mountains to find the Hero and maybe even get the mythic sword Masamune&hellip;"
-date: 2020-01-25 04:00:00 -0500
+date: 2020-01-25 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

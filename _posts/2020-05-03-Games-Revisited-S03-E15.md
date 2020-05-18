@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 15: The Cold Boot"
 description: "It's time for Episode 15 of Games Revisited Season 03. We're continuing our play-through of Portal 2, and today we start our misadventure from the bottom of the incinerator... looks like she's got something in mind for us."
-date: 2020-05-03 04:00:00 -0500
+date: 2020-05-03 04:00:00
 tags:
 - Games Revisited
 - Portal

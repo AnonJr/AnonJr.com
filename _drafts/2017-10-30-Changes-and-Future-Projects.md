@@ -1,6 +1,6 @@
 ---
 title: "Sabbaticals, Reflections, Changes, and Future Projects"
-date: 2018-09-10 23:30:00 -0500
+date: 2018-09-10 23:30:00
 author: AnonJr
 layout: post
 comments: true

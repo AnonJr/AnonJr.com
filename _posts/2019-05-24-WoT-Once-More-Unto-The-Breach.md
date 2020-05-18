@@ -1,7 +1,7 @@
 ---
 title: "The 47%: Once More Unto the Breach"
 description: "Just another fun bit of stress relief after a long week. This time joined by Fartrock and Arcaidius."
-date: 2019-05-24 23:30:00 -0500
+date: 2019-05-24 23:30:00
 tags:
 - The 47%
 - World of Tanks

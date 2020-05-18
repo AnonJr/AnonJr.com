@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 24: The Fall Part 2"
 description: "It's time for Episode 24 of Games Revisited Season 03. We're continuing our play-through of Portal 2, and today we continue our tour of the old test chambers &hellip; and get a good sense of how Aperture Science got to be the company it is."
-date: 2020-05-13 04:00:00 -0500
+date: 2020-05-13 04:00:00
 tags:
 - Games Revisited
 - Portal

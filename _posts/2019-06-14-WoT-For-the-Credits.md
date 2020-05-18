@@ -1,7 +1,7 @@
 ---
 title: "The 47%: For the Credits!"
 description: "Today Fartrock and I just derp around in a couple tanks, try and earn back some credits after buying a new tank."
-date: 2019-06-14 23:30:00 -0500
+date: 2019-06-14 23:30:00
 tags:
 - The 47%
 - World of Tanks

@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: Creeper Diversion"
 description: "Today we take a break from the community storage project and start work on the creeper farm that should take care of our lack of rockets&hellip;"
-date: 2020-04-07 20:30:00 -0500
+date: 2020-04-07 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E56: Deallocating Mother Brain"
 description: "We're continuing our play-through of Chrono Trigger, and today we follow Robo to 2300 to deal with Mother Brain and her legacy."
-date: 2020-03-11 04:00:00 -0500
+date: 2020-03-11 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

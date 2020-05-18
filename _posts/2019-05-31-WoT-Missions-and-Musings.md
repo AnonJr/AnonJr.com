@@ -1,7 +1,7 @@
 ---
 title: "The 47%: Missions and Musings"
 description: "Today we worked on some missions, talked a little about Care Package Echo and a few other bits, and then were joined by Hordesoflocusts and Fartrock."
-date: 2019-05-31 23:30:00 -0500
+date: 2019-05-31 23:30:00
 tags:
 - The 47%
 - World of Tanks

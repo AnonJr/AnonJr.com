@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: The One That Starts it All!"
 description: "The first official stream of Season 00!"
-date: 2019-03-25 20:30:00 -0500
+date: 2019-03-25 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

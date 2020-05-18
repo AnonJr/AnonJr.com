@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Farm Tweaks and Expansion"
 description: "Quick update on the happenings around the server, then we prep a couple farms for the impending update and add in some other bits that have been on the drawing board."
-date: 2019-05-14 20:30:00 -0500
+date: 2019-05-14 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

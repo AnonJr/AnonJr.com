@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E70: Building Bridges Part 2"
 description: "We're continuing our play-through of Chrono Trigger, and today we finish getting the bridge project going."
-date: 2020-03-28 04:00:00 -0500
+date: 2020-03-28 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

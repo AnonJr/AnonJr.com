@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: Roaming and Landscaping"
 description: "Today I go on a little tour of other projects that are happening, there's some discussion of colour palates for a new farm, and then I get back to the landscaping for the Shiny Emerald Retirement Home for Villagers."
-date: 2020-02-25 20:30:00 -0500
+date: 2020-02-25 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

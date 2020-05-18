@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Expanding the Railway"
 description: "Arcaidius and I move one of the rail stations while Rayeste works on the building for the main hub."
-date: 2019-06-18 20:30:00 -0500
+date: 2019-06-18 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

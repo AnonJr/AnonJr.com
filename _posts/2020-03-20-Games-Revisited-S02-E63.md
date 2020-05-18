@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E63: Black Omen, but with less Zeal"
 description: "We're continuing our play-through of Chrono Trigger, and today we 'take care of' Queen Zeal - not once, not twice, but thrice."
-date: 2020-03-20 04:00:00 -0500
+date: 2020-03-20 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited Interludes: Crystalis and Faxanadu"
 description: "A look at some of the games of my youth. We continue with Crystalis and Faxanadu."
-date: 2019-12-17 04:00:00 -0500
+date: 2019-12-17 04:00:00
 tags:
 - Games Revisited
 - Interludes

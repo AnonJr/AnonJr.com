@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E22: Tough Sith"
 description: "Today we finish the final Sith Academy trial on Korriban, and get the final star map! We make a pit stop at the Yavin station for some gear and end up in a small skirmish."
-date: 2019-10-24 22:30:00 -0500
+date: 2019-10-24 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E24: Tribal Warfare and Temple Run"
 description: "Today we finish 'negotiations' with one of the two Rakata tribes, then make our way through the temple and turn off the field that kept us from the Star Forge."
-date: 2019-11-07 22:30:00 -0500
+date: 2019-11-07 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

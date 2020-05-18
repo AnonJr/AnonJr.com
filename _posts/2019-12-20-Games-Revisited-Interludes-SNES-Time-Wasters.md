@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited Interludes (SNES Edition): Time Wasters"
 description: "We're continuing the look back at the 'Games of My Youth', this time going through some SNES games and a fun little sojourn through the 1990's. Today we go through some games that were at their best when you just wanted to burn some free time playing around. We start with a brief look at Super Mario World, then Lost Vikings, followed by Mega Man X, and finish with some Donkey Kong Country."
-date: 2019-12-20 04:00:00 -0500
+date: 2019-12-20 04:00:00
 tags:
 - Games Revisited
 - Interludes

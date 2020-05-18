@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E31: Mopping Up Magus"
 description: "We're continuing our play-through of Chrono Trigger, and today we do the big fight with Magus. After that we head back to the End of Time to take our last shot at Spekkio before we level out of this form."
-date: 2020-02-07 04:00:00 -0500
+date: 2020-02-07 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

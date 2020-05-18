@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E21: Collecting the Masamune Parts"
 description: "We're continuing our play-through of Chrono Trigger, and today we fight Masa and Mune, then Masamune, collect up the parts for the great sword and find out what we need to re-forge it."
-date: 2020-01-26 04:00:00 -0500
+date: 2020-01-26 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited Interludes: NES The Legend of Zelda"
 description: "A look at some of the games of my youth. We continue with the first two games in the Legend of Zelda series."
-date: 2019-12-16 04:00:00 -0500
+date: 2019-12-16 04:00:00
 tags:
 - Games Revisited
 - Interludes

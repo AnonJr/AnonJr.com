@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: State of the Server and Host"
 description: "Today's a little more of a 'let's chat' kind of day, where we go over the projects list, the state of the host, and a few other things. We also do some work clearing the area to build a desert village around a desert temple."
-date: 2019-10-01 20:30:00 -0500
+date: 2019-10-01 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

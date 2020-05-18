@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E53: Enlightening the Sun Stone"
 description: "We're continuing our play-through of Chrono Trigger, and today we follow Lucca's advice and seek out the power of the sun for her best weapon and some cool specs."
-date: 2020-03-08 04:00:00 -0500
+date: 2020-03-08 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

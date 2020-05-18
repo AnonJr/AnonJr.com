@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: Guardians, Sent to the Farm"
 description: "It started as a simple update to the Guardian Farm &hellip; and went steadily south from there. Maybe the next one will go better."
-date: 2020-04-21 20:30:00 -0500
+date: 2020-04-21 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

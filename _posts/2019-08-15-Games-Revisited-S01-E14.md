@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E14: Loose Ends, Shopping, and Maybe Manaan"
 description: "Today we tie up a few extra quests on Tatooine, peruse the items in the shop on Yavin, and then get introduced to the area at Manaan."
-date: 2019-08-15 22:30:00 -0500
+date: 2019-08-15 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

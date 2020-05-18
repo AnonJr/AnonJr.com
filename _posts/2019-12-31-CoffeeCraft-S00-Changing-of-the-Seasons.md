@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Changing of the Seasons"
 description: "Today we do a (mostly) complete tour of the world as our Season 00 close. Tomorrow we start a new season and add a new member!"
-date: 2019-12-31 20:30:00 -0500
+date: 2019-12-31 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

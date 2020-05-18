@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Community Storage Project"
 description: "Today we help Rayeste with her community storage project."
-date: 2019-04-15 20:30:00 -0500
+date: 2019-04-15 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

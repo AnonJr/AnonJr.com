@@ -1,7 +1,7 @@
 ---
 title: "Update on Projects Projects Projects"
 description: "Brief status update on the various projects I mentioned last year, and why my last post was back in November."
-date: 2019-03-23 22:30:00 -0500
+date: 2019-03-23 22:30:00
 tags:
 - programming
 - projects

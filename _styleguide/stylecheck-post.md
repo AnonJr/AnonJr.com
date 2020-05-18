@@ -1,6 +1,6 @@
 ---
 title : "Style Check (Posts)"
-date: 2017-09-28 12:20:00 -0500
+date: 2017-09-28 12:20:00
 layout: post
 comments: true
 tags:

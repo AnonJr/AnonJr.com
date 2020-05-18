@@ -24,17 +24,17 @@ title : AnonJr.com
 <div class="page-navigation">
     <div class="previous">
         {% if paginator.previous_page %}
-            <a href="{{ paginator.previous_page_path | relative_url }}" title="Older Posts"><span class="fas fa-arrow-circle-left fa-2x fa-pull-left"></span> Older Posts</a>
+            <a href="{{ paginator.previous_page_path | relative_url }}" title="Older Posts"><span class="fas fa-arrow-circle-left fa-2x fa-pull-left"></span> Newer Posts</a>
         {% else %}
-            <span class="fas fa-arrow-circle-left fa-2x fa-pull-left"></span> Older Posts
+            <span class="fas fa-arrow-circle-left fa-2x fa-pull-left"></span> Newer Posts
         {% endif %}
     </div>
 
     <div class="next">
         {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path | relative_url }}" title="Newer Posts">Newer Posts <span class="fas fa-arrow-circle-right fa-2x fa-pull-right"></span></a>
+            <a href="{{ paginator.next_page_path | relative_url }}" title="Newer Posts">Older Posts <span class="fas fa-arrow-circle-right fa-2x fa-pull-right"></span></a>
         {% else %}
-            Newer Posts <span class="fas fa-arrow-circle-right fa-2x fa-pull-right"></span>
+            Older Posts <span class="fas fa-arrow-circle-right fa-2x fa-pull-right"></span>
         {% endif %}
     </div>
 
@@ -43,7 +43,7 @@ title : AnonJr.com
             {% if page == paginator.page %}
                 <em>{{ page }}</em>
             {% elsif page == 1 %}
-                <a href="{{ site.url }}">{{ page }}</a>
+                <a href="/index.html">{{ page }}</a>
             {% else %}
                 <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
             {% endif %}

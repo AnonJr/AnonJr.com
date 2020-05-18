@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: A Series of Small Projects"
 description: "Schedule's been a little tight, so no big project planned - just managing a few small projects here and there."
-date: 2020-02-11 20:30:00 -0500
+date: 2020-02-11 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

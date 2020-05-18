@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: Community Storage Stage 2"
 description: "Today we test out the multi-item storage system that I built over the weekend, and while Rayeste works on getting all the placeholders in place I do some more work on the clock we were having problems with last week."
-date: 2020-03-24 20:30:00 -0500
+date: 2020-03-24 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E72: Stone Work Part 2"
 description: "We're continuing our play-through of Chrono Trigger, and today we finish dealing with the things that go bump in the dark."
-date: 2020-03-30 04:00:00 -0500
+date: 2020-03-30 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

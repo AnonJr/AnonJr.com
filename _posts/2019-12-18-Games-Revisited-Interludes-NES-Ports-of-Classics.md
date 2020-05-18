@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited Interludes: NES Ports of Classics"
 description: "A look at some of the games of my youth. We continue with NES ports of some classics - Rampage, Burger Time, and Galaga."
-date: 2019-12-18 04:00:00 -0500
+date: 2019-12-18 04:00:00
 tags:
 - Games Revisited
 - Interludes

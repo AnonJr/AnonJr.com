@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: The Impromptu Build Session"
 description: "We were all on the server, working on various building projects&hellip; so why not stream?"
-date: 2019-04-15 20:30:00 -0500
+date: 2019-04-15 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

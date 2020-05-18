@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 21: Still Escaping"
 description: "It's time for Episode 21 of Games Revisited Season 03. We're continuing our play-through of Portal 2, and today we continue our escape through the back halls, disabling the turrets and other bits of chaos."
-date: 2020-05-10 04:00:00 -0500
+date: 2020-05-10 04:00:00
 tags:
 - Games Revisited
 - Portal

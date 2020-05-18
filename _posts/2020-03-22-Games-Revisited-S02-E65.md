@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E65: The Lost Sanctum"
 description: "We're continuing our play-through of Chrono Trigger, and today we duck out of our final show-down with Lavos to back-track and run through the bonus content available in the Steam release (currently playing) and in the DS and mobile releases. We kick it off by finding and clearing out the Lost Sanctum."
-date: 2020-03-22 04:00:00 -0500
+date: 2020-03-22 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

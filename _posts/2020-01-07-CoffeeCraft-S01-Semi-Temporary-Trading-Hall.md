@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: Semi-Temporary Trading Hall"
 description: "Today we built a decent little starter villager trading/breeding hall, and came to a few decisions on how we're handling some other stuff. I'm under the weather, so it's a little shorter than normal."
-date: 2020-01-07 20:30:00 -0500
+date: 2020-01-07 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

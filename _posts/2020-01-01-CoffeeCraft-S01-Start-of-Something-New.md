@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: Start of Something New!"
 description: "Season 01, new year, new server, new member - we’re starting on a fresh 1.15.1 server with the seed 1057265842, and we're joined by Medic_FRCG, our newest member."
-date: 2020-01-01 20:30:00 -0500
+date: 2020-01-01 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

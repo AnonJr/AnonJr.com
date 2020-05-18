@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited Interludes (SNES Edition): Illusion Of Gaia"
 description: "Today we go through Illusion of Gaia. Now that I've gone through the intro to the game, I think this was the game I was trying to remember as one of the three options for Season 2&hellip;"
-date: 2019-12-25 04:00:00 -0500
+date: 2019-12-25 04:00:00
 tags:
 - Games Revisited
 - Interludes

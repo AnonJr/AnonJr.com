@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 29: The Itch"
 description: "It's time for Episode 29 of Games Revisited Season 03. We're continuing our play-through of Portal 2, and today we get back to the main area to find Wheatly struggling with making a box that walks, struggling to make some tests, and &hellip; well &hellip; struggling."
-date: 2020-05-19 04:00:00 -0500
+date: 2020-05-19 04:00:00
 tags:
 - Games Revisited
 - Portal

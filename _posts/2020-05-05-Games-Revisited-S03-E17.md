@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 17: The Return"
 description: "It's time for Episode 17 of Games Revisited Season 03. We're continuing our play-through of Portal 2, and today we make our way further along, and I think we saw Wheatly in there somewhere&hellip;"
-date: 2020-05-05 04:00:00 -0500
+date: 2020-05-05 04:00:00
 tags:
 - Games Revisited
 - Portal

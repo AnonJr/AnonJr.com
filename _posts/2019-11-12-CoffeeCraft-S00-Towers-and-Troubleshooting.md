@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Towers and Troubleshooting"
 description: "Today we show off the oddest Redstone issue with our second gate, spend some time futzing around trying to fix it, and then get back to the business of setting up the wall and lighting the village."
-date: 2019-11-12 20:30:00 -0500
+date: 2019-11-12 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

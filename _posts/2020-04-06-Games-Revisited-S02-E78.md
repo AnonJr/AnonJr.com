@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E78: Speed Run+"
 description: "We're continuing our play-through of Chrono Trigger, and today we take the next quickest route to Lavos since we missed the first&hellip;"
-date: 2020-04-06 04:00:00 -0500
+date: 2020-04-06 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E77: New Game+"
 description: "We're continuing our play-through of Chrono Trigger, and today we start a quick run using the New Game+ option to show how it works."
-date: 2020-04-05 04:00:00 -0500
+date: 2020-04-05 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

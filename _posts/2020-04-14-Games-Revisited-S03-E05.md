@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 05: Chambers 16 - 17"
 description: "It's time for Episode 05 of Games Revisited Season 03. We're continuing our play-through of Portal, and today we tackle chambers 16 and 17. They're starting to get a little more &hellip; fun."
-date: 2020-04-14 04:00:00 -0500
+date: 2020-04-14 04:00:00
 tags:
 - Games Revisited
 - Portal

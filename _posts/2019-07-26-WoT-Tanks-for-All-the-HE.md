@@ -1,7 +1,7 @@
 ---
 title: "The 47%: Tanks for All the HE"
 description: "Last World of Tanks stream for a little while, need to focus on my other two a little more. Once I get a few more things in place I'll come back. :smiley:"
-date: 2019-07-26 23:30:00 -0500
+date: 2019-07-26 23:30:00
 tags:
 - The 47%
 - World of Tanks

@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: While You Were Under A Rock"
 description: "We make some more progress on our village rehab project."
-date: 2019-10-15 20:30:00 -0500
+date: 2019-10-15 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

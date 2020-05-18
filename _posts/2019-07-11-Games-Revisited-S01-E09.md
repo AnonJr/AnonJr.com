@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E09: I Hate Sand&hellip; and that quote"
 description: "Today we check out the Yavin station, try to get our little stowaway taken care of (no, not *that* kind of taken care of - we're playing light side), and then run into technical issues."
-date: 2019-07-11 22:30:00 -0500
+date: 2019-07-11 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

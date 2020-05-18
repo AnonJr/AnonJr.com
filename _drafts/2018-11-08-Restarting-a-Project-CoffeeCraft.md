@@ -1,6 +1,6 @@
 ---
 title: "(Re)Starting a Project: CoffeeCraft.us"
-date: 2018-11-08 22:30:00 -0500
+date: 2018-11-08 22:30:00
 author: AnonJr
 layout: post
 comments: true

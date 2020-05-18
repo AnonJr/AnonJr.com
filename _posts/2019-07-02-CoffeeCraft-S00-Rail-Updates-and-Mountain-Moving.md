@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Rail Updates and Mountain Moving"
 description: "We start off going over the sugar cane farm I built by the guardian farm, and then take a look at a few other projects."
-date: 2019-07-02 20:30:00 -0500
+date: 2019-07-02 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

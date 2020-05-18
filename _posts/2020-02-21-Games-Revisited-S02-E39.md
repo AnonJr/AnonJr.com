@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E39: More Sealed Chests and Side Quests"
 description: "We're continuing our play-through of Chrono Trigger, and today we go after some more of the sealed chests, retrieve Robo, and go on one other side quest."
-date: 2020-02-21 04:00:00 -0500
+date: 2020-02-21 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

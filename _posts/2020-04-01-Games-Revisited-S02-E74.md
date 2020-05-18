@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E74: Tower of Idols Part 2"
 description: "We're continuing our play-through of Chrono Trigger, and today we finish clearing out the ghostly castle and find who's idols are on the top floor."
-date: 2020-04-01 04:00:00 -0500
+date: 2020-04-01 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

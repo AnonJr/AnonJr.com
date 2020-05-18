@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E01 'Knights of the Old Republic'"
 description: "The inaugural stream for 'Games Revisited': I did a quick overview of what to expect for Season 1, rolled a new character, and started through the first planet."
-date: 2019-05-09 22:30:00 -0500
+date: 2019-05-09 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E16: Clues from the Present"
 description: "We're continuing our play-through of Chrono Trigger, and today we go to a new continent in the present time (1000 AD) and learn a few things from the village of the fiends."
-date: 2020-01-20 04:00:00 -0500
+date: 2020-01-20 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

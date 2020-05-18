@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E64: Lavos, Round 1"
 description: "We're continuing our play-through of Chrono Trigger, and today we tackle the outer shell of Lavos."
-date: 2020-03-21 04:00:00 -0500
+date: 2020-03-21 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E07: Quest Completions and a Side of Drama"
 description: "Today we complete a few quests, and get stuck in the middle of some family drama."
-date: 2019-06-20 22:30:00 -0500
+date: 2019-06-20 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

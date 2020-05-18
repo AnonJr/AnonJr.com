@@ -1,7 +1,7 @@
 ---
 title: "Sabbaticals, Reflections, and Changes"
 description: "The one where I speak honestly about my burnout."
-date: 2018-11-03 22:30:00 -0500
+date: 2018-11-03 22:30:00
 tags:
 - burnout
 - meta

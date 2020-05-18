@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Fixing an Iron Deficiency"
 description: "Today Arcaidius and I finally get around to fixing the Iron Farm. We've got projects coming up that are going to tap out the supplies we had stored from when the old farm broke during the update. Sadly not all the villagers made it&hellip; that might be the project for next week."
-date: 2019-08-13 20:30:00 -0500
+date: 2019-08-13 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

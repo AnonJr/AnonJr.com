@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 11: Bonus Advanced Chambers 13 and 14"
 description: "It's time for Episode 11 of Games Revisited Season 03. We're continuing our play-through of Portal, and since we had the time we struggle with the advanced versions of Chambers 13 and 14."
-date: 2020-04-21 04:00:00 -0500
+date: 2020-04-21 04:00:00
 tags:
 - Games Revisited
 - Portal

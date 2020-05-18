@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E19: Testing our Mettle and Finding Frog"
 description: "We're continuing our play-through of Chrono Trigger, and today we test our mettle against Spekkio at the End of Time, and then go find Frog in the Cursed Woods."
-date: 2020-01-24 04:00:00 -0500
+date: 2020-01-24 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

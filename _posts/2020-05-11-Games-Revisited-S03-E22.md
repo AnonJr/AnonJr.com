@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 22: GLaDOS and Cake"
 description: "It's time for Episode 22 of Games Revisited Season 03. We're continuing our play-through of Portal 2, and today we deal with GLaDOS and the disappointment of no cake&hellip;"
-date: 2020-05-11 04:00:00 -0500
+date: 2020-05-11 04:00:00
 tags:
 - Games Revisited
 - Portal

@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 27: The Reunion Part 3"
 description: "It's time for Episode 27 of Games Revisited Season 03. We're continuing our play-through of Portal 2, and today we slog through some more of the older testing sites. At least we're getting closer to current times. New stuff to play with too."
-date: 2020-05-17 04:00:00 -0500
+date: 2020-05-17 04:00:00
 tags:
 - Games Revisited
 - Portal

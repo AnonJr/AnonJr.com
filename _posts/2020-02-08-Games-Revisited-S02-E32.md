@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E32: Spot the Difference, and Other Errands"
 description: "We're continuing our play-through of Chrono Trigger, and today we play a little 'Spot the Difference' and check in on things at the castle in our time (1000AD)."
-date: 2020-02-08 04:00:00 -0500
+date: 2020-02-08 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

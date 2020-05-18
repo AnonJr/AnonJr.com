@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 25: The Reunion"
 description: "It's time for Episode 25 of Games Revisited Season 03. We're continuing our play-through of Portal 2, and today we find our long lost friend &hellip; GLaDOS."
-date: 2020-05-15 04:00:00 -0500
+date: 2020-05-15 04:00:00
 tags:
 - Games Revisited
 - Portal

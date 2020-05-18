@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 13: Courtesy Call"
 description: "It's time for Episode 13 of Games Revisited Season 03. We're continuing our play-through of the Portal series, and today we start Portal 2. After waking up we get our bearings and start finding our way out."
-date: 2020-05-01 04:00:00 -0500
+date: 2020-05-01 04:00:00
 tags:
 - Games Revisited
 - Portal

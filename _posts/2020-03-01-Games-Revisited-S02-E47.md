@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E47: Lavos Awakens, and What Happened After"
 description: "We're continuing our play-through of Chrono Trigger, and today we enter the chamber with the Mamon Machine only to find it's too late to destroy it. Lavos awakens, and something memorable and emotional happens&hellip;"
-date: 2020-03-01 04:00:00 -0500
+date: 2020-03-01 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

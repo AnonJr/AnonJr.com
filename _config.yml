@@ -7,6 +7,7 @@ sass:
 
 # Site Setup
 locale:           "en"
+timezone:         America/New_York
 title:            AnonJr.com
 tagline:          '[Insert witty by-line here]'
 description:      'The personal blog of AnonJr'

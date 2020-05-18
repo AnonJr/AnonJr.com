@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Presents, Projects, and Grindy Bits"
 description: "We take a look at a present Arcaidius left, a quick progress report on various projects, finish up the mob dropper, and have a little fun."
-date: 2019-07-16 20:30:00 -0500
+date: 2019-07-16 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

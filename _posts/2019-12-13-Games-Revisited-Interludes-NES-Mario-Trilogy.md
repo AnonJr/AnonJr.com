@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited Interludes: NES Mario Trilogy"
 description: "A look at some of the games of my youth. We start with the trilogy of Super Mario Bros. for the classic Nintendo Entertainment System (NES)."
-date: 2019-12-13 04:00:00 -0500
+date: 2019-12-13 04:00:00
 tags:
 - Games Revisited
 - Interludes

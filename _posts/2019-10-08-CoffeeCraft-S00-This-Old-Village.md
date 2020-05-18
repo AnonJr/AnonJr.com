@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: This Old Village"
 description: "Rayeste, Arcaidius, and I head on out to the village we initially &hellip; borrowed &hellip; a couple people from to start up the first trading hall/iron farm and we lay down the plans to completely overhaul and expand it."
-date: 2019-10-08 20:30:00 -0500
+date: 2019-10-08 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

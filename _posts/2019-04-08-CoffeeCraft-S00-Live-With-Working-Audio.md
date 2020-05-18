@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Live Again, Now With Working Audio!"
 description: "We re-visit some stuff from earlier streams, but this time with working audio!"
-date: 2019-04-08 20:30:00 -0500
+date: 2019-04-08 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

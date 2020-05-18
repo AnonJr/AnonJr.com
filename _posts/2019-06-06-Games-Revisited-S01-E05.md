@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E05: Collecting Rewards and Infiltrating Sith Base"
 description: "Today we collect the rewards for killing Bendak Starkiller, storm the Sith Base, breeze out of Taris before it's leveled, and start our journey as a Jedi."
-date: 2019-06-06 22:30:00 -0500
+date: 2019-06-06 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

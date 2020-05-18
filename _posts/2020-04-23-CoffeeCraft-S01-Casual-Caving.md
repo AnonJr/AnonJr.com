@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: Casual Caving"
 description: "Feeling a little off, so instead of my usual Games Revisited stream I do some more lighting and chat."
-date: 2020-04-23 20:30:00 -0500
+date: 2020-04-23 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

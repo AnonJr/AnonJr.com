@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: More Big Steps in Small Projects"
 description: "More progress on the lake and waterfall outside my castle."
-date: 2019-04-01 20:30:00 -0500
+date: 2019-04-01 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E38: Sealed Chests and Side Quest"
 description: "We're continuing our play-through of Chrono Trigger, and today we set out to collect the sealed chests and doors and promptly get distracted by a different side quest that we probably weren't supposed to do yet."
-date: 2020-02-19 04:00:00 -0500
+date: 2020-02-19 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

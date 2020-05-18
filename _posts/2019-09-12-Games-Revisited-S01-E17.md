@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E17: Once More Into the Deep"
 description: "We check in with our crew at the start, from there we turn in the side-quest about where all the mercenaries went, and then get into the big mission,"
-date: 2019-09-12 22:30:00 -0500
+date: 2019-09-12 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

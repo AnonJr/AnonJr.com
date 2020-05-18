@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Lighting Up The Caves"
 description: "Today we light up the caves under the village we're rehabbing &hellip; mostly. There's a lot more cave under there than we realized."
-date: 2019-10-29 20:30:00 -0500
+date: 2019-10-29 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

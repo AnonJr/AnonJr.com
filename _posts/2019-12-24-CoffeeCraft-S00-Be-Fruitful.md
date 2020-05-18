@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S00: Be Fruitful"
 description: "Today's a quick little stream, setting the villagers loose to start working and populating the village. It was pre-recorded the weekend before it aired."
-date: 2019-12-24 20:30:00 -0500
+date: 2019-12-24 20:30:00
 tags:
 - CoffeeCraft
 - Minecraft

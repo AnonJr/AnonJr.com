@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E13: Finding the Star Map and Fomenting Rebellion"
 description: "Today we grab the Star Map on Kashyyyk, help the Wookies start their rebellion against Czerka Corp., and spend some time getting to know the crew. There's a lot of crew chatter on this one, but we do advance the various sub-stories quite a bit today - to include picking up the side quest for Carth's son."
-date: 2019-08-08 22:30:00 -0500
+date: 2019-08-08 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"

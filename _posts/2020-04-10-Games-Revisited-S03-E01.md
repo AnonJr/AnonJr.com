@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 01: Chambers 00 - 04"
 description: "It's time for Episode 01 of Games Revisited Season 03. We begin our play-through of Portal, and today we tackle chambers 00 - 04 and get a handle on the fundamental game aspects."
-date: 2020-04-10 04:00:00 -0500
+date: 2020-04-10 04:00:00
 tags:
 - Games Revisited
 - Portal

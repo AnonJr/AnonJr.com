@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E08: Storm the Cathedral"
 description: "We're continuing our play-through of Chrono Trigger, and today we continue storming the Cathedral, with the help of our new friend, to rescue the Queen."
-date: 2020-01-11 04:00:00 -0500
+date: 2020-01-11 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

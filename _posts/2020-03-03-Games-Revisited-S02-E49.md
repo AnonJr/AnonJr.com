@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E49: Dealing with Dalton"
 description: "We're continuing our play-through of Chrono Trigger, and today we deal with Dalton and make peace with Magus."
-date: 2020-03-03 04:00:00 -0500
+date: 2020-03-03 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

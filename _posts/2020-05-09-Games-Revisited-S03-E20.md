@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 20: The Escape"
 description: "It's time for Episode 20 of Games Revisited Season 03. We're continuing our play-through of Portal 2, and today we start our great escape through the back hallways again since Wheatly was kind enough to spring us free."
-date: 2020-05-09 04:00:00 -0500
+date: 2020-05-09 04:00:00
 tags:
 - Games Revisited
 - Portal

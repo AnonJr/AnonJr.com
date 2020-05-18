@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E51: Ascending Death Peak"
 description: "We're continuing our play-through of Chrono Trigger, and today we begin our ascent of Death Peak to see if we can save Chrono."
-date: 2020-03-06 04:00:00 -0500
+date: 2020-03-06 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger

@@ -1,7 +1,7 @@
 ---
 title: "Portal/Portal 2 Episode 10: The Great Escape Part 3"
 description: "It's time for Episode 10 of Games Revisited Season 03. We're continuing our play-through of Portal, and today we finish our journey through the abyss of back halls and finally meet GLaDOS."
-date: 2020-04-20 04:00:00 -0500
+date: 2020-04-20 04:00:00
 tags:
 - Games Revisited
 - Portal

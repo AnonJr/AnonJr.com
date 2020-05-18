@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S02: Chrono Trigger / E34: What Star is This?"
 description: "We're continuing our play-through of Chrono Trigger, and today we continue our assault on the Tyrano Lair, finish off Azala, and find out the true origin of Lavos."
-date: 2020-02-15 04:00:00 -0500
+date: 2020-02-15 04:00:00
 tags:
 - Games Revisited
 - Chrono Trigger
