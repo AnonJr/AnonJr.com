@@ -1,5 +1,5 @@
 ---
-title: "CoffeeCraft S01: Maybe I Should Finish Something..."
+title: "CoffeeCraft S01: Maybe I Should Finish Something&hellip;"
 description: "Today we take a quick look at some of the stuff built over the weekend, then I try and finish the design/trim in the hallway and collection area in the Guardian Farm. I even almost succeed."
 date: 2020-07-07 20:30:00
 tags:
