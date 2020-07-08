@@ -1,19 +1,17 @@
 ---
-title: "Illusion of Gaia Episode 30: China's Great Wall Part 3"
-description: "It's time for Episode 30 of Games Revisited Season 04. We're continuing our play-through of 'Illusion of Gaia', and today we finish up China's Great Wall."
-date: 2020-07-08 04:00:00
+title: "CoffeeCraft S01: Maybe I Should Finish Something..."
+description: "Today we take a quick look at some of the stuff built over the weekend, then I try and finish the design/trim in the hallway and collection area in the Guardian Farm. I even almost succeed."
+date: 2020-07-07 20:30:00
 tags:
-- Games Revisited
-- Illusion of Gaia
+- CoffeeCraft
+- Minecraft
 repost: "" #"dev.to"
 ---
 
-It's time for Episode 30 of Games Revisited Season 04. We're continuing our play-through of 'Illusion of Gaia', and today we finish up China's Great Wall.
-
-Watch live if you want to see the next 6-episode run as it's recorded. :smiley:
+Today we take a quick look at some of the stuff built over the weekend, then I try and finish the design/trim in the hallway and collection area in the Guardian Farm. I even almost succeed.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/o6vbZ9LASJk" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include responsive-embed url="https://youtube.com/embed/i-6dVqYMeks" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.
