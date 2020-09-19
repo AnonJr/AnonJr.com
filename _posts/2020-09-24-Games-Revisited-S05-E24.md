@@ -1,19 +1,19 @@
 ---
-title: "Knights of the Old Republic II Episode 18: The Ebon Hawk Part 1"
-description: "It's time for Episode 18 of Games Revisited Season 05. We're continuing our play-through of Star Wars Knights of the Old Republic II: The Sith Lords, and today we make our run to the Ebon Hawk and make our way back out to space."
-date: 2020-09-17 04:00:00
+title: "Knights of the Old Republic II Episode 24: Citadel Station Part 5"
+description: "It's time for Episode 24 of Games Revisited Season 05. We're continuing our play-through of Star Wars Knights of the Old Republic II: The Sith Lords, and today we try to accomplish something at the Cantina. Try."
+date: 2020-09-24 04:00:00
 tags:
 - Games Revisited
 - Star Wars Knights of the Old Republic II
 repost: "" #"dev.to"
 ---
 
-It's time for Episode 18 of Games Revisited Season 05. We're continuing our play-through of Star Wars Knights of the Old Republic II: The Sith Lords, and today we make our run to the Ebon Hawk and make our way back out to space.
+It's time for Episode 24 of Games Revisited Season 05. We're continuing our play-through of Star Wars Knights of the Old Republic II: The Sith Lords, and today we try to accomplish something at the Cantina. Try.
 
 Watch live if you want to see the next 6-episode run as it's recorded. :smiley:
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/tWd9ixE42As" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include responsive-embed url="https://youtube.com/embed/22kzcr2d_zY" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.
