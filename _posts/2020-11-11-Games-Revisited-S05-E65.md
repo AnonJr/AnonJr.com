@@ -1,6 +1,6 @@
 ---
 title: "Knights of the Old Republic II Episode 65: Nar Shaddaa Part 18"
-description: "It's time for Episode 65 of Games Revisited Season 05. We're continuing our play-through of Star Wars Knights of the Old Republic II: The Sith Lords, and today we find out how the Exchange boss "rewards" people, and do some extra fights."
+description: "It's time for Episode 65 of Games Revisited Season 05. We're continuing our play-through of Star Wars Knights of the Old Republic II: The Sith Lords, and today we find out how the Exchange boss 'rewards' people, and do some extra fights."
 date: 2020-11-11 04:00:00
 tags:
 - Games Revisited
