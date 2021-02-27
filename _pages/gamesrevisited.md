@@ -6,6 +6,12 @@ Games Revisited is my "Let's Play" series where I go through classic games I pla
 
 I'll list the "seasons" in reverse chronological order, so the newest are the easiest to find.
 
+## Season 06: Crystalis
+For Season 06 of Games Revisited, we fired up ye ole NES Emulator ([FCEUX](http://fceux.com/web/home.html) if you're curious) and played the 1990 classic "Crystalis".
+
+{% for post in site.tags["Crystalis"] %}
+ * [{{ post.title }}]({{ post.url }}) {% endfor %}
+
 ## Season 05: Star Wars Knights of the Old Republic II: The Sith Lords
 For Season 05 of Games Revisited, we went back to the PC side of gaming and played &ldquo;Star Wars Knights of the Old Republic II: The Sith Lords&rdquo;, the sequel to our Season 01 game. For our run we added the "Restored Content Mod" so we could get the bug fixes and additional content the game deserves.
 
