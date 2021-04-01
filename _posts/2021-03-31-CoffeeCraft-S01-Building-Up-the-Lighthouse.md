@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S01: Building Up the Lighthouse"
 description: "Today I get some decent progress on the walls of the lighthouse, and chat with Rayeste and Medic. Maybe half-way there?"
-date: 2021-03-24 18:30:00
+date: 2021-03-31 18:30:00
 tags:
 - CoffeeCraft
 - Minecraft
