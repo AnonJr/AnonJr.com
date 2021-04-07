@@ -1,4 +1,4 @@
-I"�<p>Back in January 2017 I started following what looked like a small and promising community of programmers (and those in adjacent fields) over at <a href="https://dev.to/">Dev.to</a>. At the time I had the site’s whole feed pumping into my Feedly list, I’d commented on a few posts, and I was starting to think about either revitalizing this blog or picking some other platform for posting.
+I"�<p>Back in January 2017 I started following what looked like a small and promising community of programmers (and those in adjacent fields) over at <a href="https://dev.to/">Dev.to</a>. At the time I had the site’s whole feed pumping into my Feedly list, I’d commented on a few posts, and I was starting to think about either revitalizing this blog or picking some other platform for posting.
 <!--more-->
 In the end I decided to try and revitalize this site, beginning with <a href="/2017/07/A-Pretzel-A-Jekyll-Some-Pages-Cranky-Git.html">a bit on the tech</a> behind a couple of projects.</p>
 
@@ -6,7 +6,7 @@ In the end I decided to try and revitalize this site, beginning with <a href="/2
 
 <p>Which brings us to this bit - I’ve got a second RSS feed now with just the articles that I want to send over there.</p>
 
-<p>In the front matter I have a <code class="highlighter-rouge">repost</code> variable like so:</p>
+<p>In the front matter I have a <code class="language-plaintext highlighter-rouge">repost</code> variable like so:</p>
 
 <figure class="pure-img">
   <img src="/img/2018-11-04-frontmatter.png" alt="(side note: need to fix the highlighting/rendering of markdown code in posts&hellip;)" class="pure-img" />
@@ -20,7 +20,7 @@ In the end I decided to try and revitalize this site, beginning with <a href="/2
 
 <p>Originally I was going to set up a “to-dev.to” tag, and go that way, but that didn’t seem useful for the people who were visiting my site.</p>
 
-<p>And there’s now a <code class="highlighter-rouge">todev.to.xml</code> that filters through the posts for just those that I want to republish.</p>
+<p>And there’s now a <code class="language-plaintext highlighter-rouge">todev.to.xml</code> that filters through the posts for just those that I want to republish.</p>
 
 <figure class="pure-img">
   <img src="/img/2018-11-04-devtoxml.png" alt="DevTo XML" class="pure-img" />
