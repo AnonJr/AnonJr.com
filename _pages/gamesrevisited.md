@@ -6,6 +6,12 @@ Games Revisited is my "Let's Play" series where I go through classic games I pla
 
 I'll list the "seasons" in reverse chronological order, so the newest are the easiest to find.
 
+## Season 07: Trine Enchanted Edition
+For Season 07 of Games Revisited, Arcaidius and Rayeste from the CoffeeCraft server join me on the PC side of things to play the platformer/puzzler &ldquo;Trine: Enchanted Edition&rdquo;.
+
+{% for post in site.tags["Trine: Enchanted Edition"] %}
+ * [{{ post.title }}]({{ post.url }}) {% endfor %}
+
 ## Season 06: Crystalis
 For Season 06 of Games Revisited, we fired up ye ole NES Emulator ([FCEUX](http://fceux.com/web/home.html) if you're curious) and played the 1990 classic "Crystalis".
 
