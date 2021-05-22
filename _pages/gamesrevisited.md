@@ -6,8 +6,11 @@ Games Revisited is my "Let's Play" series where I go through classic games I pla
 
 I'll list the "seasons" in reverse chronological order, so the newest are the easiest to find.
 
-## Season 07: Trine Enchanted Edition
+## Season 07: Trine Enchanted Edition and Trine 2 Complete Story
 For Season 07 of Games Revisited, Arcaidius and Rayeste from the CoffeeCraft server join me on the PC side of things to play the platformer/puzzler &ldquo;Trine: Enchanted Edition&rdquo;.
+
+{% for post in site.tags["Trine 2: The Complete Story"] %}
+ * [{{ post.title }}]({{ post.url }}) {% endfor %}
 
 {% for post in site.tags["Trine: Enchanted Edition"] %}
  * [{{ post.title }}]({{ post.url }}) {% endfor %}
