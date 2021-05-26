@@ -9,11 +9,13 @@ I'll list the "seasons" in reverse chronological order, so the newest are the ea
 ## Season 07: Trine Enchanted Edition and Trine 2 Complete Story
 For Season 07 of Games Revisited, Arcaidius and Rayeste from the CoffeeCraft server join me on the PC side of things to play the platformer/puzzler &ldquo;Trine: Enchanted Edition&rdquo; and it's sequel &ldquo;Trine 2: The Complete Story&rdquo;. Both versions include all the bonus content available.
 
+### Trine 2: The Complete Story
 {% for post in site.tags["Trine 2: The Complete Story"] %}
- * [{{ post.title }}]({{ post.url }}) {% endfor %}
+ * [{{ post.title }}]({{ post.url }}){% endfor %}
 
+### Trine: Enchanted Edition
 {% for post in site.tags["Trine: Enchanted Edition"] %}
- * [{{ post.title }}]({{ post.url }}) {% endfor %}
+ * [{{ post.title }}]({{ post.url }}){% endfor %}
 
 ## Season 06: Crystalis
 For Season 06 of Games Revisited, we fired up ye ole NES Emulator ([FCEUX](http://fceux.com/web/home.html) if you're curious) and played the 1990 classic "Crystalis".
