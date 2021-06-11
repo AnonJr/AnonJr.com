@@ -1,6 +1,6 @@
 ---
 title: "CoffeeCraft S01: Ruminating and Resource Gathering"
-description: "Chill stream, gathering resources for one of the last two or three big projects of the season. This is also the debut of my [Wandering Trader Voice Pack]({% link _posts/2021-06-01-Custom-Wandering-Trader-Sounds-1.0.0.md %}). :)"
+description: "Chill stream, gathering resources for one of the last two or three big projects of the season. This is also the debut of my [Wandering Trader Voice Pack]({% post_url 2021-06-01-Custom-Wandering-Trader-Sounds-1.0.0.md %}). :)"
 date: 2021-06-02 18:30:00
 tags:
 - CoffeeCraft
