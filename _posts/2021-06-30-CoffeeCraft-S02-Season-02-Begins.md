@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S02: Season 02 Begins!"
 description: "It's the start of Season 02! We go over a little bit about what SkyBlock is, and how we've got the season set up - and then it's off to the races for the early-game grind. Lots of jokes and fun were had. :)"
-date: 2021-06-23 18:30:00
+date: 2021-06-30 18:30:00
 tags:
 - CoffeeCraft
 - Minecraft
