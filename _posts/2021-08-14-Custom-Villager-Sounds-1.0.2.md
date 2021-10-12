@@ -1,5 +1,5 @@
 ---
-title: "Custom Villager Sounds v1.0.1"
+title: "Custom Villager Sounds v1.0.2"
 description: "Minor update to the Custom Villager Sounds resource pack. Should work in Minecraft 1.17"
 date: 2021-08-14 11:00:00
 tags:
