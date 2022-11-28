@@ -17,9 +17,9 @@ Well. It's been a little over a year since I last posted much of anything beyond
 ## First Things First
 As I've tried to clumsily mention a few times before, I hit some serious burnout at a previous job. I didn't seek out the help I should have when I did and from that I've suffered bouts of moderate depression. Last year I got hit by a big one, but this one was rather deeper than usual and very tenacious. While I managed to continue the [CoffeeCraft] live stream, and some sort of Friday content, Games Revisited stagnated. It also deeply impacted my work.
 
-After some time I finally started seeking the help I should have sought years ago. But that's another article for another day. The relevant part for today's post is that in addition to therapy, the doctor tried to find some medications to help the process. One particular left me feeling rather miserable, and I started the usual withdrawral process.
+After some time I finally started seeking the help I should have sought years ago. But that's another article for another day. The relevant part for today's post is that in addition to therapy, the doctor tried to find some medications to help the process. One particular left me feeling rather miserable, and I started the usual withdrawal process.
 
-End of August I was out of work for a week, feeling especially miserable. And when it didn't abate, I went to the ER thinking this was just a rough med withdrawral. I remember admission, vaguely remember a CT scan and an ambulance trip. Next thing I know I'm at the Duke ICU being told I have Acute Leukimia.
+End of August I was out of work for a week, feeling especially miserable. And when it didn't abate, I went to the ER thinking this was just a rough med withdrawal. I remember admission, vaguely remember a CT scan and an ambulance trip. Next thing I know I'm at the Duke ICU being told I have Acute Leukemia.
 
 ## AnonJr.com
 
