@@ -12,14 +12,14 @@ tags:
 repost: "" #"dev.to"
 ---
 
-Well. It's been a little over a year since I last posted much of anything beyond a point update to a the [Custom Wandering Trader Sounds]({% post_url 2022-03-06-Custom-Wandering-Trader-Sounds-1.0.2 %}) and the [Custom Villager Sounds]({% post_url 2020-05-24-Custom-Villager-Sounds-1.0.3 %}) Resource Packs for Minecraft. So&hellip; what happened?
+It's been well over a year since I last posted much of anything beyond a point update to a the [Custom Wandering Trader Sounds]({% post_url 2022-03-06-Custom-Wandering-Trader-Sounds-1.0.2 %}) and the [Custom Villager Sounds]({% post_url 2022-03-06-Custom-Villager-Sounds-1.0.3 %}) Resource Packs for Minecraft. So&hellip; what happened?
 <!--more-->
 ## First Things First
-As I've tried to clumsily mention a few times before, I hit some serious burnout at a previous job. I didn't seek out the help I should have when I did and from that I've suffered bouts of moderate depression. Last year I got hit by a big one, but this one was rather deeper than usual and very tenacious. While I managed to continue the [CoffeeCraft] live stream, and some sort of Friday content, Games Revisited stagnated. It also deeply impacted my work.
+As I've tried to clumsily mention a few times before, I hit some serious burnout at a previous job. I didn't seek out the help I should have when I did and from that I've suffered bouts of moderate depression. In 2021 I got hit by a big one, but this episode was rather deeper than usual and very tenacious. While I managed to continue the [CoffeeCraft] live stream, and some sort of Friday content, Games Revisited stagnated. The [CoffeeCraft] website was neglected. It also deeply impacted my work.
 
 After some time I finally started seeking the help I should have sought years ago. But that's another article for another day. The relevant part for today's post is that in addition to therapy, the doctor tried to find some medications to help the process. One particular left me feeling rather miserable, and I started the usual withdrawal process.
 
-End of August I was out of work for a week, feeling especially miserable. And when it didn't abate, I went to the ER thinking this was just a rough med withdrawal. I remember admission, vaguely remember a CT scan and an ambulance trip. Next thing I know I'm at the Duke ICU being told I have Acute Leukemia.
+End of August 2022 I was out of work for a week, feeling especially miserable. And when it didn't abate, I went to the ER thinking this was just a rough med withdrawal. I remember admission, vaguely remember a CT scan and an ambulance trip. Next thing I know I'm at the Duke ICU being told I have Acute Leukemia. I've spent
 
 ## AnonJr.com
 
