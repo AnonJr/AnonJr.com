@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S02: The Other Trading"
 description: "After a little initial faffing around, I head to the Neather to build a small piglin trading setup. It actually goes faster than I feared it would! And it works too. 🙃 After such a strong showing, I finish with a little more faffing around. Next time I'll just stop early..."
-date: 2021-10-06 18:30:00
+date: 2021-10-16 18:30:00
 tags:
 - CoffeeCraft
 - Minecraft
