@@ -1,7 +1,7 @@
 ---
-title: "CoffeeCraft S02: Storage and Decorations"
-description: "Chill stream today, getting the beginnings of a storage room together, and maybe something a little classier than a cobble platform."
-date: 2021-08-22 18:30:00
+title: "CoffeeCraft S02: Enter The Nether"
+description: "Finally got the stuff together, so it's off to the nether! After taking the generated island down, I'm working on setting up a platform to begin my work in the nether. As much as I don't want to, I may end up needing to do a temporary spawning platform to get what I need to make a proper platform."
+date: 2021-08-11 18:30:00
 tags:
 - CoffeeCraft
 - Minecraft
@@ -12,7 +12,7 @@ repost: "" #"dev.to"
 
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/w91Mkk1LApA" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include responsive-embed url="https://youtube.com/embed/9dWlzV6cyjw" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

@@ -1,7 +1,7 @@
 ---
-title: "CoffeeCraft S02: Mob Drop"
-description: "Finally got the mob farm going! Or at least the first draft. Still struggling with spiders jamming up the system and/or dying too soon..."
-date: 2021-08-08 18:30:00
+title: "CoffeeCraft S02: Iron and Villagers"
+description: "Fun day - starting off with actual work done since last week, getting the iron farm finished, and the rudiments of the trading hall put together. XMedic_Frog and Arcaidius join for most of it too. Sadly, Rayeste's computer is down for now."
+date: 2021-09-22 18:30:00
 tags:
 - CoffeeCraft
 - Minecraft
@@ -12,7 +12,7 @@ repost: "" #"dev.to"
 
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/hfVLSGnCEF8" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include responsive-embed url="https://youtube.com/embed/WBSO9r93YQA" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

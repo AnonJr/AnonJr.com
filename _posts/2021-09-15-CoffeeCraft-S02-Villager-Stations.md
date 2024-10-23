@@ -1,7 +1,7 @@
 ---
-title: "CoffeeCraft S02: Slime Chunk Hunt"
-description: "Little bit of catch-up at the top of the stream, then I spend the rest of the time chatting with the server and looking for where the slime chunks are on my island."
-date: 2021-07-15 18:30:00
+title: "CoffeeCraft S02: Villager Stations"
+description: "Started with the intention to build up a hall for the villagers &hellip; as soon as I get some. Got distracted with other things. XMedic_Frog and Arcaidius join in to chat."
+date: 2021-09-15 18:30:00
 tags:
 - CoffeeCraft
 - Minecraft
@@ -12,7 +12,7 @@ repost: "" #"dev.to"
 
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/ApyaDG3pL8E" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include responsive-embed url="https://youtube.com/embed/XMRLfjsckuI" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

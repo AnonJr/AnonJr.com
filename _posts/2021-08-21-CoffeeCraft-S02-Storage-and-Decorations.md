@@ -1,7 +1,7 @@
 ---
-title: "CoffeeCraft S02: Crops and Storage"
-description: "Had a couple things that really needed to get done - build some crop farms and get a proper storage setup. I only got the crop farms done, but there's a micro farm that chews through bonemeal and a bigger semi-automatic farm that should be enough for me to manage on my own."
-date: 2021-08-19 18:30:00
+title: "CoffeeCraft S02: Storage and Decorations"
+description: "Chill stream today, getting the beginnings of a storage room together, and maybe something a little classier than a cobble platform."
+date: 2021-08-21 18:30:00
 tags:
 - CoffeeCraft
 - Minecraft
@@ -12,7 +12,7 @@ repost: "" #"dev.to"
 
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/nMc-UFil1lU" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include responsive-embed url="https://youtube.com/embed/w91Mkk1LApA" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

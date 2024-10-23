@@ -1,7 +1,7 @@
 ---
 title: "CoffeeCraft S02: Furnaces and Other Resources"
 description: "Relaxed stream playing with carpet duplicators and furnaces. And it even mostly works!"
-date: 2021-09-23 18:30:00
+date: 2021-09-26 18:30:00
 tags:
 - CoffeeCraft
 - Minecraft

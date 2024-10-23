@@ -1,7 +1,7 @@
 ---
-title: "CoffeeCraft S02: Iron and Villagers"
-description: "Fun day - starting off with actual work done since last week, getting the iron farm finished, and the rudiments of the trading hall put together. XMedic_Frog and Arcaidius join for most of it too. Sadly, Rayeste's computer is down for now."
-date: 2021-09-23 18:30:00
+title: "CoffeeCraft S02: Slime Chunk Hunt"
+description: "Little bit of catch-up at the top of the stream, then I spend the rest of the time chatting with the server and looking for where the slime chunks are on my island."
+date: 2021-07-14 18:30:00
 tags:
 - CoffeeCraft
 - Minecraft
@@ -12,7 +12,7 @@ repost: "" #"dev.to"
 
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/WBSO9r93YQA" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include responsive-embed url="https://youtube.com/embed/ApyaDG3pL8E" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

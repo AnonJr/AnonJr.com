@@ -1,7 +1,7 @@
 ---
-title: "CoffeeCraft S02: Villager Stations"
-description: "Started with the intention to build up a hall for the villagers ... as soon as I get some. Got distracted with other things. XMedic_Frog and Arcaidius join in to chat."
-date: 2021-09-16 18:30:00
+title: "CoffeeCraft S02: Rethinking My Farms"
+description: "Having a little trouble arranging things, so I'm taking a step back and rethinking my farms and such. I took the time to remodel the slime farm while I was at it. It now has an off switch, and I can hook it up to a clock to flush the slimes faster. I plan on the mob farm running to the same storage/killing platform."
+date: 2021-07-28 18:30:00
 tags:
 - CoffeeCraft
 - Minecraft
@@ -12,7 +12,7 @@ repost: "" #"dev.to"
 
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/XMRLfjsckuI" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include responsive-embed url="https://youtube.com/embed/cDAc7ETAqIk" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.
