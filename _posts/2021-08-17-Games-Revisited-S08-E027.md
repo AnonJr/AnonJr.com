@@ -1,5 +1,5 @@
 ---
-title: "The Legend of Zelda - A Link to the Past Episode 26: Ice Palace Part 1"
+title: "The Legend of Zelda - A Link to the Past Episode 27: Ice Palace Part 2"
 description: "It's time for Episode 27 of Games Revisited Season 08. We're playing through the SNES classic 'The Legend of Zelda: A Link to the Past'. Today we finish up the Ice Palace, and finish the recording session a little early."
 date: 2021-08-17 06:30:00
 tags:
@@ -13,7 +13,7 @@ repost: "" #"dev.to"
 Watch live if you want to see the next 6-episode run as it's recorded. :smiley:
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/1izJAZ9_sFg" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include responsive-embed url="https://youtube.com/embed/DdOBunT6Zxg" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.
