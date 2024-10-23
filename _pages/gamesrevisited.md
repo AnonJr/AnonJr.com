@@ -5,6 +5,11 @@ title : Games Revisited
 Games Revisited is my "Let's Play" series where I go through classic games I played in my youth (or games from around the same timeframe that I missed). The goal is a brisk pace, but not a speed run - I want to enjoy the game and offer those who haven't played a good look at the story and experience.
 
 I'll list the "seasons" in reverse chronological order, so the newest are the easiest to find.
+## Season 08: The Legend of Zelda: A Link to the Past
+For Season 08 of Games Revisited, I return to the SNES via emulator to play &ldquo;The Legend of Zelda: A Link to the Past&rdquo;. There's a rather long hiatus in the middle stemming from a depressive episode and later a fight with cancer. Prior to the hiatus I used [BSNES](https://github.com/bsnes-emu/bsnes) for emulation, after the hiatus I used BSNES as a part of [RetroArch](https://www.retroarch.com/).
+
+{% for post in site.tags["The Legend of Zelda: A Link to the Past"] %}
+ * [{{ post.title }}]({{ post.url }}){% endfor %}
 
 ## Season 07: Trine Enchanted Edition and Trine 2 Complete Story
 For Season 07 of Games Revisited, Arcaidius and Rayeste from the CoffeeCraft server join me on the PC side of things to play the platformer/puzzler &ldquo;Trine: Enchanted Edition&rdquo; and it's sequel &ldquo;Trine 2: The Complete Story&rdquo;. Both versions include all the bonus content available.
