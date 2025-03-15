@@ -1,6 +1,6 @@
 ---
 title: "CoffeeCraft S03: It'll Be A Blast"
-description: "Today we break through the Nether roof! And get the portal set up so we can start working on some of the other builds. Took a while, and took a &hellp; few &hellip; attempts, but we got there in the end. Well, in the Nether - not &ldquo;The End&rdquo;."
+description: "Today we break through the Nether roof! And get the portal set up so we can start working on some of the other builds. Took a while, and took a &hellip; few &hellip; attempts, but we got there in the end. Well, in the Nether - not &ldquo;The End&rdquo;."
 date: 2022-03-04 18:30:00
 tags:
 - CoffeeCraft
