@@ -8,6 +8,11 @@ layout: compress
     <link>{{ site.url }}</link>
     <atom:link href="{{ site.url }}/rss.xml" rel="self" type="application/rss+xml" />
     <description></description>
+    <image>
+      <title>{{ site.title }}</title>
+      <link>{{ site.url }}</link>
+      <url>{{ site.url }}/res/favicon.png</url>
+    </image>
     <language>en-us</language>
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %Z" }}</pubDate>
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %Z" }}</lastBuildDate>
