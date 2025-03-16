@@ -24,21 +24,18 @@ layout: compress
   <!-- Favicon or Small Icon -->
   <icon>{{ site.url }}{{ site.favicon }}</icon>
 
-  {% for post in site.posts %}
+  {% for post in site.posts limit:15 %}
   <entry>
-    <title>{{ post.title | cgi_escape }}</title>
+    <title>{{ post.title | xml_escape | replace: '&mdash;', '&#8212;' | replace: '&hellip;', '&#8230;' }}</title>
     <link href="{{ site.url }}{{ post.url }}"/>
     <id>{{ site.url }}{{ post.id }}</id>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <summary>{{ post.excerpt | strip_html | cgi_escape }}</summary>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        {{ post.content | xml_escape
-            | replace: '&mdash;', '&#8212;'
-            | replace: '&hellip;', '&#8230;'
-        }}
-
-      </div>
+    <summary>{{ post.excerpt | strip_html | replace: '&mdash;', '&#8212;' | replace: '&hellip;', '&#8230;' }}</summary>
+    <content type="html">
+      {{ post.content | xml_escape
+          | replace: '&mdash;', '&#8212;'
+          | replace: '&hellip;', '&#8230;'
+      }}
     </content>
 
     {% if post.author %}
