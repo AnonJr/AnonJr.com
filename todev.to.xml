@@ -8,15 +8,20 @@ layout: compress
     <link>{{ site.url }}</link>
     <atom:link href="{{ site.url }}/todev.to.xml" rel="self" type="application/rss+xml" />
     <description></description>
+    <image>
+      <title>{{ site.title }}</title>
+      <link>{{ site.url }}</link>
+      <url>{{ site.url }}/res/favicon.png</url>
+    </image>
     <language>en-us</language>
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %Z" }}</pubDate>
-    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %Z" }}</lastBuildDate>
+    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
     {% for post in site.posts %}
       {% if post.repost == "dev.to" %}
         <item>
           <title>{{ post.title | xml_escape }}</title>
           <link>{{ site.url }}{{ post.url }}</link>
-          <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %Z" }}</pubDate>
+          <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
           <author>By {{ post.author }}</author>
           <guid>{{ site.url }}{{ post.url }}</guid>
           <description>{{ post.content | xml_escape }}</description>
