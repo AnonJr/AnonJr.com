@@ -1,20 +1,6 @@
 {% if site.google_analytics_tracking_id %}
-<!-- Google Analytics -->
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', '{{ site.google_analytics_tracking_id }}', 'auto');
-ga('set', 'anonymizeIp', true);
-ga('send', 'pageview');
-</script>
-<script async src="//www.google-analytics.com/analytics.js"></script>
-<!-- End Google Analytics -->
-{% endif %}
-
-{% comment %}
-
-{% if site.google_analytics_tracking_id %}
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-42177830-2"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_tracking_id }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -23,5 +9,3 @@ ga('send', 'pageview');
   gtag('config', '{{ site.google_analytics_tracking_id }}');
 </script>
 {% endif %}
-
-{% endcomment %}
