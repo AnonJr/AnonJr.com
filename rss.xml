@@ -1,30 +1,57 @@
 ---
 layout: compress
 ---
-<?xml version="1.0"?>
-<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
-<channel>
-    <title>{{ site.title }}</title>
-    <link>{{ site.url }}</link>
-    <atom:link href="{{ site.url }}/rss.xml" rel="self" type="application/rss+xml" />
-    <description></description>
-    <image>
-      <title>{{ site.title }}</title>
-      <link>{{ site.url }}</link>
-      <url>{{ site.url }}/res/favicon.png</url>
-    </image>
-    <language>en-us</language>
-    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %Z" }}</pubDate>
-    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
-    {% for post in site.posts %}
-    <item>
-      <title>{{ post.title | xml_escape }}</title>
-      <link>{{ site.url }}{{ post.url }}</link>
-      <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-      <author>By {{ post.author }}</author>
-      <guid>{{ site.url }}{{ post.url }}</guid>
-      <description>{{ post.content | xml_escape }}</description>
-    </item>
-    {% endfor %}
-  </channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ site.locale }}">
+  <title>{{ site.title | xml_escape }}</title>
+  <subtitle>{{ site.description | xml_escape }}</subtitle> <!-- Site description -->
+
+  <link href="{{ site.url }}/rss.xml" rel="self"/>
+  <link href="{{ site.url }}/"/>
+
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+
+  <id>{{ site.url }}/</id>
+  <author>
+    <name>{{ site.author.name }}</name>
+  </author>
+  <rights>{{ site.rights }}</rights>
+
+  <!-- Feed Image (Logo) -->
+  <logo>{{ site.url }}{{ site.og_image }}</logo>
+
+  <!-- Favicon or Small Icon -->
+  <icon>{{ site.url }}{{ site.favicon }}</icon>
+
+  {% for post in site.posts %}
+  <entry>
+    <title>{{ post.title | cgi_escape }}</title>
+    <link href="{{ site.url }}{{ post.url }}"/>
+    <id>{{ site.url }}{{ post.id }}</id>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <summary>{{ post.excerpt | strip_html | cgi_escape }}</summary>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        {{ post.content | xml_escape
+            | replace: '&mdash;', '&#8212;'
+            | replace: '&hellip;', '&#8230;'
+        }}
+
+      </div>
+    </content>
+
+    {% if post.author %}
+      <author>
+        <name>{{ post.author | xml_escape }}</name>
+      </author>
+    {% else %}
+      <author>
+        <name>{{ site.author | xml_escape }}</name>
+      </author>
+    {% endif %}
+
+  </entry>
+  {% endfor %}
+
+</feed>

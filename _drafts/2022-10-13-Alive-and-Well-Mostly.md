@@ -12,7 +12,7 @@ tags:
 repost: "" #"dev.to"
 ---
 
-It's been well over a year since I last posted much of anything beyond a point update to a the [Custom Wandering Trader Sounds]({% post_url 2022-03-06-Custom-Wandering-Trader-Sounds-1.0.2 %}) and the [Custom Villager Sounds]({% post_url 2022-03-06-Custom-Villager-Sounds-1.0.3 %}) Resource Packs for Minecraft. So&hellip; what happened?
+It's been quite a while since I last posted much of anything beyond a point update to a the [Custom Wandering Trader Sounds]({% post_url 2022-03-06-Custom-Wandering-Trader-Sounds-1.0.2 %}) and the [Custom Villager Sounds]({% post_url 2022-03-06-Custom-Villager-Sounds-1.0.3 %}) Resource Packs for Minecraft. So&hellip; what happened?
 <!--more-->
 ## First Things First
 As I've tried to clumsily mention a few times before, I hit some serious burnout at a previous job. I didn't seek out the help I should have when I did and from that I've suffered bouts of moderate depression. In 2021 I got hit by a big one, but this episode was rather deeper than usual and very tenacious. While I managed to continue the [CoffeeCraft] live stream, and some sort of Friday content, Games Revisited stagnated. The [CoffeeCraft] website was neglected. It also deeply impacted my work.

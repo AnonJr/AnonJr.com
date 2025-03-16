@@ -1,5 +1,7 @@
 # Build settings
 markdown: kramdown
+kramdown:
+  entity_output: numeric
 liquid:
   error_mode: strict
 sass:
@@ -12,7 +14,9 @@ title:            AnonJr.com
 tagline:          '[Insert witty by-line here]'
 description:      'The personal blog of AnonJr'
 imageurl:         '/res/gravatar.png'
+favicon:          '/res/favicon.ico'
 url:              https://www.anonjr.com
+rights:           'Creative Commons Attribution-ShareAlike 3.0 Unported'
 only_frontmatter_categories: true
 
 author:

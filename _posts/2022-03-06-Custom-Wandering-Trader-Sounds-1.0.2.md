@@ -1,7 +1,7 @@
 ---
 title: "Custom Wandering Trader Sounds v1.0.2"
 description: "Minor update to the Custom Wandering Trader Sounds resource pack. Should work in Minecraft 1.18.1"
-date: 2022-03-06 20:00:00
+date: 2022-03-06 20:01:00
 tags:
 - Minecraft
 - Resource Packs

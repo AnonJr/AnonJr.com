@@ -1,7 +1,7 @@
 ---
 title: "Games Revisited S01-E26: Aftermath"
 description: "Short video today. We recap and wrap up the season, and outline some plans for what's next."
-date: 2019-11-21 22:30:00
+date: 2019-12-05 22:30:00
 tags:
 - Games Revisited
 - "Star Wars: Knights of the Old Republic"
