@@ -4,9 +4,9 @@ title: "Curriculum Vitae"
 
 ## Summary
 
-I am an IT "Jack of all Trades" with experience spanning web development, graphics design, and server administration. Over the years I’ve also done photography, audio engineering, and training development — giving me a diverse background and a reputation as a creative, adaptable problem solver.
+I began my career in IT, first building computers out of necessity and later discovering a true passion for programming. After college, I worked in Training and Development at Cape Fear Valley Health, where I wasn’t just behind the computer — I was also teaching CPR, ACLS, and Nonviolent Crisis Intervention. Over the years, my journey evolved from writing code to repairing stringed instruments, but my love for problem-solving has always remained the same.
 
-I enjoy improving and extending existing systems, breathing new life into abandoned projects, and creating tools that make other people’s work easier. Many of my professional projects are internal to previous employers, but my public work demonstrates the same care for clarity and practical design.
+I’m a lifelong learner, constantly seeking to expand my knowledge — from software systems to physical instruments. Today, I bring that systems-oriented mindset to the repair bench, helping restore and maintain the quality of every instrument I work with. Each project, whether teaching a class or reworking a violin, is another opportunity to grow and share what I know.
 
 ---
 
@@ -77,16 +77,19 @@ During my year-long semester off, I worked at Jackson Mattress Company. In my sh
 ## Education
 
 **Guitar Repair Courses**
-*Colorado Institute of Musical Instrument Technology (CIOMIT), Jan – Mar 2020*
+<br />
+*Colorado Institute of Musical Instrument Technology (CIOMIT)* *Jan – Mar 2020*
 
 - Coursework included setup, fretwork, structural repair, and finish care for electric and acoustic guitars.
 
 **A.A.S. Computer Programming**
-*Fayetteville Technical Community College, 2001–2003*
+<br />
+*Fayetteville Technical Community College* *2001–2003*
 
 After switching to Network Administration from the "I’m not sure what I’m doing" degree program, I found my home after taking the required Intro to Programming class. It was that semester I switched to Computer Programming (and the short-lived Media Integration Technology program).
 
 My class project for Database Design and Programming was adopted by the Aquatics Department at the YMCA where I worked to track employee training, certification, and other records of note (e.g., write-ups, verbal warnings, and positive notes).
+
 
 ---
 
