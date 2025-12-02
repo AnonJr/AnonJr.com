@@ -4,29 +4,23 @@ title: "Curriculum Vitae"
 
 ## Summary
 
-I began my career in IT, first building computers out of necessity and later discovering a true passion for programming. After college, I worked in Training and Development at Cape Fear Valley Health, where I wasn’t just behind the computer — I was also teaching CPR, ACLS, and Nonviolent Crisis Intervention. Over the years, my journey evolved from writing code to repairing stringed instruments, but my love for problem-solving has always remained the same.
+I began my career in IT first building/upgrading computers in high school out of a cost necessity, and later discovering a love of programming in college. After college, I worked in Training and Development at Cape Fear Valley Health. I was involved in all aspects of online training - writing the system that was used for a decade, running the server and ongoing maintenance, copy editing, providing support, and whatever else was needed. I wasn’t just behind the computer — I was also teaching CPR, portions of ACLS and PALS, and Nonviolent Crisis Intervention. During college and beyond I also did photography, repair work, and roadie work for a local Christian Rock band - Jesus Joshua 24:15. After leaving the hospital, I took a working sabbatical at Music & Arts Retail. I took some classes to fill in a few missing spots in my guitar repair repertoire. From there I moved into the Repair Shop side of Music & Arts until I needed to relocate - my stepfather unexpectedly passed away and my mother needed help.
 
-I’m a lifelong learner, constantly seeking to expand my knowledge — from software systems to physical instruments. Today, I bring that systems-oriented mindset to the repair bench, helping restore and maintain the quality of every instrument I work with. Each project, whether teaching a class or reworking a violin, is another opportunity to grow and share what I know.
-
----
-
-## Skills
-
-**Languages & Frameworks:** ASP Classic, VBScript, HTML, CSS, SQL, VB6, COBOL, Perl
-**Tools & Platforms:** IIS, SQL Server Express, MS Access, MS Office, PrototypeJS
-**Creative & Technical:** Graphics Design, Audio Recording, Video Processing, Teaching, Writing
-**Preferences:**
-👍 Writing, Teaching, Audio Recording, Guitars, CSS, Graphics, HTML, ASP Classic
-👎 Server Administration
+One throughline in every job, every role, every company is that I’m a lifelong learner. I am constantly seeking to expand my knowledge. I love sharing what I know too. Each project is another opportunity to grow and share what I have learned.
 
 ---
+
 
 ## Experience
 
 ### Stringed Instrument Repair Technician
-**Music & Arts** — *Sep 2017 – Present*
-- Repair and refurbish violins, violas, cellos, double basses, and guitars.
-- Maintain shop tools and materials.
+**Music & Arts** — *Sep 2017 – Nov 2025*
+
+I started on the Retail side as part of a "working sabbatical", where I assisted the manager in improving inventory management, updating computer assets, and whatever else was needed in addition to sales responsibilities.
+
+In 2019 or so I transferred from the Charlotte Retail store to the Charlotte Repair Shop, where I detailed and inspected various instruments for return to the retail stores to be rented again.
+
+In 2020 I transferred to the Burlington Repair Shop and my role as a Stringed Instrument Repair Technician. Mostly I repaired and refurbished Repair and refurbish violins, violas, cellos, double basses. I also worked on guitars, mandolins, ukuleles, and the occasional banjo setup.
 
 ### Computer-Based Training Developer
 **Cape Fear Valley Health System** — *Dec 2003 – Dec 2017*
@@ -80,11 +74,11 @@ During my year-long semester off, I worked at Jackson Mattress Company. In my sh
 <br />
 *Colorado Institute of Musical Instrument Technology (CIOMIT)* *Jan – Mar 2020*
 
-- Coursework included setup, fretwork, structural repair, and finish care for electric and acoustic guitars.
+- Coursework included setup, structural repair, basic electronics, and finish care for electric and acoustic guitars.
 
 **A.A.S. Computer Programming**
 <br />
-*Fayetteville Technical Community College* *2001–2003*
+*Fayetteville Technical Community College* *1999-2000, 2001–2003*
 
 After switching to Network Administration from the "I’m not sure what I’m doing" degree program, I found my home after taking the required Intro to Programming class. It was that semester I switched to Computer Programming (and the short-lived Media Integration Technology program).
 
@@ -93,4 +87,4 @@ My class project for Database Design and Programming was adopted by the Aquatics
 
 ---
 
-_Last updated: 2025-10_
+_Last updated: 2025-11_
