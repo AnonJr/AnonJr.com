@@ -63,6 +63,6 @@ I really feel like I've forgotten something, but at this hour that's not surpris
 [CoffeeCraft]: https://www.coffeecraft.us/
 [Wayward Son Developers]: https://www.waywardsondevelopers.com/
 [Minimal Mistakes]: https://mmistakes.github.io/minimal-mistakes/
-[Games Revisited]: {% site.url & "/p/gamesrevisited.html" %}
+[Games Revisited]: {% link _pages/gamesrevisited.md %}
 [Twitch]: https://www.twitch.tv/anonjr_live
 [YouTube]: https://www.youtube.com/channel/UCXafqhKHbkSUIrq0LAuu0tw
