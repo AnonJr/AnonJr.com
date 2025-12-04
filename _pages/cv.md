@@ -4,7 +4,9 @@ title: "Curriculum Vitae"
 
 ## Summary
 
-I began my career in IT first building/upgrading computers in high school out of a cost necessity, and later discovering a love of programming in college. After college, I worked in Training and Development at Cape Fear Valley Health. I was involved in all aspects of online training - writing the system that was used for a decade, running the server and ongoing maintenance, copy editing, providing support, and whatever else was needed. I wasn’t just behind the computer — I was also teaching CPR, portions of ACLS and PALS, and Nonviolent Crisis Intervention. During college and beyond I also did photography, repair work, and roadie work for a local Christian Rock band - Jesus Joshua 24:15. After leaving the hospital, I took a working sabbatical at Music & Arts Retail. I took some classes to fill in a few missing spots in my guitar repair repertoire. From there I moved into the Repair Shop side of Music & Arts until I needed to relocate - my stepfather unexpectedly passed away and my mother needed help.
+I began my career in IT first building/upgrading computers in high school out of a cost necessity, and later discovering a love of programming in college. After college, I worked in Training and Development at Cape Fear Valley Health. I was involved in all aspects of online training - writing the system that was used for a decade, running the server and ongoing maintenance, copy editing, providing support, and whatever else was needed. I wasn’t just behind the computer — I was also teaching CPR, portions of ACLS and PALS, and Nonviolent Crisis Intervention.
+
+During college and beyond I also did photography, repair work, and roadie work for a local Christian Rock band - Jesus Joshua 24:15. After leaving the hospital, I took a working sabbatical at Music & Arts Retail. I took some classes to fill in a few missing spots in my guitar repair repertoire. From there I moved into the Repair Shop side of Music & Arts until I needed to relocate - my stepfather unexpectedly passed away and my mother needed help.
 
 One throughline in every job, every role, every company is that I’m a lifelong learner. I am constantly seeking to expand my knowledge. I love sharing what I know too. Each project is another opportunity to grow and share what I have learned.
 
@@ -18,9 +20,9 @@ One throughline in every job, every role, every company is that I’m a lifelong
 
 I started on the Retail side as part of a "working sabbatical", where I assisted the manager in improving inventory management, updating computer assets, and whatever else was needed in addition to sales responsibilities.
 
-In 2019 or so I transferred from the Charlotte Retail store to the Charlotte Repair Shop, where I detailed and inspected various instruments for return to the retail stores to be rented again.
+In Jan 2019 I transferred from the Charlotte Retail store to the Charlotte Repair Shop, where I detailed and inspected various instruments for return to the retail stores to be rented again.
 
-In 2020 I transferred to the Burlington Repair Shop and my role as a Stringed Instrument Repair Technician. Mostly I repaired and refurbished Repair and refurbish violins, violas, cellos, double basses. I also worked on guitars, mandolins, ukuleles, and the occasional banjo setup.
+In Nov 2020 I transferred to the Burlington Repair Shop and my role as a Stringed Instrument Repair Technician. Mostly I repaired and refurbished Repair and refurbish violins, violas, cellos, double basses. I also worked on guitars, mandolins, ukuleles, and the occasional banjo setup.
 
 ### Computer-Based Training Developer
 **Cape Fear Valley Health System** — *Dec 2003 – Dec 2017*
