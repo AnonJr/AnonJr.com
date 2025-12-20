@@ -20,3 +20,5 @@ I've done the same with other projects - altering the (now MIA) [Noodle Wiki](ht
 The majority of my work and writing are related to my current job, and are not publicly available.
 
 One of my more visible side projects has been working with a local Christian Rock group - [Jesus Joshua 24:15](http://jesusjoshua2415.com/). I've been their photographer and webmaster, having built their website as a class project and growing it to their current site. Additionally, I've been their roadie, studio technician, and helped upgrade their recording studio.
+
+{% include findme.html %}
