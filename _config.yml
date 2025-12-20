@@ -109,17 +109,19 @@ jekyll-archives:
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
-  - readme.md
+  - .git
+  - .gitattributes
+  - .gitignore
   - Gemfile
   - Gemfile.lock
-  - .gitignore
-  - .git
-  - node_modules
   - misc/
+  - node_modules
+  - readme.md
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - wrangler.toml
 
 plugins:
   - jekyll-seo-tag
