@@ -112,6 +112,7 @@ exclude:
   - .git
   - .gitattributes
   - .gitignore
+  - CNAME
   - Gemfile
   - Gemfile.lock
   - misc/
