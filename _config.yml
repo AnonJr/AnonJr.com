@@ -130,3 +130,4 @@ plugins:
   - jekyll-paginate
   - jekyll-archives # and/or jekyll-tagging
   - jemoji
+  - jekyll-sass-converter
