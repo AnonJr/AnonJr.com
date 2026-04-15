@@ -1,5 +1,6 @@
 ---
 title : Wayward Son Developers
+description: "A quick look at recent projects and where to find out more about them."
 ---
 
 ![Wayward Son Developers Logo](/res/logo-waywardsondevelopers.png){: class="pure-img"}

@@ -1,5 +1,6 @@
 ---
 title: "Curriculum Vitae"
+description: "The CV for Mark 'AnonJr' Bussell Jr."
 ---
 
 ## Summary

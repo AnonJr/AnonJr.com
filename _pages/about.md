@@ -1,9 +1,8 @@
 ---
 title: About
+description: "A little about me, and where to find the various things I do."
 ---
-<img src="../res/gravatar.png" id="gravatar" alt="AnonJr" />
-
-# Who am I?
+## Who am I?
 
 That's a question I ask myself every day&hellip;
 

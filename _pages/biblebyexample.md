@@ -1,13 +1,14 @@
 ---
 title : Bible By Example
+description: "A brief rundown of the 'Bible by Example' podcast."
 ---
 
 ![Bible By Example Logo](/res/logo-biblebyexample.png){: class="pure-img"}
 
-Bible By Example is a podcast dedicated to covering Scripture in a way that enables discussion between believers and non-believers. This show is about going through the Christian scripture book by book, chapter by chapter, word for word - and we won’t skip the hard parts.
+Bible By Example is a podcast for listeners who want to engage the Bible directly - without sermons, agendas, or insider jargon. Whether you’re a new Christian, a longtime churchgoer who’s never read the text for yourself, a believer revisiting Scripture with fresh eyes, or a skeptic who wants to critique Christianity accurately, this podcast gives you a clear, grounded way in.
 
-My goal is to do this in a way that enables discussion between believers and non-believers. This is not a preachy service, but a walk through what really is and isn’t in the scripture so we can have a constructive debate and not get distracted by arguing over things that aren’t really there in the first place.
+Hosted by a Christian “fellow traveler” rather than a theologian or pastor, the show walks through the Bible book by book, chapter by chapter, focusing on the peshat - the plain sense of the text. Along the way, you’ll hear occasional dives into language, history, and the places where major Christian traditions disagree. The goal isn’t to tell you what to believe, but to model how to read carefully, responsibly, and with curiosity.
 
-I also want to be clear about what we will not be covering: we will not be going deep into the various issues and trivia that divide the different denominations. If there’s enough support on the Patreon page, I may set up a separate show for that purpose. This main podcast will remain centered around the core of Christian belief that is common to all denominations - what C. S. Lewis referred to as “Mere Christianity”.
+The journey begins with an introductory series, What the Bible Is, covering what the Bible is and isn't, how we got it, why we consider the text reliable, and how translation families differ. From there, we move into Genesis and continue all the way to Revelation. If you want to feel grounded, educated, and better equipped to read Scripture for yourself, you’re in the right place.
 
 The website has been started, and you can watch the progress over at [BibleByExample.com](https://www.biblebyexample.com/).

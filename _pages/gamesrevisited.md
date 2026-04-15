@@ -1,10 +1,14 @@
 ---
 title : Games Revisited
+description: "A summary of, and a rundown on all posts related to, the Games Revisited videos."
 ---
 
-Games Revisited is my "Let's Play" series where I go through classic games I played in my youth (or games from around the same timeframe that I missed). The goal is a brisk pace, but not a speed run - I want to enjoy the game and offer those who haven't played a good look at the story and experience.
+Games Revisited is my "Let's Play" series where I go through classic games I played in my youth (or older games I missed). The goal is a brisk pace - not a speed run. I want to enjoy the game and offer those who haven't played a good look at the story and experience.
 
-I'll list the "seasons" in reverse chronological order, so the newest are the easiest to find.
+![Games Revisited Logo](/res/logo-gamesrevisited-full.png){: class="pure-img" style="margin: auto;"}
+
+Games Revisited is currently on hiatus, and will resume when various life events have finally settled. When I return I will also resume a weekly live-to-tape marathon recording session for the next week's worth of episodes on [my Twitch stream](https://www.twitch.tv/anonjr_live). (When I get back to streaming)
+
 ## Season 08: The Legend of Zelda: A Link to the Past
 For Season 08 of Games Revisited, I return to the SNES via emulator to play &ldquo;The Legend of Zelda: A Link to the Past&rdquo;. There's a rather long hiatus in the middle stemming from a depressive episode and later a fight with cancer. Prior to the hiatus I used [BSNES](https://github.com/bsnes-emu/bsnes) for emulation, after the hiatus I used BSNES as a part of [RetroArch](https://www.retroarch.com/).
 
