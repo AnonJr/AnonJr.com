@@ -1,3 +1,7 @@
+---
+permalink: /.well-known/security.txt
+---
+
 # https://securitytxt.org/
 Contact: webdev waywardsondevelopers.com
 Contact: https://twitter.com/AnonJr

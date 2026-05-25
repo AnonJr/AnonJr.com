@@ -1,0 +1,7 @@
+---
+permalink: /robots.txt
+---
+
+# robotstxt.org/
+
+User-agent: *
