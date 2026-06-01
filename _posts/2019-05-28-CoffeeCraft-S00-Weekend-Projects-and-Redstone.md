@@ -13,7 +13,7 @@ Just me today, good or bad I leave that to you. :smiley:
 I do a quick run through of the various farms and upgrades that happened over the long weekend, we took a closer look at the combo egg/chicken farm, and then started work on the redstone for Arcaidius' mob farm&hellip; and then promptly got stuck. Should have it fixed and ready for next week.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/mzmYBs9_buI" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="mzmYBs9_buI" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

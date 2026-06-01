@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 The stream starts with a quick rundown of some of the bigger scale projects, our plans for 1.14.4, and then we fly over to Arcaidius' latest project and help him clear out some space and install a glass floor.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/a2dZzPSIZ98" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="a2dZzPSIZ98" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

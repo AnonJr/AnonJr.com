@@ -12,7 +12,7 @@ Today we grab the Star Map on Kashyyyk, help the Wookies start their rebellion a
 <!--more-->
 
 
-{% include responsive-embed url="https://youtube.com/embed/76x6v-0zxcU" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="76x6v-0zxcU" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Today we show off the oddest Redstone issue with our second gate, spend some time futzing around trying to fix it, and then get back to the business of setting up the wall and lighting the village.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/cYd-Dj6tnWI" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="cYd-Dj6tnWI" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

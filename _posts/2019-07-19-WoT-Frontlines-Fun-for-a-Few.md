@@ -12,7 +12,7 @@ Today we remembered that Frontlines was going on this week and jumped back in fo
 
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/xc2AAa27uwE" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="xc2AAa27uwE" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

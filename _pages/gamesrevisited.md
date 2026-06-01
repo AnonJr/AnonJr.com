@@ -1,11 +1,16 @@
 ---
 title : Games Revisited
 description: "A summary of, and a rundown on all posts related to, the Games Revisited videos."
+toc: true
+toc_label: "Games Revisited"
+toc_icon: "fa-solid fa-gamepad"
+toc_sticky: true
+nav_id: gamesrevisited
 ---
 
 Games Revisited is my "Let's Play" series where I go through classic games I played in my youth (or older games I missed). The goal is a brisk pace - not a speed run. I want to enjoy the game and offer those who haven't played a good look at the story and experience.
 
-![Games Revisited Logo](/res/logo-gamesrevisited-full.png){: class="pure-img" style="margin: auto;"}
+![Games Revisited Logo](/assets/res/logo-gamesrevisited-full.png){: .align-center}
 
 Games Revisited is currently on hiatus, and will resume when various life events have finally settled. When I return I will also resume a weekly live-to-tape marathon recording session for the next week's worth of episodes on [my Twitch stream](https://www.twitch.tv/anonjr_live). (When I get back to streaming)
 

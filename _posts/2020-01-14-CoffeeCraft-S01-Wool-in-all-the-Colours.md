@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Today Medic and I got the community wool farm set up. It's a fairly simple automatic wool farm with some storage and an auto-shut off. Later we'll add a rail for re-stocking the shears.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/RcZT65Thafs" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="RcZT65Thafs" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

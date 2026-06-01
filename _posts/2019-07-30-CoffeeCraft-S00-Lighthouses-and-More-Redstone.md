@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Today we show off our new lighthouse, and wire up the redstone to turn the lights on at night. We then go over some future plans for the Iron Farm and Trading Hall.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/6cGPSSxV2Zg" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="6cGPSSxV2Zg" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

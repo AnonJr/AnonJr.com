@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Today I help Medic_FRCG troubleshoot the honey farm, laugh at Arcaidius as he attempts to get some Iron Golem heads, and Rayeste and I start planning out the Community Storage Project. It's going to be our next long-term project.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/G3_YyPSfqqM" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="G3_YyPSfqqM" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

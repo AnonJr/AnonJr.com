@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 We're continuing the look back at the "Games of My Youth", this time going through some SNES games and a fun little sojourn through the 1990's. Today we go through Illusion of Gaia. Now that I've gone through the intro to the game, I think this was the game I was trying to remember as one of the three options for Season 2&hellip; if you'd like to see it for Season 3, leave a comment below. :smiley:
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/3m-oZi4UUGg" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="3m-oZi4UUGg" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

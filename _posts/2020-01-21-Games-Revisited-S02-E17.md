@@ -13,7 +13,7 @@ We're continuing our play-through of Chrono Trigger, and today we head back to 6
 Watch live if you want to see the next 6-episode run as it's recorded. :smiley:
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/UJ5I8tXL8-o" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="UJ5I8tXL8-o" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

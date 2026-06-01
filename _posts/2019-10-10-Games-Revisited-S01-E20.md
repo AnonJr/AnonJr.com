@@ -12,7 +12,7 @@ Today we start working our way to the Star Map on Korriban - last map before we 
 <!--more-->
 
 
-{% include responsive-embed url="https://youtube.com/embed/dY7v9MADODM" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="dY7v9MADODM" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

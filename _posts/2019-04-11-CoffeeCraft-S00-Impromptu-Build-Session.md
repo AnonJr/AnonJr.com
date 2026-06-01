@@ -13,7 +13,7 @@ We were all on the server, working on various building projects&hellip; so why n
 We had a lot of fun, and a bit of an update on what everyone's working on.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/oBpiLny5XzQ" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="oBpiLny5XzQ" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

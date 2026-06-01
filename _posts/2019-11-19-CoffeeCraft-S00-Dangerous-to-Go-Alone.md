@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Today we try a different bit of redstone for the gate &hellip; and fail. So we go caving instead and have a leisurely chat.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/C3lud5Bol9c" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="C3lud5Bol9c" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

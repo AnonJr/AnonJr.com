@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 After showing off some of the odds and ends I worked on over the long weekend, I build a small bamboo farm before returning to the chapel to install some water elevators.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/OXkLioFkMXU" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="OXkLioFkMXU" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

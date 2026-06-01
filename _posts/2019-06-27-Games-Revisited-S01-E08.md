@@ -12,7 +12,7 @@ Today we check out the Yavin station, try to get our little stowaway taken care 
 <!--more-->
 
 
-{% include responsive-embed url="https://youtube.com/embed/ryl5mpCb1gI" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="ryl5mpCb1gI" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

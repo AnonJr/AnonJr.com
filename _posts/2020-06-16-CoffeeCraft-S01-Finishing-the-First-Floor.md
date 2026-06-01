@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Today we get some more work done on the first floor of our Cleric Cathedral. All 12 confessional booths are completed and ready to be occupied, the pews are in place (as is some lighting), and there's room for some decorations. We still need to finish the front, where the preacher will be; and we need to finish the door&hellip; though that might wait until we get the exterior done.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/-WHmM1usOyE" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="-WHmM1usOyE" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

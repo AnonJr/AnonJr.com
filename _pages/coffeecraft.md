@@ -1,9 +1,8 @@
 ---
 title : CoffeeCraft
 description: "A summary of, and a rundown on all posts related to, the CoffeeCraft server and videos."
+nav_id: coffeecraft
 ---
-
-![CoffeeCraft Logo](/res/logo-coffeecraft.png){: class="pure-img"}
 
 CoffeeCraft is a small, [HermitCraft](http://hermitcraft.com/)-like Minecraft server and podcast built with my sister, her husband, and a mutual friend. The four of us planned on posting weekly videos independently, a few live streams, and a few collaborative projects.
 
@@ -11,6 +10,8 @@ We're currently on hiatus. A live stream archive and other videos are over on [m
 
 More information is over at [CoffeeCraft.us](https://www.coffeecraft.us/). We are using a couple custom resource packs I developed. More available [in these articles]({% link _pages/resource-packs.md %}).
 
-## CoffeeCraft Posts
+![CoffeeCraft Logo](/assets/res/logo-coffeecraft.png){: .align-center}
+
+## CoffeeCraft (and related) Posts
 {% for post in site.tags["CoffeeCraft"] %}
  * [{{ post.title }}]({{ post.url }}) {% endfor %}

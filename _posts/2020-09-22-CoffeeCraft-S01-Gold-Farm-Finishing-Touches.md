@@ -15,7 +15,7 @@ Weird how stated goals and actual results don't always line up&hellip; at the st
  * And NaMiature's sorting system I riffed off of: <https://youtu.be/MJMveF8V6z0>
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/8Avnl-dVg7E" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="8Avnl-dVg7E" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

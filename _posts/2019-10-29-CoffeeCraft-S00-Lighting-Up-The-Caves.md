@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Today we light up the caves under the village we're rehabbing &hellip; mostly. There's a lot more cave under there than we realized.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/qAkChFq86mc" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="qAkChFq86mc" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

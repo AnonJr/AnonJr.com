@@ -23,7 +23,7 @@ Download from:
 
 You can hear some examples and get a quick run-down in the video below:
 
-{% include responsive-embed url="https://youtube.com/embed/X3CFnlJ2ebk" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="X3CFnlJ2ebk" provider="youtube" %}
 {% comment %}
 Links:
 * CoffeeCraft: <https://www.coffeecraft.us/>

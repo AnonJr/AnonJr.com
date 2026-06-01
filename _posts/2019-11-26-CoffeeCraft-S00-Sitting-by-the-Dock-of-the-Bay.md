@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Today Rayeste, Arcaidius, and I show off the work that was done over the weekend, and add a dock and a few more buildings to our ever expanding village rehab project. We might need help&hellip;
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/3n4bj0MMsks" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="3n4bj0MMsks" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

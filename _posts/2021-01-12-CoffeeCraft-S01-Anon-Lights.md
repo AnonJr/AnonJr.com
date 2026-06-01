@@ -12,7 +12,7 @@ Today I work on the lighting project Rayeste has been after me to finish for a w
 
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/haBsQXgVp8w" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="haBsQXgVp8w" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

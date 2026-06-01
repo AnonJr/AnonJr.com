@@ -1,6 +1,8 @@
 ---
 title: About
 description: "A little about me, and where to find the various things I do."
+nav_id: about
+share: false
 ---
 ## Who am I?
 

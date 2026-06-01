@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Quick update on the happenings around the server, then we prep a couple farms for the impending update and add in some other bits that have been on the drawing board. Not all the animals cooperated&hellip;
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/rs2D8bdgss4" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="rs2D8bdgss4" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

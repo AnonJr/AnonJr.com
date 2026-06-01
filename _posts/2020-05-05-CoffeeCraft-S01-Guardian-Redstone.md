@@ -15,7 +15,7 @@ While I was doing that, Arcaidius built a tunnel to the underwater wreck that Me
 Next week we'll get storage built and maybe do some work on the interior.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/cX2w2P5LLxc" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="cX2w2P5LLxc" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

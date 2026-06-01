@@ -12,7 +12,7 @@ After some audio issues in the last few streams, I made some changes to my setti
 
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/-JumDpT6c2I" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="-JumDpT6c2I" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

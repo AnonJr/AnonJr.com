@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Today we had a causal chat with the rest of the server while I did a little landscaping and planning out some upcoming builds.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/vmQ_45e52Kc" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="vmQ_45e52Kc" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

@@ -13,7 +13,7 @@ It's time for Episode 132 of Games Revisited Season 05. We're continuing our pla
 Watch live if you want to see the next 6-episode run as it's recorded. :smiley:
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/kZX6Bx9h9oU" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="kZX6Bx9h9oU" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

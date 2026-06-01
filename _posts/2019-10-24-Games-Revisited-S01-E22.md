@@ -14,7 +14,7 @@ Next week we head off for the Star Forge. There's most likely 2 to 3 more weeks 
 <!--more-->
 
 
-{% include responsive-embed url="https://youtube.com/embed/WR2pOa3ByTQ" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="WR2pOa3ByTQ" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

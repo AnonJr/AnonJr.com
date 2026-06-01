@@ -12,7 +12,7 @@ Just some friendly chatting, this time we're joined by Arcaidius in the beginnin
 
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/p3a7Ep6B9oI" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="p3a7Ep6B9oI" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

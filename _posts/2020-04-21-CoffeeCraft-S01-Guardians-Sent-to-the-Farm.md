@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 It started as a simple update to the Guardian Farm &hellip; and went steadily south from there. Maybe the next one will go better.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/D5aBpLL-I48" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="D5aBpLL-I48" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

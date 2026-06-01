@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Today Rayeste, Arcaidius, Medic, and I fixed a few issues with the pillager raid farm - it works great now! Then we went to figure out the colour palate for the outer wall on the chapel. It was &hellip; interesting. Need to fix the smelter before we can make our next steps.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/sdMKhLx9L0o" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="sdMKhLx9L0o" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

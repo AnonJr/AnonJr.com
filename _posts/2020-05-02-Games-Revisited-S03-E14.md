@@ -14,7 +14,7 @@ It's time for Episode 14 of Games Revisited Season 03. We're continuing our play
 Watch live if you want to see the next 6-episode run as it's recorded. :smiley:
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/4lKYDqAtZv4" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="4lKYDqAtZv4" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

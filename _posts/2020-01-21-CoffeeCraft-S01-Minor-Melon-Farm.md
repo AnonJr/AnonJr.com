@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Today we spend a little time making a modest melon farm, and then work on getting the landscape by my base ready to start building. Medic_FRCG is on and we have a good chat about various things when his dog isn't forcing him to mute the mic&hellip; :smiley:
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/kVL0v8uW0-g" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="kVL0v8uW0-g" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

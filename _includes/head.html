@@ -1,37 +1,29 @@
-<head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+{% assign locale = include.locale | default: site.locale %}
+<meta charset="utf-8">
 
-    <title>{{ page.title }}</title>
+{% include seo.html locale=locale %}
 
-    <!-- Generated from https://www.generateit.net/favicon/favicon.php -->
-    <link rel="shortcut icon" href="/res/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="/res/favicon.png">
-    <link rel="icon" sizes="57x57" href="/res/favicon-32x32.png">
-    <link rel="icon" sizes="57x57" href="/res/favicon-57x57.png">
-    <link rel="icon" sizes="72x72" href="/res/favicon-72x72.png">
-    <link rel="icon" sizes="76x76" href="/res/favicon-76x76.png">
-    <link rel="icon" sizes="114x114" href="/res/favicon-114x114.png">
-    <link rel="icon" sizes="120x120" href="/res/favicon-120x120.png">
-    <link rel="icon" sizes="144x144" href="/res/favicon-144x144.png">
-    <link rel="icon" sizes="152x152" href="/res/favicon-152x152.png">
+{% unless site.atom_feed.hide %}
+  <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+{% endunless %}
 
-    <meta name="msapplication-TileColor" content="#FFFFFF">
-    <meta name="msapplication-TileImage" content="/res/favicon-144x144.png">
-    <meta name="application-name" content="AnonJr.com">
+{%- comment %} https://docs.google.com/presentation/d/1rmxwWa9P6_xHqonmh5ONXRS-jPc5XKbnv99Rjkhe04s/present {% endcomment -%}
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link href="/humans.txt" rel="author" type="text/plain" />
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  {% if site.enable_copy_code_button -%}
+    window.enable_copy_code_button = true;
+  {%- endif %}
+</script>
 
-    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="RSS Feed" />
+<!-- For all browsers -->
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
 
-    <link href="https://fonts.googleapis.com/css?family=Acme|Alfa+Slab+One" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="/res/main.css" />
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/highlight.js/8.4/styles/default.min.css">
-
-    {% include opengraph.html %}
-
-    <script src="/res/html5shiv.js"></script>
-
-    {% if site.google_analytics_tracking_id %}{% include google_analytics.html %}{% endif %}
-</head>
+{% if site.head_scripts %}
+  {% for script in site.head_scripts %}
+    <script src="{{ script | relative_url }}"></script>
+  {% endfor %}
+{% endif %}

@@ -17,7 +17,7 @@ The unloading stations we looked at came from here:
 You can get quick access to live and archives, and support the channel at <http://live.anonjr.com>
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/z3ip0JWajiw" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="z3ip0JWajiw" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

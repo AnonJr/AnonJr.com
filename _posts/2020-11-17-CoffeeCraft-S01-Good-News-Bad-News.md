@@ -14,7 +14,7 @@ Bad News - the tree farm had a flaw in the blast chamber, and it caused a backlo
 
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/OEoUuhlKiQw" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="OEoUuhlKiQw" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

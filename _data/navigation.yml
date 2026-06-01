@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Games Revisited"
+    page_id: gamesrevisited
+  - title: "CoffeeCraft"
+    page_id: coffeecraft
+  - title: "Other Projects"
+    page_id: projects
+  - title: "Post History"
+    page_id: post-history
+  # - title: "Sitemap"
+  #   url: /sitemap/

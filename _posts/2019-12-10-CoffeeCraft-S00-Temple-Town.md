@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Today we do some work on our Temple Reclamation project, and chat about the season wrap up and what's next.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/nKuJwwPlPa8" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="nKuJwwPlPa8" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

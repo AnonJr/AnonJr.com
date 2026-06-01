@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Today we start Season 02! We're going to play the PC port of Chrono Trigger, a much beloved game from my SNES days back in the mid 1990's. Here's a quick run-down of the game and how Season 02 is planned to go.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/lwLhjvXrPzE" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="lwLhjvXrPzE" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

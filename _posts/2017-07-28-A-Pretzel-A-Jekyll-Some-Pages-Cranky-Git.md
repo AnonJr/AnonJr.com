@@ -13,7 +13,7 @@ At the time I was earnestly looking to ramp up and do something with the Blogger
 <!--more-->
 I've made a few halfhearted attempts to start it all back up, but as you can clearly see nothing came to much. So here we are.
 {% comment %}
-{% include responsive-embed url="https://youtube.com/embed/Tkfjrp0PNYw" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="Tkfjrp0PNYw" provider="youtube" %}
 {% endcomment %}
 <iframe width="560" height="315" src="https://youtube.com/embed/Tkfjrp0PNYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

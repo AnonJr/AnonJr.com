@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 We're doing the last week of our inter-season interlude, and it's going to be a casual play-through (well&hellip; struggle-through) of the early levels of The Lost Vikings. We'll go as far as we can and where we end is where we end.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/iPkjlbLWTmI" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="iPkjlbLWTmI" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

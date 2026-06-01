@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 We were going to finish up some lighting and detail work on the Village Rehab project, but we've all been doing a little much on it lately&hellip; so I go build a Redstone door on the Temple I'm reclaiming, using a neat video from [ThatMumboJumbo](https://youtu.be/6j63Tpwmcqk).
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/hNml0ZfgSkA" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="hNml0ZfgSkA" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

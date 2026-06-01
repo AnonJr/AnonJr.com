@@ -1,6 +1,9 @@
 ---
 title: "Curriculum Vitae"
 description: "The CV for Mark 'AnonJr' Bussell Jr."
+nav_id: cv
+share: false
+last_modified_at: 2025-11-30 20:53:00
 ---
 
 ## Summary
@@ -86,8 +89,3 @@ During my year-long semester off, I worked at Jackson Mattress Company. In my sh
 After switching to Network Administration from the "I’m not sure what I’m doing" degree program, I found my home after taking the required Intro to Programming class. It was that semester I switched to Computer Programming (and the short-lived Media Integration Technology program).
 
 My class project for Database Design and Programming was adopted by the Aquatics Department at the YMCA where I worked to track employee training, certification, and other records of note (e.g., write-ups, verbal warnings, and positive notes).
-
-
----
-
-_Last updated: 2025-11_

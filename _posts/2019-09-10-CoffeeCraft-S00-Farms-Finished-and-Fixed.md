@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Today we do a quick run around some quality-of-life type changes made on the server over the past week, and then we get to work helping Arcaidius finish the ink farm he was working on. We'd intended to fix the Iron farm at the end of the stream, but we ran out of time.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/z72R19w5GmA" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="z72R19w5GmA" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

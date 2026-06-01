@@ -13,7 +13,7 @@ repost: "" #"dev.to"
 Today we take a quick look at some updated redstone for the lighthouse, and then go on a fun trip through a bunch of old worlds and the two servers that preceded Season 00. I'll publish a cut version of the tour or re-record as Episode 01 later this week or the next.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/47kzqSx3mgg" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="47kzqSx3mgg" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

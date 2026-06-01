@@ -13,7 +13,7 @@ Today I build a Community Smelter, with 8 of each smelter in an array. It's a ri
 I also catch up on some other things that happened over the weekend. If you'd like to help keep an admin in some much needed coffee, hit up the Stream Labs donation page below.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/37Zfi9aZbYo" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="37Zfi9aZbYo" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

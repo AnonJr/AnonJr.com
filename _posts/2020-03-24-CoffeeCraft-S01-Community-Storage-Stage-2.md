@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Today we test out the multi-item storage system that I built over the weekend (Gnembon's silent system <https://youtu.be/XQCc7QywrCI>), and while Rayeste works on getting all the placeholders in place I do some more work on the clock we were having problems with last week.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/JLi2zWX3yHY" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="JLi2zWX3yHY" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

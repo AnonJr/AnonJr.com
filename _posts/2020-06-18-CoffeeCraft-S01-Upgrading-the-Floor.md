@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 No Games Revisited tonight, too tired and scattered to do it justice. So instead let's build a floor? I'd set out to finish the walls and get the space cleared for the windows&hellip; but the tired left me a little more distracted and I got completely side-tracked on the floor. Next week.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/PZgVElvp3to" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="PZgVElvp3to" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

@@ -18,7 +18,7 @@ You can download the relevant files from the Vanilla Tweaks site if you want to 
 I'm also using these [additional textures](https://vanillatweaks.net/share#Kobo6m).
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/UQWr-d83ey8" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="UQWr-d83ey8" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

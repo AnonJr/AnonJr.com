@@ -12,7 +12,7 @@ Last World of Tanks stream for a little while, need to focus on my other two a l
 
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/u4qViQ3U8m0" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="u4qViQ3U8m0" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

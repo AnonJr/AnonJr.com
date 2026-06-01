@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 We patch up a small, random issue with the Iron Farm, and then head on out to the Witch Farm to start work on a bigger, sorted storage system.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/TqE6dNDazIQ" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="TqE6dNDazIQ" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

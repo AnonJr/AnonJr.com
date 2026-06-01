@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Today we all get together and pillage as many resources from the nether as we can. The goal is to completely reset the nether right before we update to 1.16 so we can get all new terrain and stuff from the update.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/iFCNHLggiUU" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="iFCNHLggiUU" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

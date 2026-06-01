@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Now that we're on a better server, time to try our luck in the End again. Arcaidius was originally going to join, but wasn't able to.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/lcgAIKffWZs" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="lcgAIKffWZs" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

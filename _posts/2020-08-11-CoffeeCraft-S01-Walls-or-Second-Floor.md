@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Everything is working again! After a bit of ADD fueled bouncing around, we finally settle in to add the second floor to the cathedral while Rayeste works on the community storage building.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/qSfX2xXE12o" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="qSfX2xXE12o" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Back-to-back streams left this one a little more casual, and less objective directed.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/F-7BDY9EDyM" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="F-7BDY9EDyM" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

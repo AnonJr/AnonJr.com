@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 After going over some work I did over the weekend, Medic, Arcaidius, and I head to the end since we're running short on shulker shells. (I know... I forgot to put the right title card up. Long week already)
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/vW2h1_eG1U0" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="vW2h1_eG1U0" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

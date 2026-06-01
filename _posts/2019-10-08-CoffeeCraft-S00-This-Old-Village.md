@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Rayeste, Arcaidius, and I head on out to the village we initially &hellip; borrowed &hellip; a couple people from to start up the first trading hall/iron farm and we lay down the plans to completely overhaul and expand it. It's going to be amazing. :smiley:
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/RvI04n-_AyA" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="RvI04n-_AyA" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.

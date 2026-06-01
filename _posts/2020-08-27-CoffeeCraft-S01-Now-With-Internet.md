@@ -11,7 +11,7 @@ repost: "" #"dev.to"
 Now that the internet is back, we get a little more work done on the chapel walls. It's a little more chill, and mostly just me.
 <!--more-->
 
-{% include responsive-embed url="https://youtube.com/embed/ERUQMC-rZy4" ratio="16:9" extra='frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen' %}
+{% include video id="ERUQMC-rZy4" provider="youtube" %}
 
 Help out by:
  * Following on [Twtich](https://twitch.tv/AnonJr_Live), and even watching when you have time! I have my streaming schedule posted there, and I sometimes do random extras - so if you follow you'll get notified when I go live.
