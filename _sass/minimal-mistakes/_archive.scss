@@ -22,6 +22,10 @@
 .archive__item {
   position: relative;
 
+  h2 {
+    padding-bottom: 0em; // Added to remove padding from h2 in archive item title
+  }
+
   a {
     position: relative;
     z-index: 10;
@@ -125,7 +129,7 @@
 .list__item {
   .page__meta {
     margin: 0 0 4px;
-    font-size: 0.6em;
+    font-size: $type-size-6; // Old: 0.6em; Trying to harmonize meta size
   }
 }
 
