@@ -22,3 +22,11 @@ Hosted by a Christian “fellow traveler” rather than a theologian or pastor, 
 The journey begins with an introductory series, What the Bible Is, covering what the Bible is and isn't, how we got it, why we consider the text reliable, and how translation families differ. From there, we move into Genesis and continue all the way to Revelation. If you want to feel grounded, educated, and better equipped to read Scripture for yourself, you’re in the right place.
 
 The website has been started, and you can watch the progress over at [BibleByExample.com](https://www.biblebyexample.com/).
+
+---
+
+![CoffeeCraft Logo](/assets/res/logo-coffeecraft.png){: .align-center}
+
+CoffeeCraft is a small, [HermitCraft](http://hermitcraft.com/)-like Minecraft server and podcast built with my sister, her husband, and a mutual friend. The four of us planned on posting weekly videos independently, a few live streams, and a few collaborative projects.
+
+We're currently on hiatus, you can see past posts to videos and related content ont the [CoffeeCraft page]({% link _pages/coffeecraft.md %})
