@@ -42,3 +42,5 @@
     <iframe src="{{ video_src }}" title="{{ video_title }}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
   </div>
 {% endunless %}
+
+{% comment %} {% include video id="-PVofD2A9t8" provider="youtube" %} {% endcomment %}

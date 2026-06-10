@@ -1,0 +1,15 @@
+{% comment %} Usage: {% include audio caption="text" source="/dir/whatever.mp3" %} {% endcomment %}
+
+{% assign audio_caption = include.caption | default: 0 %}
+{% assign audio_src = include.source | default: 0 %}
+
+{% unless audio_src == 0 %}
+<figure>
+  <audio controls class="align-center" style="width:100%;max-width:720px;display:block;">
+    <source src="{{ audio_src }}" type="audio/mpeg" />
+  </audio>
+  {% unless audio_caption == 0 %}
+  <figcaption style="text-align:center;margin-top:0.5em;">{{ audio_caption }}</figcaption>
+  {% endunless %}
+</figure>
+{% endunless %}
