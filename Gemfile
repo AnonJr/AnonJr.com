@@ -57,7 +57,7 @@ gem "jemoji"
 
 # Redirect old URLs after moving or renaming pages.
 # https://github.com/jekyll/jekyll-redirect-from
-# gem "jekyll-redirect-from"
+gem "jekyll-redirect-from"
 
 
 #--------------------------------------------------------
