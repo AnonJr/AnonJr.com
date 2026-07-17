@@ -1,10 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
@@ -17,12 +10,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "AnonJr.com"
+#title                   : Defined in _config.dev.yml and _config.prod.yml
 title_separator          : "|"
 subtitle                 : "[Insert witty by-line here]" # site tagline that appears below site title in masthead
 name                     : "Mark Bussell Jr. (AnonJr)"
 description              : "The personal website of AnonJr"
-url                      : "https://www.anonjr.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#url                     : Defined in _config.dev.yml and _config.prod.yml; the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "AnonJr/AnonJr.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/res/500x300.png"
@@ -171,24 +164,36 @@ include:
   - .htaccess
 #  - _pages - Including this causes the _pages directory to be processed twice
 exclude:
-  - .git
+  # Environment-specific configuration
+  - _config.dev.yml
+  - _config.prod.yml
+
+  # Build caches
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+
+  # Development tooling
+  - .editorconfig
   - .gitattributes
+  - .github/
   - .gitignore
-  - .vscode
-  - CNAME
+  - .ruby-version
+  - .scripts/
+  - .vscode/
+
+  # Build dependencies
   - Gemfile
   - Gemfile.lock
-  - Rakefile
-  - misc/
-  - node_modules
-  - package-lock.json
-  - package.json
-  - readme.md
-  - staticman.yml
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+  - node_modules/
+  - vendor/
+
+  # Repository documentation
+  - LICENSE.md
+  - README.md
+
+  # Deployment
   - wrangler.toml
 
 encoding: "utf-8"
@@ -219,15 +224,15 @@ kramdown:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  # style: compressed # Defined in _config.dev.yml and _config.prod.yml; https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
   quiet_deps: true
   silence_deprecations: ['import']
 
 
 # Outputting
-permalink: /:year/:month/:title.html
-date_format: "%d %b %Y" # "%d %b %Y %H:%M" if I want to include time later
-timezone:  America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+permalink   : /:year/:month/:title.html
+date_format : "%d %b %Y" # "%d %b %Y %H:%M" if I want to include time later
+timezone    : America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
@@ -267,21 +272,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jemoji
-  - csv
-  - jekyll-redirect-from
-
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-  - jekyll-sass-converter
-  - jekyll-seo-tag
-  - jekyll-archives
-  - jemoji
-  - csv
   - jekyll-redirect-from
 
 
@@ -313,8 +303,7 @@ jekyll-archives:
     tag: /tag/:name/
 
 
-# HTML Compression
-# - https://jch.penibelst.de/
+# HTML Compression - https://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
