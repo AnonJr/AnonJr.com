@@ -1,0 +1,18 @@
+name: Build Development Site
+
+on:
+  push:
+    branches:
+      - dev
+  workflow_dispatch:
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    uses: Wayward-Son-Developers/Jekyll-Template/.github/workflows/jekyll-build.yml@main
+    with:
+      staging-cname: 'dev.anonjr.com'
+      jekyll-configs: '_config.yml,_config.dev.yml'
