@@ -1,0 +1,26 @@
+---
+layout: null
+permalink: /content_migration.xml
+published: false
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>AnonJr.com Migration Feed</title>
+    <link>{{ site.url }}</link>
+    <description>Full Archive Export for Substack</description>
+    {% for post in site.posts %}
+    <item>
+      <title>{{ post.title | xml_escape }}</title>
+      <link>{{ site.url }}{{ post.url }}</link>
+      <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+      <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+      <dc:creator>AnonJr</dc:creator>
+      <content:encoded><![CDATA[{{ post.content | absolute_urls }}]]></content:encoded>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
