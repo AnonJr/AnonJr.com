@@ -1,10 +1,13 @@
 ---
-layout: null
+layout: compress
 permalink: /content_migration.xml
-published: false
+published: true
 sitemap: false
 ---
 <?xml version="1.0" encoding="UTF-8" ?>
+
+{% capture relative_href %}href="{{ site.url }}/{% endcapture %}
+{% capture relative_src %}src="{{ site.url }}/{% endcapture %}
 
 <rss version="2.0"
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -23,12 +26,30 @@ sitemap: false
 
       <dc:creator>{% if post.author %}{{ post.author | xml_escape }}{% else %}{{ site.author.name | default: site.author | xml_escape }}{% endif %}</dc:creator>
 
+      {% for category in post.categories %}
+      <category><![CDATA[{{ category }}]]></category>
+      {% endfor %}
+
+      {% for tag in post.tags %}
+      <category><![CDATA[{{ tag }}]]></category>
+      {% endfor %}
+
+      {% assign absolute_excerpt = post.excerpt
+        | replace: 'href="/', relative_href
+        | replace: 'src="/', relative_src
+      %}
+
       <description><![CDATA[
-        {{ post.excerpt }}
+        {{ absolute_excerpt }}
       ]]></description>
 
+      {% assign absolute_content = post.content
+        | replace: 'href="/', relative_href
+        | replace: 'src="/', relative_src
+      %}
+
       <content:encoded><![CDATA[
-        {{ post.content | absolute_urls }}
+        {{ absolute_content }}
         <hr>
         <p><em>Originally published at <a href="{{ post.url | absolute_url }}">AnonJr.com</a>, the canonical home of my writing.</em></p>
       ]]></content:encoded>
