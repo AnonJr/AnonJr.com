@@ -4,34 +4,36 @@ permalink: /content_migration.xml
 published: false
 sitemap: false
 ---
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ site.locale }}">
-  <title>{{ site.title | xml_escape }}</title>
-  <subtitle>{{ site.description | xml_escape }}</subtitle>
-  <id>{{ site.url }}/</id>
-  <updated>{{ site.time | date_to_xmlschema }}</updated>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <link>{{ site.url }}</link>
+    <description>{{ site.description | xml_escape }}</description>
 
-  {% for post in site.posts %}
-  <entry>
-    <title>{{ post.title | xml_escape }}</title>
-    <link href="{{ post.url | absolute_url }}" rel="alternate"/>
-    <id>{{ post.url | absolute_url }}</id>
-    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    {% for post in site.posts %}
+    <item>
+      <title>{{ post.title | xml_escape }}</title>
+      <link>{{ post.url | absolute_url }}</link>
+      <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 
-    <content type="html">
-      <![CDATA[
+      <dc:creator>{% if post.author %}{{ post.author | xml_escape }}{% else %}{{ site.author.name | default: site.author | xml_escape }}{% endif %}</dc:creator>
+
+      <description><![CDATA[
+        {{ post.excerpt }}
+      ]]></description>
+
+      <content:encoded><![CDATA[
         {{ post.content | absolute_urls }}
         <hr>
         <p><em>Originally published at <a href="{{ post.url | absolute_url }}">AnonJr.com</a>, the canonical home of my writing.</em></p>
-      ]]>
-    </content>
+      ]]></content:encoded>
+    </item>
+    {% endfor %}
 
-    <author>
-      <name>{% if post.author %}{{ post.author | xml_escape }}{% else %}{{ site.author.name | xml_escape }}{% endif %}</name>
-    </author>
-
-  </entry>
-  {% endfor %}
-
-</feed>
+  </channel>
+</rss>
