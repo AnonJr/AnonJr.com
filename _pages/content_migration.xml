@@ -38,7 +38,7 @@ sitemap: false
       {{ post.content | absolute_urls | xml_escape }}
       &lt;hr&gt;
       &lt;p&gt;&lt;em&gt;Originally published at
-      &lt;a href="{{ post.url | absolute_url }}"&gt;AnonJr.com&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+      &lt;a href="{{ post.url | absolute_url }}"&gt;AnonJr.com&lt;/a&gt;, the canonical home of my writing.&lt;/em&gt;&lt;/p&gt;
     </content>
 
     {% if post.author %}
