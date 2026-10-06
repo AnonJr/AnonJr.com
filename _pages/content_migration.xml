@@ -6,7 +6,7 @@ sitemap: false
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ site.locale | default: 'en' }}">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ site.locale }}">
   <title>{{ site.title | xml_escape }}</title>
   <subtitle>{{ site.description | xml_escape }}</subtitle>
   <id>{{ site.url }}/</id>
@@ -15,18 +15,22 @@ sitemap: false
   {% for post in site.posts %}
   <entry>
     <title>{{ post.title | xml_escape }}</title>
-    <link href="{{ post.url | absolute_url }}" />
+    <link href="{{ post.url | absolute_url }}" rel="alternate"/>
     <id>{{ post.url | absolute_url }}</id>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
 
-    <summary type="html">{{ post.excerpt | strip_html | xml_escape }}</summary>
-
-    {% capture post_body %}{{ post.content | absolute_urls }}<hr><p><em>Originally published at <a href="{{ post.url | absolute_url }}">AnonJr.com</a>, the canonical home of my writing.</em></p>{% endcapture %}
-    <content type="html">{{ post_body | xml_escape }}</content>
+    <content type="html">
+      <![CDATA[
+        {{ post.content | absolute_urls }}
+        <hr>
+        <p><em>Originally published at <a href="{{ post.url | absolute_url }}">AnonJr.com</a>, the canonical home of my writing.</em></p>
+      ]]>
+    </content>
 
     <author>
-      <name>{% if post.author %}{{ post.author | xml_escape }}{% else %}{{ site.author.name | default: site.author | xml_escape }}{% endif %}</name>
+      <name>{% if post.author %}{{ post.author | xml_escape }}{% else %}{{ site.author.name | xml_escape }}{% endif %}</name>
     </author>
+
   </entry>
   {% endfor %}
 
