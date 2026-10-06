@@ -6,51 +6,27 @@ sitemap: false
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ site.locale }}">
-
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ site.locale | default: 'en' }}">
   <title>{{ site.title | xml_escape }}</title>
   <subtitle>{{ site.description | xml_escape }}</subtitle>
-
-  <link href="{{ site.url }}/content_migration.xml" rel="self"/>
-  <link href="{{ site.url }}/"/>
-
   <id>{{ site.url }}/</id>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-
-  <author>
-    <name>{{ site.author.name | default: site.author | xml_escape }}</name>
-  </author>
 
   {% for post in site.posts %}
   <entry>
     <title>{{ post.title | xml_escape }}</title>
-
-    <link href="{{ post.url | absolute_url }}"/>
+    <link href="{{ post.url | absolute_url }}" />
     <id>{{ post.url | absolute_url }}</id>
-
     <updated>{{ post.date | date_to_xmlschema }}</updated>
 
-    <summary type="html">
-      {{ post.excerpt | strip_html | xml_escape }}
-    </summary>
+    <summary type="html">{{ post.excerpt | strip_html | xml_escape }}</summary>
 
-    <content type="html">
-      {{ post.content | absolute_urls | xml_escape }}
-      &lt;hr&gt;
-      &lt;p&gt;&lt;em&gt;Originally published at
-      &lt;a href="{{ post.url | absolute_url }}"&gt;AnonJr.com&lt;/a&gt;, the canonical home of my writing.&lt;/em&gt;&lt;/p&gt;
-    </content>
+    {% capture post_body %}{{ post.content | absolute_urls }}<hr><p><em>Originally published at <a href="{{ post.url | absolute_url }}">AnonJr.com</a>, the canonical home of my writing.</em></p>{% endcapture %}
+    <content type="html">{{ post_body | xml_escape }}</content>
 
-    {% if post.author %}
     <author>
-      <name>{{ post.author | xml_escape }}</name>
+      <name>{% if post.author %}{{ post.author | xml_escape }}{% else %}{{ site.author.name | default: site.author | xml_escape }}{% endif %}</name>
     </author>
-    {% else %}
-    <author>
-      <name>{{ site.author.name | default: site.author | xml_escape }}</name>
-    </author>
-    {% endif %}
-
   </entry>
   {% endfor %}
 
