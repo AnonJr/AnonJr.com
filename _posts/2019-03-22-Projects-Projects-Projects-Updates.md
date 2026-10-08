@@ -3,11 +3,11 @@ title: "Update on Projects Projects Projects"
 description: "Brief status update on the various projects I mentioned last year, and why my last post was back in November."
 date: 2019-03-23 22:30:00
 tags:
-- programming
-- projects
+- Programming
+- Projects
 - CoffeeCraft
 - d20-Project
-- bible-by-example
+- Bible By Example
 ---
 
 Last November I posted about some [ongoing projects]({% post_url 2018-11-02-Projects-Projects-Projects %}), went through through the various projects and gave a bit of a status report on them, and I mentioned my goals moving forward. Today's going to be a breakdown of what happened between then and now, and what's in store for the future.

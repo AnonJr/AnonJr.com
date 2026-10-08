@@ -3,12 +3,12 @@ title: "Alive and Well&hellip; Mostly"
 description: "A long overdue explainer on my absence and what's coming up."
 date: 2025-12-02 17:45:00
 tags:
-- meta
-- programming
-- projects
+- Meta
+- Programming
+- Projects
 - CoffeeCraft
 - d20-Project
-- bible-by-example
+- Bible By Example
 repost: "" #"dev.to"
 last_modified_at: 2026-08-21 11:45:00
 ---

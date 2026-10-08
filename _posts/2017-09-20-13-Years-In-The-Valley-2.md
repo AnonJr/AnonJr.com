@@ -3,8 +3,8 @@ title: "Retrospective: 13 Years in the Valley, Part 2"
 description: "A lot of life has been happening, and it seems maybe I need a little perspective - and so this 'retrospective'. Part 2."
 date: 2017-09-20 12:30:00
 tags:
-- meta
-- programming
+- Meta
+- Programming
 ---
 
 A lot of life has been happening, and it seems maybe I need a little perspective - and so this "retrospective".

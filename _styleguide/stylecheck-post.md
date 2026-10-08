@@ -5,8 +5,8 @@ date: 2017-09-28 12:20:00
 layout: single
 comments: true
 tags:
-- programming
-- meta
+- Programming
+- Meta
 permalink: /styleguide/stylecheck-post.html
 ---
 

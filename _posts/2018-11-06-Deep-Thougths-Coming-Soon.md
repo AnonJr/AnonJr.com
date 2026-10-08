@@ -3,7 +3,7 @@ title: "Deep Thoughts Coming Soon"
 description: "&hellip;it's a low-energy day. But I still posted something."
 date: 2018-11-06 22:30:00
 tags:
-- meta
+- Meta
 - NaNoWriMo
 ---
 

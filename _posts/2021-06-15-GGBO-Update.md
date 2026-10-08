@@ -5,7 +5,7 @@ date: 2021-06-15 20:00:00
 tags:
 - Great Guitar Build Off
 - Luthiery
-- projects
+- Projects
 repost: "" #"dev.to"
 ---
 

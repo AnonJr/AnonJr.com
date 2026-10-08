@@ -3,8 +3,8 @@ title: "In Defence of Almost NaNoWriMo"
 description: "Reflecting on some comments, and defending the core concept of daily writting."
 date: 2018-11-05 22:30:00
 tags:
-- meta
-- programming
+- Meta
+- Programming
 - NaNoWriMo
 repost: "dev.to"
 ---

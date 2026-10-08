@@ -3,8 +3,8 @@ title: "Programming Bits from Recent Projects"
 description: "Reviewing the work on recent projects, and noticing a few things."
 date: 2019-03-24 23:30:00 -0400
 tags:
-- meta
-- programming
+- Meta
+- Programming
 - CoffeeCraft
 repost: "dev.to"
 ---

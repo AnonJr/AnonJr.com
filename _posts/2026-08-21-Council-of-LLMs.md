@@ -3,9 +3,9 @@ title: AI and my Council of LLMs
 description: There's been a lot of chatter about 'AI' use and LLMs and I wanted to stake out what I am and am not doing, as well as some opinions on the current discussions.
 date: 2026-08-21 14:00
 tags:
-    - meta
-    - programming
-    - projects
+    - Meta
+    - Programming
+    - Projects
 repost: ""
 ---
 

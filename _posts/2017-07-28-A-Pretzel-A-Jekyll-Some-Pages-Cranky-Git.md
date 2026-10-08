@@ -3,8 +3,8 @@ title: "A Pretzel, A Jekyll, Some Pages, and a Cranky Git"
 description: "Restarting some projects, and building some sites using Jekyll, Pretzel, and GitHub Pages."
 date: 2017-07-28 13:00:00
 tags:
-- meta
-- projects
+- Meta
+- Projects
 ---
 
 Don't mind the dust, and sorry about the cobwebs&hellip; To say it's been a while would be something of an understatement since the last post is from 2013.

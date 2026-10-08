@@ -3,9 +3,9 @@ title: Keeping a good thing going
 description: "Taking over a new (for me) project."
 date: 2013-06-14 20:53:00
 tags:
-- programming
-- asp-ajaxed
-- projects
+- Programming
+- ASP-Ajaxed
+- Projects
 ---
 
 I do a lot of Classic ASP/VBScript programming - It's what my bread-winning project is built in, it's what my side projects are built in, it's what Snitz Forums (a FLOSS project I help with) is written in.

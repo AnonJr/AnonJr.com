@@ -3,8 +3,8 @@ title: New Year, New Projects, New Blog
 description: "Re-starting my blog&hellip; pay no attention to the dust."
 date: 2013-06-14 20:42:00
 tags:
-- meta
-- projects
+- Meta
+- Projects
 ---
 
 Well&hellip; the last part is a bit of a stretch. I've had this account for quite some time.

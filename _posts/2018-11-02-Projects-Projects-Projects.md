@@ -4,12 +4,12 @@ description: "Going through the various projects and giving a bit of a status re
 date: 2018-11-02 22:30:00
 tags:
 - NaNoWriMo
-- programming
-- projects
-- asp-ajaxed
+- Programming
+- Projects
+- ASP-Ajaxed
 - CoffeeCraft
 - d20-Project
-- bible-by-example
+- Bible By Example
 repost: "dev.to"
 ---
 

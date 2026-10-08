@@ -3,7 +3,7 @@ title: "Post Title"
 description: "Post Summary"
 date: 2018-11-07 22:30:00
 tags:
-- meta
+- Meta
 - NaNoWriMo
 repost: "" #"dev.to"
 # last_modified_at:

@@ -3,8 +3,8 @@ title: "Special Feed for Dev.to"
 description: "Built a special RSS feed for the posts I want to send over to Dev.to"
 date: 2018-11-04 22:30:00
 tags:
-- meta
-- programming
+- Meta
+- Programming
 repost: "dev.to"
 ---
 

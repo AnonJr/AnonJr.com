@@ -4,7 +4,7 @@ description: "I've got an old Mitchell Uke that needed a little care, and I need
 date: 2021-02-25 20:00:00
 tags:
 - Luthiery
-- projects
+- Projects
 repost: "" #"dev.to"
 ---
 
