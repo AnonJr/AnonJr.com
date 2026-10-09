@@ -6,3 +6,4 @@ Nano
 Suno
 Lyria
 Wookiee
+peshat

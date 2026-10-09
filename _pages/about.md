@@ -5,7 +5,7 @@ nav_id: about
 share: false
 ---
 
-I absolutely hate filling out "about" pages and various profiles. I never know what to put. I do know I won't succumb to the usual "speak about myself in the 3rd person" style of entry.
+![Avatar](/assets/res/avatar-apron.png){: .align-left} I absolutely hate filling out "about" pages and various profiles. I never know what to put. I do know I won't succumb to the usual "speak about myself in the 3rd person" style of entry.
 
 Do I put what I do here? I'm more than my job.
 
