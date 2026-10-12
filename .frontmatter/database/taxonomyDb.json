@@ -2,7 +2,10 @@
   "taxonomy": {
     "categories": [],
     "tags": [
+      "ASP-Ajaxed",
       "Alt-F4",
+      "Bible By Example",
+      "Burnout",
       "Chrono Trigger",
       "CoffeeCraft",
       "Crystalis",
@@ -12,10 +15,13 @@
       "Interludes",
       "Lord of the Rings: War in the North",
       "Luthiery",
+      "Meta",
       "Minecraft",
       "NaNoWriMo",
       "Portal",
       "Portal 2",
+      "Programming",
+      "Projects",
       "Resource Packs",
       "Star Wars Knights of the Old Republic II",
       "Star Wars: Knights of the Old Republic",
@@ -25,13 +31,7 @@
       "Trine 2: The Complete Story",
       "Trine: Enchanted Edition",
       "World of Tanks",
-      "asp-ajaxed",
-      "bible-by-example",
-      "burnout",
       "d20-Project",
-      "meta",
-      "programming",
-      "projects",
       "religion"
     ]
   }
