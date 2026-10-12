@@ -4,7 +4,9 @@ description: "I've branched out into various voice work. I've done eLearning int
 nav_id: voicework
 ---
 
-[ACX Profile][1] \| [LibriVox Profile][2]
+![Avatar](/assets/res/avatar-home.png)
+
+[ACX Profile][1] | [LibriVox Profile][2]
 
 My voice is a resonant baritone -- calm, conversational, and approachable, with a measured pace and strong focus on clarity.
 
@@ -22,7 +24,6 @@ My natural inclination is to dry wit and understated humor, which is why I parti
    source=narration_sample
 %}
 
-
 I am equally comfortable with instructional and training material, including academic coursework, medical and technical explainers, and corporate learning content.
 
 <!-- Insert Demo: eLearning -->
@@ -36,7 +37,6 @@ In addition to non-fiction narration, I also enjoy recording children's stories 
    caption="A Son of Adam - Mr. E. Sidney Hartland"
    source=story_sample
 %}
-
 
 [1]: https://www.acx.com/narrator?p=A3F8SIKBCPHKOQ
 [2]: https://librivox.org/reader/20637
