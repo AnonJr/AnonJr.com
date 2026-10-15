@@ -10,13 +10,13 @@ tags:
 repost: ""
 ---
 
-![Hello Substack](/assets/img/2026-10-15_HelloSubstack.svg)
-
 Hello Substack! After spending a fair amount of time lurking on Substack, and trying to figure out what's next for AnonJr.com, I've decided to mirror past and future content. It's not a move - I firmly believe in retaining final ownership of your content and keeping it in a place you control. [AnonJr.com][1] will remain the canonical home of my writing, videos, etc.
 
-The [AnonJr Substack][2] will now hold a copy so that I can add support for [Games Revisited][3] and other projects as well as allowing for comments, discussion, and (hopefully) better circulation.
-
 <!--more-->
+
+![Hello Substack](/assets/img/2026-10-15_HelloSubstack.svg)
+
+The [AnonJr Substack][2] will now hold a copy so that I can add support for [Games Revisited][3] and other projects as well as allowing for comments, discussion, and (hopefully) better circulation.
 
 I plan on doing some proper writing again, so look for stuff on programming and tech, guitars and luthiery, and some writing on faith. I'm sure I should be siloing those out to separate Substacks for maximal subscribership, but I think we lose something in discouraging authors from showing their wider interests.
 
