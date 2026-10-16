@@ -3,7 +3,7 @@
     {% include audio.html id="AUDIO_ID" provider="PROVIDER" title="TITLE" file="FILE" %}
   Parameters:
     - id: The audio ID (required)
-    - provider: The audio provider (required, one of "archive_org", "rss_com")
+    - provider: The audio provider (required, one of "archive_org", "rss_com", "google-drive")
     - file: The audio file name (optional, only used for Archive.org)
     - title: The audio title (optional, defaults to a generic title based on the provider)
 {% endcomment %}

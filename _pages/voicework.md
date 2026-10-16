@@ -19,10 +19,12 @@ My natural inclination is to dry wit and understated humor, which is why I parti
 {% capture narration_sample %}{% link downloads/LibriVox-On_The_Decay_of_the_Art_of_Lying-PreMaster-128kb.mp3 %}{% endcapture %}
 {% assign narration_sample = narration_sample | strip | absolute_url %}
 
-{% include audio
-   caption="On the Decay of the Art of Lying - Mark Twain"
-   source=narration_sample
-%}
+<figure>
+  <audio controls class="align-center" style="width:100%;max-width:720px;display:block;">
+    <source src="{{ narration_sample }}" type="audio/mpeg" />
+  </audio>
+  <figcaption style="text-align:center;margin-top:0.5em;">On the Decay of the Art of Lying - Mark Twain</figcaption>
+</figure>
 
 I am equally comfortable with instructional and training material, including academic coursework, medical and technical explainers, and corporate learning content.
 
@@ -33,10 +35,12 @@ In addition to non-fiction narration, I also enjoy recording children's stories 
 {% capture story_sample %}{% link downloads/LibriVox-Son_of_Adam-128kb.mp3 %}{% endcapture %}
 {% assign story_sample = story_sample | strip | absolute_url %}
 
-{% include audio
-   caption="A Son of Adam - Mr. E. Sidney Hartland"
-   source=story_sample
-%}
+<figure>
+  <audio controls class="align-center" style="width:100%;max-width:720px;display:block;">
+    <source src="{{ story_sample }}" type="audio/mpeg" />
+  </audio>
+  <figcaption style="text-align:center;margin-top:0.5em;">A Son of Adam - Mr. E. Sidney Hartland</figcaption>
+</figure>
 
 [1]: https://www.acx.com/narrator?p=A3F8SIKBCPHKOQ
 [2]: https://librivox.org/reader/20637
