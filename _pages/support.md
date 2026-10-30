@@ -5,6 +5,7 @@ toc: true
 toc_label: "Support"
 toc_sticky: true
 permalink: "/support.html"
+nav_id: support
 ---
 
 A worker is worth their wage. I leave it to you to decide what this work is worth.

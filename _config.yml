@@ -151,7 +151,7 @@ author:
       url                : "https://x.com/AnonJr/"
     - label              : "Support"
       icon               : "fa-solid fa-gift"
-      url                : "https://streamlabs.com/anonjr_live"
+      page_id            : support
 
 # Site Footer
 footer:
