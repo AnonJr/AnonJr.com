@@ -12,7 +12,7 @@ A worker is worth their wage. I leave it to you to decide what this work is wort
 
 Every article, every [Games Revisited]({% link _pages/gamesrevisited.md %}) episode, and every [CoffeeCraft]({% link _pages/coffeecraft.md %}) episode is freely available. My goal is to keep my work as free of intrusive advertising, paid promotion, and sponsorships as possible, wherever the platforms I use allow it.
 
-AnonJr is a [Wayward Son Developers](https://www.waywardsondevelopers.com/) project. Your payment receipt may list Wayward Son Developers or an abbreviated version of that name.
+AnonJr.com is a [Wayward Son Developers](https://www.waywardsondevelopers.com/) project. Your payment receipt may list Wayward Son Developers or an abbreviated version of that name.
 {: .notice--warning}
 
 ## Subscribe via Substack
